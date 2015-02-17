@@ -1,16 +1,3 @@
 ---
 layout: apache
 ---
-Redirect 301 /interior-design/wohnung/zimt-kardamom-und-vanille/interior.html http://acherno.de/interior-design/wohnung/kardamon-vanille-zimt/inneneinrichtung.html
-Redirect 301 /interior-design/wohnung/aero-shokolade/interior.html http://acherno.de/interior-design/wohnung/aero-luftschokolade/interior-design.html
-Redirect 301 /interior/häuser-und-wohnungen.html http://acherno.de/inneneinrichtung/haus-wohnung.html
-Redirect 301 /interior-design/wohnung/orangen-süß/interior.html http://acherno.de/interior-design/wohnung/eleganze-in-orange/inneneinrichtung.html
-Redirect 301 /interior-design/wohnung/beton-ziegel-und-eisen/interior.html http://acherno.de/interior-design/wohnung/stahl-ziegel-beton/innenausstattung.html
-Redirect 301 /interior-design/wohnung/die-schatzinsel/interior.html http://acherno.de/interior-design/wohnung/die-schatzinsel/innenausstattung.html
-Redirect 301 /interior-design/laden/purpursant/interior.html http://acherno.de/interior-design/laden/purpur-samt/inneneinrichtung.html
-Redirect 301 /interior-design/wohnung/aristokratisch–künstlerisch/interior.html http://acherno.de/interior-design/wohnung/k%C3%BCnstlerische-aristokratie/interior.html
-Redirect 301 /preis/wohnunginnenausbau.html http://acherno.de/preis/inneneinrichtung-wohnung.html
-Redirect 301 /interior-design/bar/zigarren-Bar/interior.html http://acherno.de/interior-design/bar/zigarrenlounge/interior-design.html
-Redirect 301 /interior-design/haus/zwischen-dem-gebirge-und-der-stadt/panorama/panorama-des-badezimmers.html http://acherno.de/interior-design/haus/zwischen-stadt-und-land/panorama/panorama-des-badezimmers.html
-Redirect 301 /interior-design/wohnung/zen/interior.html http://acherno.de/interior-design/wohnung/zen/wohndesign.html
-
