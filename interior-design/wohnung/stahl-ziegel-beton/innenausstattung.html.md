@@ -1,4 +1,6 @@
 ---
+todo: 
+  - 'Не е добавен във Facebook'
 layout: project
 rel: '/projects/private/concrete-brick-and-iron'
 order: 7

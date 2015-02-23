@@ -1,4 +1,6 @@
 ---
+todo: 
+  - 'Не е добавен във Facebook'
 layout: project
 rel: '/projects/private/everything-has-its-history'
 order: 11

@@ -1,4 +1,6 @@
 ---
+todo: 
+  - 'Не е добавен във Facebook'
 layout: project
 rel: '/projects/public/on-the-roof-of-the world' 
 order: 52

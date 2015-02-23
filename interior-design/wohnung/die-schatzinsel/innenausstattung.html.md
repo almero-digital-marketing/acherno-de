@@ -1,7 +1,7 @@
 ---
 todo:
   - 'Липсва превод на въвеждащ текст'
-
+  - 'Не е добавен във Facebook'
 layout: project
 rel: '/projects/private/treasure-island'
 order: 7
