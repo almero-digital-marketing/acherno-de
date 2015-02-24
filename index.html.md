@@ -20,7 +20,7 @@ facebook:
 copyright:
   acherno: '(Acherno) GmbH © 2007-2014|(Alle Rechte vorbehalten)'
   almero: 
-    title: '(Digital Marketing) und|(Geschäfts) entwicklung'
+    title: '(Online Marketing) und|(Business) Entwicklung'
     url: http://almero.com
 slogan: '<Beeindruckende><Design><und Fein><Leistung>'
 ---
