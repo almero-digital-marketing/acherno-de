@@ -1,4 +1,7 @@
 # Inneneinrichtung, Haus, Wohnung, Büro, Hotel, Restaurant
+[![Build Status](http://dev.almero.pro/acherno.de/status/build.svg)](http://dev.almero.pro/acherno.de)
+[![Published](http://acherno.de/status/published.svg)](http://acherno.de)
+
 Für uns ist das Interior Design nicht nur eine Dienstleistung, sondern ein komplexer Prozess, an dessen Ende eine perfekte Umsetzung Ihres Wohntraums steht. Unsere langjährige Erfahrung in Design, Planung und Realisierung ist unsere Garantie für ein Gelingen.
 
 Unser Team besteht aus erfahrenen Fachleuten. Die Montageteams und die Lieferanten, mit denen wir arbeiten, haben sich bei der Realisierung zahlreichen Projekte bewiesen. Falls  Sie uns die Erstellung des Konzepts und die Erarbeitung der vollständigen Innenausstattung Ihrer Wohnung anvertrauen, bekommen Sie mit Sicherheit ein Höchstmaß  an Qualität und sparen gleichzeitig viel Zeit, Aufwand und Geld.
