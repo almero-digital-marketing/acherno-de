@@ -1,5 +1,6 @@
 ---
 layout: projects
+referencesOthers: true
 rel: '/projects/private'
 title: 'Inneneinrichtung (Wohnung)'
 subtitle: '(Haus) und (Wohnung)'

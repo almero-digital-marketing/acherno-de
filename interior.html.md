@@ -1,5 +1,6 @@
 ---
 layout: projects-private-public
+referencesOthers: true
 rel: '/projects'
 title: '[Realisierte] (Projekte)'
 subtitle: 'Im öffentlichen und privaten Bereich'

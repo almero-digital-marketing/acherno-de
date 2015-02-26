@@ -1,5 +1,6 @@
 ---
 layout: service
+referencesOthers: true
 rel: '/services/design'
 parent: '/home'
 title: '(Innenausstattung)'

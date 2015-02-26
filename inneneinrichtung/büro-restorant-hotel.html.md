@@ -1,5 +1,6 @@
 ---
 layout: projects
+referencesOthers: true
 rel: '/projects/public'
 title: '(Öffentlicher) Raum'
 subtitle: '(Büro), (Laden), (Clubs) und (Hotels)'

@@ -1,5 +1,6 @@
 ---
 layout: conversion
+referencesOthers: true
 rel: '/price/conversion'
 title: 'Ihre Anfrage war erfolgreich!'
 subtitle: 'Vielen Dank!'

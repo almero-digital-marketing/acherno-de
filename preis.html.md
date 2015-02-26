@@ -1,5 +1,6 @@
 ---
 layout: price
+referencesOthers: true
 rel: '/price'
 title: '(Preisanfrage)'
 subtitle: 'Für Wohn- oder öffentliche Inneneinrichtung '
