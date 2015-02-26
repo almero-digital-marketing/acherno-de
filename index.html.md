@@ -1,5 +1,6 @@
 ---
 layout: index
+referencesOthers: true
 rel: '/home'
 title: '(Interior Design)'
 breadcrumbTitle: 'Interior Design'
