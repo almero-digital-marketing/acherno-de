@@ -81,7 +81,7 @@ rooms:
     project: 'http://hub.acherno.com/svn/mezhdu-planinata-i-grada/Site/3D/20-3d.jpg'
     final: 'http://hub.acherno.com/svn/mezhdu-planinata-i-grada/Site/Finalni/20-snimka.jpg'
   -
-    title: 'Einrichtung von begehbarem (Kleiderschrank)'
+    title: 'Begehbarem (Kleiderschrank)'
     description: 'Der begehbare Kleiderschank - ein Muss für dieses Haus. Alles befindet sich griffbereit an seinem Platz. Krawatten und Uhren sind ordentlich in der Glasvitrine verstaut und vermitteln dir den Eindruck dich jeden Morgen neu in einer schicken Boutique einzukleiden. '
     pageLayout: 9
     project: 'http://hub.acherno.com/svn/mezhdu-planinata-i-grada/Site/3D/26-3d.jpg'
