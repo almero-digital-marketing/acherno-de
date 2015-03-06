@@ -19,7 +19,7 @@ facebook:
   description: 'Sehen Sie sich Bilder von internationalen Ausstellungen an, kommentieren Sie unsere Projekte oder suchen Sie nach neuen.'
   url: 'http://www.facebook.com/acherno.interior.design'
 copyright:
-  acherno: '(Acherno) GmbH © 2007-2014|(Alle Rechte vorbehalten)'
+  acherno: '(Acherno) GmbH © 2007-2015|(Alle Rechte vorbehalten)'
   almero: 
     title: '(Online Marketing) und|(Business) Entwicklung'
     url: http://almero.com
