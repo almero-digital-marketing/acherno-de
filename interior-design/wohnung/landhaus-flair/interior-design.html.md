@@ -8,7 +8,7 @@ design: '(Unübliche Formen) mit Landhausaustrahlung '
 project: 'Landhaus Flair'
 price: 65
 title: '[Inneneinrichtung Apartment] (Landhaus Flair)'
-subtitle: 'Moderne (Inneneinrichtung Apartment)'
+subtitle: 'Modernes (Interior Design)'
 description: 'Eine Wohnung, die sehr unübliche Formen hat. Die Klienten gaben diesem Projekt den netten Namen „ Die zwei rechten Winkel“ vollkommen zu Recht.'
 image: 'http://hub.acherno.com/svn/bohemski/Site/Finalni/ach%20(18)b.jpg'
 rooms:
