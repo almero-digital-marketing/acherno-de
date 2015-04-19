@@ -6,7 +6,7 @@ rel: '/projects/private/aristocratic-artistic'
 order: 5
 coverLayout: 3
 price: 75
-design: 'Kolonialstill'
+design: 'Kolonialstil'
 price: 75
 featured: true
 project: 'Künstlerische Aristokratie'
