@@ -7,7 +7,7 @@ design: '(Modernes und behagliches) Wohndesign'
 project: 'Liebe das Leben'
 featured: true
 title: '[Inneneinrichtung Stadtvilla] (Liebe das Leben)'
-description: 'Die Stadtvilla - ein zwei stöckiges, großzügiges Haus mit Rückzugsmöglichkeiten für jeden. Unten -ein großer Wohnbereich mit Küche, Esszimmer, Badezimmer und Garderobe, sowie einer kleinen Gästetoilette. Oben - zwei Apartmentstudios mit eigenem Bad.'
+description: 'Die Stadtvilla - ein zwei stöckiges, großzügiges Haus mit Rückzugsmöglichkeiten für jeden. Unten - ein großer Wohnbereich mit Küche, Esszimmer, Badezimmer und Garderobe, sowie einer kleinen Gästetoilette. Oben - zwei Apartmentstudios mit eigenem Bad.'
 image: 'http://hub.acherno.com/svn/obichay-zhivota/Site/Finalni/ach_%20(41).jpg'
 rooms:
   -
@@ -54,7 +54,7 @@ rooms:
     final: 'http://hub.acherno.com/svn/obichay-zhivota/Site/Finalni/ach_%20(11).jpg'
   -
     title: 'Interior Design (Wohnzimmer)'
-    description: 'Ein modern und geschmackvoll eingerichtetes Wohnzimmer in den Trendfarben mint, grau und khaki. Hier findest du nach der Arbeit, die Zeit für einen guten Roman oder einen spannenden Film. '
+    description: 'Ein modern und geschmackvoll eingerichtetes Wohnzimmer in den Trendfarben Mint, Grau und Khaki. Hier findest du nach der Arbeit, die Zeit für einen guten Roman oder einen spannenden Film. '
     pageLayout: 4
     project: 'http://hub.acherno.com/svn/obichay-zhivota/Site/3D/39-h2_f.jpg'
     final: 'http://hub.acherno.com/svn/obichay-zhivota/Site/Finalni/ach_%20(15).jpg'
@@ -92,4 +92,4 @@ constructions:
 facebook:
   project: '10152320751224479'
 ---
-Die Stadtvilla - ein zwei stöckiges, großzügiges Haus mit Rückzugsmöglichkeiten für jeden. Unten -ein großer Wohnbereich mit Küche, Esszimmer, Badezimmer und Garderobe, sowie einer kleinen Gästetoilette. Oben - zwei Apartmentstudios mit eigenem Bad.
+Die Stadtvilla - ein zwei stöckiges, großzügiges Haus mit Rückzugsmöglichkeiten für jeden. Unten - ein großer Wohnbereich mit Küche, Esszimmer, Badezimmer und Garderobe, sowie einer kleinen Gästetoilette. Oben - zwei Apartmentstudios mit eigenem Bad.
