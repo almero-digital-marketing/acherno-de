@@ -64,7 +64,7 @@ rooms:
     final: 'http://hub.acherno.com/svn/mezhdu-planinata-i-grada/Site/Finalni/30-snimka.jpg'
   -
     title: 'Innenausstattung  von (Gäste Toilette)'
-    description: 'Dezent und trotzdem stillvoll präsentiert sich unsere Gästetoillete.'
+    description: 'Dezent und trotzdem stilvoll präsentiert sich unsere Gästetoillete.'
     pageLayout: 8
     project: 'http://hub.acherno.com/svn/mezhdu-planinata-i-grada/Site/3D/14-b_f.jpg'
     final: 'http://hub.acherno.com/svn/mezhdu-planinata-i-grada/Site/Realizacia/50.jpg'
