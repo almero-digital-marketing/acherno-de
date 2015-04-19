@@ -7,7 +7,7 @@ order: 7
 coverLayout: 6
 featured: true
 price: 50
-design: '(Moderne und stillvolle) Innenausstattung'
+design: '(Moderne und stilvolle) Innenausstattung'
 project: 'Zimt, Vanille, Kardamom'
 title: 'Inneneinrichtung Wohnung (Zimt, Vanille, Kardamom)'
 subtitle: 'Harmonische Farbgebung'
