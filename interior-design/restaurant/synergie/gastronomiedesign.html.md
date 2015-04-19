@@ -16,7 +16,7 @@ image: 'http://hub.acherno.com/svn/sblasaka-na-dva-svyata/Site/3D/04_f.jpg'
 rooms:
   -
     title: '(Gastronomiedesign)'
-    description: 'Das erste Geschoß des Restaurants bietet seinen Gästen ein Ambiente, das im klassischen Still der Provence gehalten ist.'
+    description: 'Das erste Geschoß des Restaurants bietet seinen Gästen ein Ambiente, das im klassischen Stil der Provence gehalten ist.'
     pageLayout: 2
     project: 'http://hub.acherno.com/svn/sblasaka-na-dva-svyata/Site/3D/06_f.jpg'
     final: 'http://hub.acherno.com/svn/sblasaka-na-dva-svyata/Site/Realizacia/03.JPG'
