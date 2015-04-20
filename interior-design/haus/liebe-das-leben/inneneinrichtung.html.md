@@ -7,6 +7,7 @@ design: '(Modernes und behagliches) Wohndesign'
 project: 'Liebe das Leben'
 featured: true
 title: '[Inneneinrichtung Stadtvilla] (Liebe das Leben)'
+subtitle: 'Interior Design einer Stadtvilla'
 description: 'Die Stadtvilla - ein zwei stöckiges, großzügiges Haus mit Rückzugsmöglichkeiten für jeden. Unten - ein großer Wohnbereich mit Küche, Esszimmer, Badezimmer und Garderobe, sowie einer kleinen Gästetoilette. Oben - zwei Apartmentstudios mit eigenem Bad.'
 image: 'http://hub.acherno.com/svn/obichay-zhivota/Site/Finalni/ach_%20(41).jpg'
 rooms:

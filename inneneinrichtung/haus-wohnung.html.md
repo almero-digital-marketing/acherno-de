@@ -2,7 +2,7 @@
 layout: projects
 referencesOthers: true
 rel: '/projects/private'
-title: 'Inneneinrichtung (Wohnung)'
+title: '(Wohnung)'
 subtitle: '(Haus) und (Wohnung)'
 description: 'Jede Immobilie ist einzigartig: Architektur, Raumaufteilung, Bausubstanz und  Lage kennzeichnen nur einen Aspekt der Immobilie.'
 summary: 'Jede Immobilie ist einzigartig: Architektur, Raumaufteilung, Bausubstanz und  Lage kennzeichnen nur einen Aspekt der Immobilie. Den anderen Teil, der die Individualität und den Stil einer Wohnung  ausmacht, gestalten wir gemeinsam mit Ihnen.'
