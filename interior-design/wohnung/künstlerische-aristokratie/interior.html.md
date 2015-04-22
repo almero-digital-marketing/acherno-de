@@ -11,7 +11,7 @@ price: 75
 featured: true
 project: 'Künstlerische Aristokratie'
 title: 'Inneneinrichtung Wohnung (Künstlerische Aristokratie) '
-subtitle: '(Aristokratischer) Komfort'
+subtitle: 'Komfort'
 description: 'Die Seele eines Künstlers, die  Augen eines Abenteurers und das  Herz eines Aristokraten - diese Wohnung hat Tausende von Welten versammelt in den Büchern der Regale und Schränke. Eine Wohnung die sich im Herzen der Stadt, direkt über einer uralten Kastanie, befindet.'
 image: 'http://hub.acherno.com/svn/aristokratichno-artistichen/Site/Realizacia/01_1.jpg'
 rooms:
