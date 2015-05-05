@@ -13,7 +13,7 @@ blog:
 youtube:
   title: '(Beachten Sie unsere Kanal) [YouTube.com]'
   description: 'Hier können Sie Videoaufzeichnungen im Zusammenhang mit der Innenausstattung und Einrichtung finden.'
-  url: ''
+  url: 'https://www.youtube.com/channel/UCCtTQNIIg6u5hAQoMm0NMUQ'
 facebook:
   title: '(Werden Sie unser Freund) [Facebook.com]'
   description: 'Sehen Sie sich Bilder von internationalen Ausstellungen an, kommentieren Sie unsere Projekte oder suchen Sie nach neuen.'
