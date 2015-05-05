@@ -11,7 +11,7 @@ blog:
   description: 'Hier veröffentlichen wir Artikel zu Innen-und Möbel-Design.'
   url: 'http://interiorideen.com'
 youtube:
-  title: '(Beachten Sie unsere Kanal) [YouTube.com]'
+  title: '(Besuhen Sie uns auf) [YouTube.com]'
   description: 'Hier können Sie Videoaufzeichnungen im Zusammenhang mit der Innenausstattung und Einrichtung finden.'
   url: 'https://www.youtube.com/channel/UCCtTQNIIg6u5hAQoMm0NMUQ'
 facebook:
