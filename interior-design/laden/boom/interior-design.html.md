@@ -1,6 +1,4 @@
 ---
-todo: 
-  - 'Не е добавен във Facebook'
 layout: project
 rel: '/projects/public/boom' 
 order: 58

@@ -1,6 +1,4 @@
 ---
-todo: 
-  - 'Не е добавен във Facebook'
 layout: project
 rel: '/projects/private/between-the-mountains-and-the-city'
 order: 1

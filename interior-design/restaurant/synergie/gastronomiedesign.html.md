@@ -1,6 +1,4 @@
 ---
-todo: 
-  - 'Не е добавен във Facebook'
 layout: project
 rel: '/projects/public/clash-of-two-worlds' 
 order: 55
