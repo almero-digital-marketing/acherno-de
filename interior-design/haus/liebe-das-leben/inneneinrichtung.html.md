@@ -1,7 +1,7 @@
 ---
 layout: project
 rel: '/projects/private/obichay-zhivota'
-order: 7
+order: 9
 coverLayout: 17
 design: '(Modernes und behagliches) Wohndesign'
 project: 'Liebe das Leben'

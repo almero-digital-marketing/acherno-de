@@ -1,7 +1,7 @@
 ---
 layout: project
 rel: '/projects/private/aristocratic-artistic'
-order: 5
+order: 14
 coverLayout: 3
 price: 75
 design: 'Kolonialstil'

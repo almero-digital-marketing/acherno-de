@@ -1,7 +1,7 @@
 ---
 layout: project
 rel: '/projects/private/cherries-in-chocolate'
-order: 7
+order: 4
 coverLayout: 7
 featured: true
 project: 'Mon Chèri'

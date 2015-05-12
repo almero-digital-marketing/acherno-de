@@ -1,7 +1,7 @@
 ---
 layout: project
 rel: '/projects/private/dim'
-order: 7
+order: 3
 coverLayout: 3
 price: 40
 design: 'Modernes (Interior Design)'

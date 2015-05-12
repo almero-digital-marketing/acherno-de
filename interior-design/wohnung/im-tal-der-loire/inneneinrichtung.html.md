@@ -3,7 +3,7 @@ todo:
   - 'Не е добавен във Facebook'
 layout: project
 rel: '/projects/private/dolinata-na-loara'
-order: 10
+order: 12
 coverLayout: 3
 price: 90
 design: '(Klassische) Interior'

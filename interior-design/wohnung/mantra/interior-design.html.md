@@ -1,7 +1,7 @@
 ---
 layout: project
 rel: '/projects/private/mantra'
-order: 7
+order: 17
 coverLayout: 3
 price: 70
 design: '(Moderne schlichte) Innenausstattung'

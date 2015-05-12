@@ -1,7 +1,7 @@
 ---
 layout: project
 rel: '/projects/private/cardamom-cinnamon-and-vanilla'
-order: 7
+order: 19
 coverLayout: 6
 featured: true
 price: 50

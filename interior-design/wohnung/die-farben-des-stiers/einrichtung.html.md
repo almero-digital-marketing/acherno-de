@@ -1,7 +1,7 @@
 ---
 layout: project
 rel: '/projects/private/colors-of-taurus'
-order: 3
+order: 2
 coverLayout: 15
 featured: true
 price: 70

@@ -1,7 +1,7 @@
 ---
 layout: project
 rel: '/projects/private/orange-jam'
-order: 7
+order: 18
 coverLayout: 3
 price: 55
 design: '(Moderne und schlichte) Inneneinrichtung'

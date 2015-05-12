@@ -3,7 +3,7 @@ todo:
   - 'Не е добавен във Facebook'
 layout: project
 rel: '/projects/private/optimism'
-order: 10
+order: 11
 coverLayout: 2
 featured: true
 price: 75

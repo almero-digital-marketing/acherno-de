@@ -4,7 +4,7 @@ rel: '/projects/private/ceilings'
 order: 7
 coverLayout: 18
 design: '(Modernes) Design'
-price: 70
+price: 13
 project: 'Die Decken'
 featured: true
 title: 'Inneneinrichtung Haus (Die Decken)'

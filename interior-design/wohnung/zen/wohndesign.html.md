@@ -1,7 +1,7 @@
 ---
 layout: project
 rel: '/projects/private/dzen'
-order: 7
+order: 6
 coverLayout: 10
 featured: true
 design: '(Moderner Stil) mit Ethno-Elementen'

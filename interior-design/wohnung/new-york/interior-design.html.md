@@ -1,7 +1,7 @@
 ---
 layout: project
 rel: '/projects/private/new-york'
-order: 7
+order: 16
 coverLayout: 7
 featured: true
 project: 'New York'

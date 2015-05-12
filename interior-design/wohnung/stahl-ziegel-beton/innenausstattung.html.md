@@ -1,7 +1,7 @@
 ---
 layout: project
 rel: '/projects/private/concrete-brick-and-iron'
-order: 7
+order: 5
 coverLayout: 9
 featured: true
 design: 'Innendesign (Loft)'

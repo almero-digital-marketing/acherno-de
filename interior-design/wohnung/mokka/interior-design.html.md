@@ -1,7 +1,7 @@
 ---
 layout: project
 rel: '/projects/private/moka'
-order: 7
+order: 8
 coverLayout: 3
 design: '(Moderne) Innenausstattung'
 project: 'Mokka'

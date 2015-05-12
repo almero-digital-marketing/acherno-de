@@ -3,7 +3,7 @@ todo:
   - 'Не е добавен във Facebook'
 layout: project
 rel: '/projects/private/bohemian' 
-order: 52
+order: 10
 coverLayout: 14
 featured: true
 design: '(Unübliche Formen) mit Landhausaustrahlung '

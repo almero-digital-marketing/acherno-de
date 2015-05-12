@@ -1,7 +1,7 @@
 ---
 layout: project
 rel: '/projects/private/don-kihot'
-order: 7
+order: 15
 coverLayout: 2
 price: 70
 design: 'Klassik & Still'

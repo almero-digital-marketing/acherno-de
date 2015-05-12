@@ -1,7 +1,7 @@
 ---
 layout: project
 rel: '/projects/private/the-alchimist' 
-order: 8
+order: 7
 coverLayout: 1
 featured: true
 design: 'Aufregende Mixtur aus (Farben und Stilen)'
