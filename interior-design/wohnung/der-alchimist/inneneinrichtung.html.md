@@ -11,6 +11,7 @@ title: '[Interior Design Apartment] (Der Alchimist )'
 subtitle: 'Aufregende Mixtur aus (Farben und Stilen)'
 description: 'Der Alchimist saß da und dachte über seine eigenartige Geschichte nach. Die Geschichte von einer Verwandlung, von Reisen und der  Magie  - eine Magie, wie sie nur ganz wenige Auserwählte  kennen.  Eine Geschichte über das Verwischen von Grenzen und dem Entstehen von  Silhouetten in einer Welt, in der nicht alles so aussieht, wie es scheint.'
 image: 'http://hub.acherno.com/svn/alhimika/Site/Finalni/achiv%20(20).jpg'
+video: 'http://hub.acherno.com/svn/alhimika/Site/Video/trayan-20150324.mp4'
 rooms:
   -
     title: 'Inneneinrichtung (Wohnzimmer)'

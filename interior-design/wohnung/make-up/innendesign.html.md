@@ -11,6 +11,7 @@ title: '[Interior Design Apartment] (Make Up)'
 subtitle: 'Geheimnisvolle (Ausstrahlung)'
 description: 'Make Up – auffällig, ein bisschen schrill und total abgefahren! Smokey Eyes, die erwartungsvoll die Nacht herbeisehnen, ein Lidschatten in grellem Gelb und knallig rote Lippen. '
 image: 'http://hub.acherno.com/svn/grim/Site/Finalni/vitisha%20(3a)b.jpg'
+video: 'http://hub.acherno.com/svn/grim/Site/Video/20150402.mp4'
 rooms:
   -
     title: 'Interior Design (Wohnzimmer)'
