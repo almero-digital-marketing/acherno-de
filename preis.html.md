@@ -2,7 +2,7 @@
 layout: price
 referencesOthers: true
 rel: '/price'
-title: 'Anfrage (Projektpreis)'
+title: '[Anfrage] (Projektpreis)'
 subtitle: 'Für Wohn- oder öffentliche Inneneinrichtung '
 description: 'Füllen die das Formular aus. Nach 5 Werktagen erhalten Sie ein schriftliches Angebot zurück. Das Angebot beinhaltet die Kosten für eine Objektbesichtigung zur genauen Abmessung und Erarbeitung des Ideen- und Ausführungsprojektes.'
 ---

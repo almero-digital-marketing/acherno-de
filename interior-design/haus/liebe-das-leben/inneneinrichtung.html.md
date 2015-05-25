@@ -10,7 +10,7 @@ title: '[Inneneinrichtung Stadtvilla] (Liebe das Leben)'
 subtitle: 'Interior Design einer Stadtvilla'
 description: 'Die Stadtvilla - ein zwei stöckiges, großzügiges Haus mit Rückzugsmöglichkeiten für jeden. Unten - ein großer Wohnbereich mit Küche, Esszimmer, Badezimmer und Garderobe, sowie einer kleinen Gästetoilette. Oben - zwei Apartmentstudios mit eigenem Bad.'
 image: 'http://hub.acherno.com/svn/obichay-zhivota/Site/Finalni/ach_%20(41).jpg'
-video: 'http://hub.acherno.com/svn/obichay-zhivota/Site/Video/20141103.mp4'
+video: 'http://hub.acherno.com/svn/obichay-zhivota/Site/Video/20141103-hd.mp4'
 rooms:
   -
     title: 'Interior design (Wohnzimmer)'

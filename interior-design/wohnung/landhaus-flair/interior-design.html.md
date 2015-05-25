@@ -13,7 +13,7 @@ title: '[Inneneinrichtung Apartment] (Landhaus Flair)'
 subtitle: 'Modernes (Interior Design)'
 description: 'Eine Wohnung, die sehr unübliche Formen hat. Die Klienten gaben diesem Projekt den netten Namen „ Die zwei rechten Winkel“ vollkommen zu Recht.'
 image: 'http://hub.acherno.com/svn/bohemski/Site/Finalni/ach%20(18)b.jpg'
-video: 'http://hub.acherno.com/svn/bohemski/Site/Video/bohemski-20141103.mp4'
+video: 'http://hub.acherno.com/svn/bohemski/Site/Video/bohemski-20141103-hd.mp4'
 rooms:
   -
     title: 'Interior Design (Wohnzimmer)'
