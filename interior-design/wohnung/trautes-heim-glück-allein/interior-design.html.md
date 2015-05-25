@@ -5,7 +5,7 @@ order: 7
 price: 85
 coverLayout: 8
 featured: true
-design: '(Modernes) Innenausstattung'
+design: '(Klassischen) Innenausstattung'
 project: 'Trautes Heim - Glück allein'
 title: '[Interior Design Wohnung ] (Trautes Heim - Glück allein)'
 subtitle: 'Märchenhaftem Ambiente'
