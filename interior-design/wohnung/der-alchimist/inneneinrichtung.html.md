@@ -4,7 +4,7 @@ rel: '/projects/private/the-alchimist'
 order: 7
 coverLayout: 1
 featured: true
-design: 'Moderne Klassik (Inneneinrichtung)'
+design: 'Moderne Klassik'
 price: 80
 project: 'Der Alchimist '
 title: '[Interior Design Apartment] (Der Alchimist )'
