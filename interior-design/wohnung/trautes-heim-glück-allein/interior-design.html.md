@@ -5,7 +5,7 @@ order: 7
 price: 85
 coverLayout: 8
 featured: true
-design: '(Klassischen) Innenausstattung'
+design: '(Klassische) Innenausstattung'
 project: 'Trautes Heim - Glück allein'
 title: '[Interior Design Wohnung ] (Trautes Heim - Glück allein)'
 subtitle: 'Märchenhaftem Ambiente'
@@ -76,7 +76,7 @@ constructions:
     image: 'http://hub.acherno.com/svn/prispivna-pesen/Site/Remonti/4.JPG'
   -
     title: 'Renovierung Badezimmer'
-    image: 'http://hub.acherno.com/svn/prispivna-pesen/Site/Remonti/5.JPG'
+    image: 'http://hub.acherno.com/svn/prispivna-peshen/Site/Remonti/5.JPG'
   -
     title: 'Renovierung Wohnzimmer'
     image: 'http://hub.acherno.com/svn/prispivna-pesen/Site/Remonti/6.JPG'
