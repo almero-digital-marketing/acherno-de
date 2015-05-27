@@ -6,7 +6,7 @@ coverLayout: 7
 featured: true
 project: 'New York'
 price: 75
-design: '(Moderne) Interior'
+design: '(Modernes) Interior'
 title: 'Interior Design (New York)'
 subtitle: 'Glamour'
 description: 'New York is The City That Never Sleeps. Für Millionen ist Sie das Tor zur Hoffnung und Glück. Unsere Inspiration für diese Wohnung, die aus Wohnzimmer, Küche, Schlafzimmer, Kinderzimmer und zwei Badezimmern und einer Gästetoilette besteht.'
@@ -91,4 +91,4 @@ facebook:
 ---
 New York. Eine der größten und kosmopolitischsten Städte der Welt. Eine Stadt, die niemals schläft und deren Lichter niemals aus gehen. Eine Stadt, die Dich verschlingen kann. Entweder wirst Du Dich in ihr verlieren oder sie wird Dich zu Deinen Träumen führen.
 
-Für Millionen ist Sie das Tor zur Hoffnung und Glück. Unsere Inspiration für diese Wohnung, die aus Wohnzimmer, Küche, Schlafzimmer, Kinderzimmer und zwei Badezimmern und einer Gästetoilette besteht. Klares Design, strahlender weißer Lack, eine Mischbatterie mit LED-Beleuchtung,  fantastisches Licht aus zahlreichen Einbauleuchten. Ein weiches Ledersofa, mit einem kühlen Glas Martini. Und eine Prinzessin, die in ihrem kleinen rosa Märchenschloss lebt. 
+Für Millionen ist sie das Tor zur Hoffnung und Glück. Unsere Inspiration für diese Wohnung, die aus Wohnzimmer, Küche, Schlafzimmer, Kinderzimmer und zwei Badezimmern und einer Gästetoilette besteht. Klares Design, strahlender weißer Lack, eine Mischbatterie mit LED-Beleuchtung,  fantastisches Licht aus zahlreichen Einbauleuchten. Ein weiches Ledersofa, mit einem kühlen Glas Martini. Und eine Prinzessin, die in ihrem kleinen rosa Märchenschloss lebt. 
