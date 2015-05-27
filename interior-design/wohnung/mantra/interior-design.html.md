@@ -7,7 +7,7 @@ price: 70
 design: '(Moderne schlichte) Innenausstattung'
 project: 'Mantra'
 title: '[Interior Design] (Mantra)'
-subtitle: 'Ruhezone'
+subtitle: 'Relaxzone'
 description: 'Es ist wunderbar, Dich entspannen zu können, Dich der Erholung und der Ruhe zu ergeben und nur alles um Dich  herum zu beobachten oder tief in Dich selbst einzutauchen. Genau solche Innenausstattung, welche  zur vollen Wonne verleitet, ist diese, an welcher wir bis vor kurzem gearbeitet haben.'
 image: 'http://hub.acherno.com/svn/mantra/Site/Realizacia/hol_snimka_01.jpg'
 rooms:
