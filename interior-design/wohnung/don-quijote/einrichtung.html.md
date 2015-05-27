@@ -4,7 +4,7 @@ rel: '/projects/private/don-kihot'
 order: 15
 coverLayout: 2
 price: 70
-design: 'Klassik & Still'
+design: 'Klassik & Stil'
 project: 'Don Quijote'
 title: 'Innendesign Wohnung (Don Quijote)'
 subtitle: 'Motiv Mittelalter'
