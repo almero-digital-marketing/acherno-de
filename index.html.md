@@ -7,16 +7,16 @@ breadcrumbTitle: 'Interior Design'
 subtitle: 'Inneneinrichtung, (Haus), (Wohnung), (Büro), (Hotel), (Restaurant)'
 description: 'Für uns ist das Interior Design nicht nur eine Dienstleistung, sondern ein komplexer Prozess, an dessen Ende eine perfekte Umsetzung Ihres Wohntraums steht. Unsere langjährige Erfahrung in Design, Planung und Realisierung ist unsere Garantie für ein Gelingen.'
 blog:
-  title: '(Lesen Sie unseren Artikel) [interiorideen.com]'
-  description: 'Hier veröffentlichen wir Artikel zu Innen-und Möbel-Design.'
+  title: '(Lese unseren Blog) [interiorideen.com]'
+  description: 'Hier veröffentlichen wir regelmäßig Artikel zu den Themen Inneneinrichtung und Wohndesign.'
   url: 'http://interiorideen.com'
 youtube:
-  title: '(Besuhen Sie uns auf) [YouTube.com]'
-  description: 'Hier können Sie Videoaufzeichnungen im Zusammenhang mit der Innenausstattung und Einrichtung finden.'
+  title: '(Besuche uns auf YouTube) [YouTube.com]'
+  description: 'Schaue dir die Videos zu unseren Projekten auf unserem YouTube-Channel an.'
   url: 'https://www.youtube.com/channel/UCCtTQNIIg6u5hAQoMm0NMUQ'
 facebook:
-  title: '(Werden Sie unser Freund) [Facebook.com]'
-  description: 'Sehen Sie sich Bilder von internationalen Ausstellungen an, kommentieren Sie unsere Projekte oder suchen Sie nach neuen.'
+  title: '(Finde uns bei) [Facebook.com]'
+  description: 'Kommentiere unsere Projekte oder lass dich von aktuellen Bildern aus internationalen Interior Design Ausstellungen inspirieren.'
   url: 'http://www.facebook.com/acherno.interior.design'
 copyright:
   acherno: '(Acherno) GmbH © 2007-2015|(Alle Rechte vorbehalten)'
