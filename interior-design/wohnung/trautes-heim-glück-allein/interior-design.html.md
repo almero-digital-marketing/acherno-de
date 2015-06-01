@@ -76,7 +76,7 @@ constructions:
     image: 'http://hub.acherno.com/svn/prispivna-pesen/Site/Remonti/4.JPG'
   -
     title: 'Renovierung Badezimmer'
-    image: 'http://hub.acherno.com/svn/prispivna-peshen/Site/Remonti/5.JPG'
+    image: 'http://hub.acherno.com/svn/prispivna-pesen/Site/Remonti/5.JPG'
   -
     title: 'Renovierung Wohnzimmer'
     image: 'http://hub.acherno.com/svn/prispivna-pesen/Site/Remonti/6.JPG'
