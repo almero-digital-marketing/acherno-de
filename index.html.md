@@ -15,7 +15,7 @@ youtube:
   description: 'Schaue dir die Videos zu unseren Projekten auf unserem YouTube-Channel an.'
   url: 'https://www.youtube.com/channel/UCCtTQNIIg6u5hAQoMm0NMUQ'
 facebook:
-  title: '(Finde uns bei) [Facebook.com]'
+  title: '(Finde uns bei)|[Facebook.com]'
   description: 'Kommentiere unsere Projekte oder lass dich von aktuellen Bildern aus internationalen Interior Design Ausstellungen inspirieren.'
   url: 'http://www.facebook.com/acherno.interior.design'
 copyright:
