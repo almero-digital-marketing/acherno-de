@@ -7,11 +7,11 @@ breadcrumbTitle: 'Interior Design'
 subtitle: 'Inneneinrichtung, (Haus), (Wohnung), (Büro), (Hotel), (Restaurant)'
 description: 'Für uns ist das Interior Design nicht nur eine Dienstleistung, sondern ein komplexer Prozess, an dessen Ende eine perfekte Umsetzung Ihres Wohntraums steht. Unsere langjährige Erfahrung in Design, Planung und Realisierung ist unsere Garantie für ein Gelingen.'
 blog:
-  title: '(Lese unseren Blog) [interiorideen.com]'
+  title: '(Lese unseren Blog)|[interiorideen.com]'
   description: 'Hier veröffentlichen wir regelmäßig Artikel zu den Themen Inneneinrichtung und Wohndesign.'
   url: 'http://interiorideen.com'
 youtube:
-  title: '(Besuche uns auf YouTube) [YouTube.com]'
+  title: '(Besuche uns auf)|[YouTube.com]'
   description: 'Schaue dir die Videos zu unseren Projekten auf unserem YouTube-Channel an.'
   url: 'https://www.youtube.com/channel/UCCtTQNIIg6u5hAQoMm0NMUQ'
 facebook:
