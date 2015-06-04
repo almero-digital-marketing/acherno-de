@@ -4,7 +4,7 @@ rel: '/projects/private/urban'
 order: 5
 coverLayout: 10
 featured: true
-design: '(Modernes) Interior Design'
+design: 'Modernes (Interior Design)'
 project: 'Big City Life'
 price: 50
 title: '[Innenaustattung ] (Big City Life)'

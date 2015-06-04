@@ -6,7 +6,7 @@ coverLayout: 2
 price: 70
 design: 'Klassik & Stil'
 project: 'Don Quijote'
-title: 'Innendesign Wohnung (Don Quijote)'
+title: '[Innendesign Wohnung] (Don Quijote)'
 subtitle: 'Motiv Mittelalter'
 description: 'Moderne Klassik. Eine Innenausstattung, die vom Mittelalter inspiriert ist.'
 image: 'http://hub.acherno.com/svn/don-kihot/Site/Finalni/9.jpg'

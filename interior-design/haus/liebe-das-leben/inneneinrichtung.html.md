@@ -3,7 +3,7 @@ layout: project
 rel: '/projects/private/obichay-zhivota'
 order: 9
 coverLayout: 17
-design: '(Modernes und behagliches) Wohndesign'
+design: 'Modernes und behagliches (Wohndesign)'
 project: 'Liebe das Leben'
 featured: true
 title: '[Inneneinrichtung Stadtvilla] (Liebe das Leben)'

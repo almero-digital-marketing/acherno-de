@@ -9,7 +9,7 @@ featured: true
 price: 75
 design: '(Moderne Klassik) und Nostalgie'
 project: 'Optimismus ist der Schüssel'
-title: 'Inneneinrichtung Wohnung (Optimismus ist der Schlüssel)'
+title: '[Inneneinrichtung Wohnung] (Optimismus ist der Schlüssel)'
 subtitle: 'Neu (inszeniert)'
 description: 'Eine radikale Umbaumaßnahme. Um Sicher zu gehen, dass  später keine Probleme auftauchen, haben wir alles ersetzt. Die Wasser- und Abwasserversorgung und die elektrische Anlage.'
 image: 'http://hub.acherno.com/svn/optimizam-mu-e-maykata/Site/Realizacia/spalnq_snimka_06.jpg'

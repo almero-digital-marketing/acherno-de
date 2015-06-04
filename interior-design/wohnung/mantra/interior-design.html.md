@@ -4,7 +4,7 @@ rel: '/projects/private/mantra'
 order: 17
 coverLayout: 3
 price: 70
-design: '(Moderne schlichte) Innenausstattung'
+design: 'Moderne schlichte (Innenausstattung)'
 project: 'Mantra'
 title: '[Interior Design] (Mantra)'
 subtitle: 'Relaxzone'

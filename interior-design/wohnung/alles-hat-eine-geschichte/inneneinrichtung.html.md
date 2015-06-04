@@ -6,10 +6,10 @@ rel: '/projects/private/everything-has-its-history'
 order: 11
 coverLayout: 8
 featured: true
-design: '(Moderne) Innenausstattung '
+design: 'Moderne (Innenausstattung) '
 project: 'Alles hat eine Geschichte'
 price: 50
-title: 'Inneneinrichtung Wohnung (Alles hat eine Geschichte)'
+title: '[Inneneinrichtung Wohnung] (Alles hat eine Geschichte)'
 subtitle: '(Geliebtes) Zuhause'
 description: Die gute alte Plattenbauwohnung zeichnet sich durch eine praktische Aufteilung und viel Platz aus. Baulich bedingt lässt sich die Wohnung allerdings nur begrenzt umbauen. Unsere individuelle Planungsideen haben nichtsdestotrotz einen wunderschönen Wohnraum geschaffen.'
 image: 'http://hub.acherno.com/svn/vsichko-si-ima-istoria/Site/Realizacia/07_dr%20(1).jpg'

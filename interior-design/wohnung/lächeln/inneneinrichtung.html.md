@@ -6,7 +6,7 @@ coverLayout: 2
 price: 70
 design: 'Modernes (Wohndesign)'
 project: 'Lächeln'
-title: 'Interior Design Apartment (Lächeln)'
+title: '[Interior Design Apartment] (Lächeln)'
 subtitle: 'Interior (mit Stimmung)'
 description: 'Ein Lächeln lässt die Sonne der Seele aufgehen! Du kommst herein und kannst es kaum fassen, du und deine Nächsten könnt eure Freude kaum verbergen. Ein strahlendes Lächeln breitet sich auf deinen Lippen aus. Hier ist das Zuhause, ein Heim der Gefühle, der Herzlichkeit und des Glücks.'
 image: 'http://hub.acherno.com/svn/usmivka/Site/Finalni/7.jpg'

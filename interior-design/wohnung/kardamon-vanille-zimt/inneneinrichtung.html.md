@@ -5,9 +5,9 @@ order: 19
 coverLayout: 6
 featured: true
 price: 50
-design: '(Moderne und stilvolle) Innenausstattung'
+design: 'Moderne und stilvolle (Innenausstattung)'
 project: 'Zimt, Vanille, Kardamom'
-title: 'Inneneinrichtung Wohnung (Zimt, Vanille, Kardamom)'
+title: '[Inneneinrichtung Wohnung] (Zimt, Vanille, Kardamom)'
 subtitle: 'Harmonische Farbgebung'
 description: 'Zimt und Vanille, eine Mischung aus Kakao und Vanillezucker. Dazu einen Klecks Erdbeersorbet. Dieses Rezept ist unsere Inspiration für eine wahrhaft köstliche Interior.'
 image: 'http://hub.acherno.com/svn/kanela-kardamon-i-vanilia/Site/Realizacia/01-4.jpg'

@@ -6,7 +6,7 @@ rel: '/projects/private/bohemian'
 order: 10
 coverLayout: 14
 featured: true
-design: '(Unübliche Formen) mit Landhausaustrahlung '
+design: 'Unübliche Formen mit (Landhausaustrahlung) '
 project: 'Landhaus Flair'
 price: 65
 title: '[Inneneinrichtung Apartment] (Landhaus Flair)'

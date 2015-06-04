@@ -3,10 +3,10 @@ layout: project
 rel: '/projects/private/moka'
 order: 8
 coverLayout: 3
-design: '(Moderne) Innenausstattung'
+design: 'Moderne (Innenausstattung)'
 project: 'Mokka'
 price: 65
-title: 'Interior Design Wohnung (Mokka)'
+title: '[Interior Design Wohnung] (Mokka)'
 subtitle: 'Faszination & Harmonie'
 description: 'Dass die Farbe Mokka nicht immer langweilig aussehen muss, demonstriert dieses modern eingerichtete Apartment. Die Nuancen von warmem Kaffe und schmelzendem Karamell garniert mit einem Hauch von schwerem Tabak '
 image: 'http://hub.acherno.com/svn/moka/Site/Finalni/acherno-8.jpg'

@@ -6,7 +6,7 @@ rel: '/projects/private/treasure-island'
 order: 7
 coverLayout: 13
 price: 70
-design: '(Moderne) Innenausstattung'
+design: 'Moderne (Innenausstattung)'
 project: 'Die Schatzinsel'
 title: '[Innenausstattung Wohnung] (Die Schatzinsel)'
 subtitle: '(Märchenhaft)'

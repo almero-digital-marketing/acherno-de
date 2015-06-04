@@ -4,9 +4,9 @@ rel: '/projects/private/air-chocolate'
 order: 7
 coverLayout: 3
 price: 40
-design: '(Modernes und funktionales) Innendesign'
+design: 'Modernes und funktionales (Innendesign)'
 project: 'Aero Luftschokolade'
-title: 'Interior Design (Aero Luftschokolade)'
+title: '[Interior Design] (Aero Luftschokolade)'
 subtitle: 'Gewagte (Avantgarde)'
 description: 'Es sind die tausend kleine Luftbläschen, die der Schokolade eine leichte und zarte Textur verleihen. Warme braune Farbtöne und luftig extravagante Designerleuchten verheißen einen leckeren Hauch der beleibten Leckerei.'
 image: 'http://hub.acherno.com/svn/aero-shokolad/Site/Finalni/21.jpg'

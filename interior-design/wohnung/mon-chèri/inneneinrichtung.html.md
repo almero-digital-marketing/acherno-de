@@ -6,8 +6,8 @@ coverLayout: 7
 featured: true
 project: 'Mon Chèri'
 price: 60
-design: '(Moderne) Innenausstattung'
-title: 'Inneneinrichtung Wohnung (Mon Chèri)'
+design: 'Moderne (Innenausstattung)'
+title: '[Inneneinrichtung Wohnung] (Mon Chèri)'
 subtitle: 'Fest (der Farben)'
 description: 'Eine kontrastreiche Innenausstattung, die satte und zarte Farbtöne in sich vereinigt, dazu eine großzügige Terrasse mit einer wunderschönen Aussicht: Ein Apartment, das alle Voraussetzungen zu einem ausgeglichenen Wohngefühl erfüllt.'
 image: 'http://hub.acherno.com/svn/piyani-vishni-v-shokolad/Site/Realizacia/02_Ach (6).jpg'

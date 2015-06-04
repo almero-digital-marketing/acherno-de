@@ -6,9 +6,9 @@ rel: '/projects/private/dolinata-na-loara'
 order: 12
 coverLayout: 3
 price: 90
-design: '(Klassische) Interior'
+design: 'Klassische (Interior)'
 project: 'Im Tal der Loire'
-title: 'Inneneinrichtung Wohnung (Im Tal der Loire)'
+title: '[Inneneinrichtung Wohnung] (Im Tal der Loire)'
 subtitle: 'Klassisch & Romantisch'
 description: 'Ein altes Backsteinhaus, von Efeu umrankt mit großen Fenstern und einer alten geschnitzten Eichentür. Das war unsere Vorstellung als wir diese Wohnung projektierten.'
 image: 'http://hub.acherno.com/svn/dolinata-na-loara/Site/Finalni/27.jpg'

@@ -4,7 +4,7 @@ rel: '/projects/private/orange-jam'
 order: 18
 coverLayout: 3
 price: 55
-design: '(Moderne und schlichte) Inneneinrichtung'
+design: 'Moderne und schlichte (Inneneinrichtung)'
 project: 'Eleganz in orange'
 title: 'Inneneinrichtung Wohnung (Eleganz in orange)'
 subtitle: 'Schlichte Schönheit'
