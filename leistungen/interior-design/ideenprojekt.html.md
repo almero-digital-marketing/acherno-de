@@ -1,11 +1,11 @@
 ---
 rel: '/services/design/idea'
 title: 'Ideenprojekt'
-description: 'Wir bieten Ihnen nicht nur die Erstellung eines 3D-Computermodells Ihrer Wohnidee an,  sondern veranlassen auch alle anfallenden Arbeiten. Wir kümmern uns um Umbau- und Entsorgungsarbeiten, Trockenbau, Spachtel- und Verputzarbeiten,  Maler- und Sanitärdienstleitungen, die Herstellung und Montage von Möbeln, sowie die Beschaffung und Installation aller Elektrogeräte.  Dadurch ist es uns möglich Ihnen einen fristgemäßen Abschluss Ihres Projekts zu garantieren.'
+description: 'Wir bieten Ihnen hier die Erstellung eines 3D-Computermodells für das Interior Design Ihrer Wahl an oder beraten Sie umfassend zu allen Fragen hinsichtlich der Inneneinrichtung und des Designs.'
 order: 1
 ---
 ## **Ideenprojekt**
-Wir bieten Ihnen nicht nur die Erstellung eines 3D-Computermodells Ihrer Wohnidee an, sondern veranlassen auch alle anfallenden Arbeiten. Wir kümmern uns um Umbau- und Entsorgungsarbeiten, Trockenbau, Spachtel- und Verputzarbeiten,  Maler- und Sanitärdienstleitungen, die Herstellung und Montage von Möbeln, sowie die Beschaffung und Installation aller Elektrogeräte.  Dadurch ist es uns möglich Ihnen einen fristgemäßen Abschluss Ihres Projekts zu garantieren.
+Wir bieten Ihnen hier die Erstellung eines 3D-Computermodells für das Interior Design Ihrer Wahl an oder beraten Sie umfassend zu allen Fragen hinsichtlich der Inneneinrichtung und des Designs.
 
 - - -
 

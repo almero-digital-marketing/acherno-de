@@ -2,10 +2,10 @@
 rel: '/services/design/plan-presentation'
 order: 4
 ---
-## Aus was besteht ein **Ausführungsprojekt**?
+## Aus was besteht ein **Arbeitsprojekt**?
 Für unseren Kunden erstellen wir pro Raum mehr als 15 technische Zeichnungen für alle wichtigen Aspekte der Raumplanung. Die exakten Zeichnungen ermöglichen es unserem Fachpersonal ihre Vorstellungen hinsichtlich der Inneneinrichtung vollständig umzusetzen. 
 
-Das Ausführungsprojekt spart viel Zeit und Geld indem sie die Wahrscheinlichkeit von Beschädigungen an der Stromverkabelung oder an Rohrleitungen während der Montage minimiert.
+Das Arbeitsprojekt spart viel Zeit und Geld indem sie die Wahrscheinlichkeit von Beschädigungen an der Stromverkabelung oder an Rohrleitungen während der Montage minimiert.
 
 -   ### Raumaufteilung
     ![Raumaufteilung](../images/plan-01-de.v.png)
@@ -23,8 +23,8 @@ Das Ausführungsprojekt spart viel Zeit und Geld indem sie die Wahrscheinlichkei
     ![Plan Abbau und Mauerarbeiten](../images/plan-02-de.v.png)
     Beinhaltet die genaue Beschreibung der Wänden und anderen Elementen, die abgetragen oder neu aufgebaut werden.  Der  Plan ist eine  gute Orientierungsgrundlage bei der Berechnung der Bauschuttmenge und der damit verbundenen Entsorgungskosten.
 
--   ### Ausführungsprojekt Gipskarton Wände
-    ![Ausführungsprojekt Gipskarton Wände](../images/plan-04-de.v.png)
+-   ### Arbeitsprojekt Gipskarton Wände
+    ![Arbeitsprojekt Gipskarton Wände](../images/plan-04-de.v.png)
     Neben einer allgemeinen technischen Zeichnung, wird für jede Wand, die mit einer Konstruktion aus Gipskarton  ausgestatten wird, wird auch eine detaillierte Zeichnung erstellt. 
 
 -   ### Hängedecken
