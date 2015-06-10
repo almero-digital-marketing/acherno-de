@@ -4,7 +4,7 @@ rel: '/projects/public/on-the-roof-of-the world'
 order: 52
 coverLayout: 14
 featured: true
-design: 'Büroeinrichtung'
+design: '(Büroeinrichtung)'
 project: 'Auf dem Dach der Welt'
 price: 65
 title: 'Büroeinrichtung (Auf dem Dach der Welt)'

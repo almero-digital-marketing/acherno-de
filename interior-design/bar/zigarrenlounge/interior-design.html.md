@@ -4,7 +4,7 @@ rel: '/projects/public/cigar-bar'
 order: 2
 coverLayout: 3
 featured: true
-design: 'Interiordesign (Gaststätte)'
+design: '(Interior design) Gaststätte'
 project: 'Zigarrenlounge'
 price: 90
 title: '[Interior Design Gaststätte] (Zigarrenlounge)'

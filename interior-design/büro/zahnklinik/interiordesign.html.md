@@ -4,7 +4,7 @@ rel: '/projects/public/doctors-offices'
 order: 53
 coverLayout: 11
 featured: true
-design: 'Interiordesign (Praxisräume)'
+design: '(Interior design) Praxisräume'
 project: 'Dr. Doktor'
 price: 65
 title: '[Inneneinrichtung Zahnklinik] (Dr. Doktor)'

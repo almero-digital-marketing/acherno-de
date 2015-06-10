@@ -6,7 +6,7 @@ coverLayout: 7
 price: 55
 design: 'Moderne (Büroeinrichtung)'
 project: 'Luft und Wasser'
-title: 'Inneneinrichtung Büro (Luft und Wasser)'
+title: '[Inneneinrichtung Büro] (Luft und Wasser)'
 subtitle: 'Elegant & Funktional'
 description: 'Luft und Wasser. Zwei leichte und flüchtige Elemente die sich gut kombinieren lassen. Unser Anspruch – das Licht im Raum zu halten und ein funktionelles Arbeitsumfeld zu schaffen. Um einen bequemen und praktischen Arbeitsplatz zu gestalten, der dem neusten Trend und Extravagantem wiederspiegelt, haben wir uns die großen Fenster zu Nutze gemacht. '
 legacy: 'http://acherno.com/интериорни-проекти/интериорни-решения-на-офиси/въздух-и-вода/интериорен-проект.html'
