@@ -2,7 +2,7 @@
 layout: project
 rel: '/projects/private/urban'
 order: 5
-coverLayout: 10
+coverLayout: 3
 featured: true
 design: 'Modernes (Interior Design)'
 project: 'Big City Life'

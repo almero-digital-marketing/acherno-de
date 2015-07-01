@@ -3,7 +3,7 @@ layout: project
 rel: '/projects/private/jazz' 
 order: 6
 coverLayout: 10
-price: 85
+price: 70
 featured: true
 design: 'Moderne Klassik (Interior Design)'
 project: 'Jazz'
