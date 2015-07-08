@@ -6,7 +6,7 @@ rel: '/projects/private/everything-has-its-history'
 order: 11
 coverLayout: 8
 featured: true
-design: 'Moderne (Innenausstattung) '
+design: 'Modernes (Innenausstattung) '
 project: 'Alles hat eine Geschichte'
 price: 50
 title: '[Inneneinrichtung Wohnung] (Alles hat eine Geschichte)'
