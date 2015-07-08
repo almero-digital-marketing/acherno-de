@@ -1,11 +1,11 @@
 # Inneneinrichtung, Haus, Wohnung, Büro, Hotel, Restaurant
 ## Acherno Deutschland
 [![Build Status](http://dev.almero.pro/acherno.de/status/build.svg)](http://dev.almero.pro/acherno.de)
-[![Published](http://acherno.de/status/published.svg?v2)](http://acherno.de)
+[![Published](http://acherno.de/status/published.svg?v3)](http://acherno.de)
 
 ## Acherno Österreich
 [![Build Status](http://dev.almero.pro/acherno.at/status/build.svg)](http://dev.almero.pro/acherno.at)
-[![Published](http://acherno.at/status/published.svg?v2)](http://acherno.at)
+[![Published](http://acherno.at/status/published.svg?v3)](http://acherno.at)
 
 Für uns ist das Interior Design nicht nur eine Dienstleistung, sondern ein komplexer Prozess, an dessen Ende eine perfekte Umsetzung Ihres Wohntraums steht. Unsere langjährige Erfahrung in Design, Planung und Realisierung ist unsere Garantie für ein Gelingen.
 
