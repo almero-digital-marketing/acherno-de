@@ -2,7 +2,7 @@
 layout: projects
 referencesOthers: true
 rel: '/projects/public'
-title: '(Interior Design) Öffentlicher Raum'
+title: '(Interior Design) öffentlicher Raum'
 subtitle: '(Büro), (Laden), (Clubs) und (Hotels) '
 description: 'Das Büro, das Hotel oder das Restaurant  sind  repräsentative Orte, in der sich die Unternehmensphilosophie wiederspiegeln soll.'
 summary: 'Das Büro, das Hotel oder das Restaurant  sind  repräsentative Orte, in der sich die Unternehmensphilosophie wiederspiegeln soll. Aus diesem Grund muss die Inneneinrichtung  Komfort, Funktionalität und Still in sich vereinen um Ihrem Gewerbeobjekt einen individuellen Charakter zu verleihen.'
