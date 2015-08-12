@@ -6,7 +6,7 @@ coverLayout: 3
 price: 55
 design: 'Moderne und schlichte (Inneneinrichtung)'
 project: 'Eleganz in orange'
-title: 'Inneneinrichtung Wohnung (Schlichte Eleganz in Orange)'
+title: '[Inneneinrichtung Wohnung] (Schlichte Eleganz in Orange)'
 subtitle: 'Schlichte (Schönheit)'
 description: 'Die exotische Süße der Orange entführt dich an einen einsamen Stand und lässt dich träumen. Eine feine und leichte Ergänzung die Unvergessen bleibt.'
 image: 'http://hub.acherno.com/svn/portokalovo-sladko/Site/Finalni/AchL6.jpg'

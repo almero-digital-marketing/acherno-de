@@ -7,7 +7,7 @@ featured: true
 design: 'Modernes (Interior Design)'
 project: 'Big City Life'
 price: 50
-title: '[Innenaustattung ] (Big City Life)'
+title: '[Innenausstattung] (Big City Life)'
 subtitle: '(Der Duft von Flieder)'
 description: 'Wenn die Tage länger werden, die Nächte lauer, die Promenade sich mit Menschen füllt, erwacht das Leben in der Stadt! Der Duft von Flieder und die wärmenden Strahlen der Sonne vertreiben auch den letzten Winterblues und machen Platz für Frühlingsgefühle.'
 image: 'http://hub.acherno.com/svn/gradski/Site/Realizacia/1_h-r.jpg'
@@ -19,7 +19,7 @@ rooms:
     project: 'http://hub.acherno.com/svn/gradski/Site/3D/2.02-h_f.jpg'
     final: 'http://hub.acherno.com/svn/gradski/Site/Realizacia/1_h-r.jpg'
   -
-    title: 'Innenaustattung (Wohn- und Kochbereich)'
+    title: 'Innenausstattung (Wohn- und Kochbereich)'
     description: 'Nimm Platz. Lass den Blick über die Skyline schweifen und werde eins mit deinem Heim.  Genieße die Ruhe, denn bald treffen die ersten Gäste ein.'
     pageLayout: 6
     project: 'http://hub.acherno.com/svn/gradski/Site/3D/2.04-h_f.jpg'
@@ -43,7 +43,7 @@ rooms:
     project: 'http://hub.acherno.com/svn/gradski/Site/3D/3.01-k_f.jpg'
     final: 'http://hub.acherno.com/svn/gradski/Site/Realizacia/7_k-r.jpg'
   -
-    title: 'Innenaustattung (Empfangsbereich)'
+    title: 'Innenausstattung (Empfangsbereich)'
     description: 'Kannst du dich noch an den traumhaften Sommerurlaub mit deinen besten Freunden erinnern? Jedes Mal wenn du sie im Foyer deines Apartments empfängst werden sofort, dank der imposanten Fotoleinwände die schönsten Erinnerungen wach.'
     pageLayout: 7
     project: 'http://hub.acherno.com/svn/gradski/Site/3D/3.02-k_f.jpg'
