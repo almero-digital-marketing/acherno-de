@@ -13,7 +13,7 @@ description: 'Eine kontrastreiche Innenausstattung, die satte und zarte Farbtön
 image: 'http://hub.acherno.com/svn/piyani-vishni-v-shokolad/Site/Realizacia/02_Ach (6).jpg'
 rooms:
   -
-    title: 'Interior design (Wohnzimmer)'
+    title: 'Interior Design (Wohnzimmer)'
     description: 'Das lila Dekor zieht alle Blicke auf sich, lässt dennoch genug Raum um das weiße Sofa, den schwarzen Beistelltisch, die grauen Wände und den hochwertigen Boden in einer perfekten Art zu kombinieren. Die modernen Hochglanzfronten verleihen dem Wohnzimmer zusätzlich eine klassische Eleganz.'
     pageLayout: 1
     project: 'http://hub.acherno.com/svn/piyani-vishni-v-shokolad/Site/3D/01-h_f.jpg'
@@ -43,13 +43,13 @@ rooms:
     project: 'http://hub.acherno.com/svn/piyani-vishni-v-shokolad/Site/3D/05-k_f.jpg'
     final: 'http://hub.acherno.com/svn/piyani-vishni-v-shokolad/Site/Realizacia/05_Ach (18).jpg'
   -
-    title: 'Interior design (Badezimmer)'
+    title: 'Interior Design (Badezimmer)'
     description: 'Im Badezimmer haben wir eine Eckduschkabine, mehrere Spotlights und ein Interieur von Kleinmöbel für die kleinen Dinge des Alltags verwirklicht. Fliesen in Schoko und Beige bilden einen harmonischen Hintergrund.'
     pageLayout: 9
     project: 'http://hub.acherno.com/svn/piyani-vishni-v-shokolad/Site/3D/06-b1_f.jpg'
     final: 'http://hub.acherno.com/svn/piyani-vishni-v-shokolad/Site/Realizacia/06_Ach (26).jpg'
   -
-    title: 'Interior design (Toilette)'
+    title: 'Interior Design (Toilette)'
     description: 'Die zweite Toilette haben wir elegant als ein hochwertiges Gäste WC mit einem praktischen Waschplatz gelöst'
     pageLayout: 8
     project: 'http://hub.acherno.com/svn/piyani-vishni-v-shokolad/Site/3D/07-b2_f.jpg'
