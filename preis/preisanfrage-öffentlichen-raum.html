@@ -1,6 +1,6 @@
 ---
-layout: rfp
-rel: '/price/public'
+layout: /web/rfp.ect
+href: '/web/price/public'
 title: 'Preisanfrage (öffentliche Inneneinrichtung)'
 subtitle: 'Innenausstattung von Büro, Laden, Restaurant, Bar oder Hotel'
 description: 'Um Ihnen ein korrektes Angebot über ein Wohnung Innenausstattung Projekt zu unterbreiten, ist es von Schlüsselbedeutung, dass Sie die Besonderheiten der Raumarchitektur, die Quadratmeterfläche angegeben und aktuelle Zeichnungen oder Bilder des Objektes beigelegt haben. In der Anfrage geben Sie auch Ihre Kontaktdaten an, wenn Fragen im Laufe der Arbeit zu beantworten sind. Unser Kollege kommt vor Ort und nimmt das Objekt mit den genauen Abmessungen auf, nur wenn Sie das Angebot annehmen.'
@@ -57,7 +57,7 @@ description: 'Um Ihnen ein korrektes Angebot über ein Wohnung Innenausstattung 
   <h2><b>Aktuelle Bilder und Zeichnungen</b> des Objektes </h2>
   <p>Wenn Sie die Anfrage über unsere Webseite senden möchten, müssen Sie uns die Quadratmeterfläche Ihrer Wohnung angeben. Bitte berücksichtigen Sie, dass wir Ihnen in unserem  Angebot einen Quadratmeterpreis unterbreiten. Wenn Sie mit unserem Angebot zufrieden sind, senden wir Ihnen ein Team, das die genaue Quadratmeterfläche der Wohnung (ohne Wände, Terrasse, Kellerraum usw.) ausmisst. Nach dem Vertragsabschluss wird die von Ihnen zu zahlende Summe aufgrund der von unserem Team gemessenen Fläche berechnet.</p>
   <label class="details"><b>Bilder</b> oder <b>Skizzen</b> der Wohnung sind erforderlich!</label>
-  <iframe id="upload" src="../system/upload.html" scrolling="no" frameborder="0"></iframe>
+  <iframe id="upload" src="../system/upload.html"></iframe>
   <div id="files" class="upload">
     <a id="upload-label"><b>Bilder oder Skizzen</b> der Wohnung</a>
   </div>
@@ -67,7 +67,7 @@ description: 'Um Ihnen ein korrektes Angebot über ein Wohnung Innenausstattung 
   <div class="grid-sizer"></div>
   <div class="gutter-sizer"></div>
   <div class="item status">
-    <h1><b>Aktueller Zustand</b> des Objektes</h1>
+    <h2><b>Aktueller Zustand</b> des Objektes</h2>
     <p>n welchem Zustand befindet sich das Objekt? Ist es ein Rohbau oder wird es bewohnt? Falls nur Wandbeläge angebracht sind, gilt sie noch als Rohbau.</p>
     <div class="checkitem">
       <input id="condition-1" type="radio" value="Das Objekt ein Rohbau ist " name="condition[]">
@@ -89,11 +89,11 @@ description: 'Um Ihnen ein korrektes Angebot über ein Wohnung Innenausstattung 
     <textarea id="condition" name="condition[]"></textarea>
   </div>
   <div class="item layout">
-    <h1>Wie soll die <b>Innenaustattung aussehen?</b></h1>
+    <h2>Wie soll die <b>Innenaustattung aussehen?</b></h2>
     <p>Uns ist es wichtig eine Vorstellung von Ihrem bevorzugten Einrichtungsstil zu bekommen.</p>
     <div class="checkitem">
       <input id="style-1" type="radio" value="Die Innenausstattung wird modern und schlicht " name="style[]">
-      <label class="label" for="style-1">Die Innenausstattung wird  <b>modern und schlicht</b></label>
+      <label class="label" for="style-1">Die Innenausstattung wird <b>modern und schlicht</b></label>
     </div>
     <div class="checkitem">
       <input id="style-2" type="radio" value="Die Innenausstattung hat klassische oder Barockelemente" name="style[]">
@@ -103,7 +103,7 @@ description: 'Um Ihnen ein korrektes Angebot über ein Wohnung Innenausstattung 
     <textarea id="style" name="style[]"></textarea>
   </div>
   <div class="item layout">
-    <h1><b>Designer Pläne </b> für die Versorgungsleitungen</h1>  
+    <h2><b>Designer Pläne </b> für die Versorgungsleitungen</h2>  
     <p>Veränderungen an den Versorgungsanlagen und Verteilungen wie z.B. Strom, Wasser, Gas und Internet. Wenn Sie keine Veränderungen an den Versorgungsanlagen möchten, bedeutet das, dass wir keine Umgestaltungen vornehmen und nur die Lage der Möbel variieren können.</p>
     <div class="checkitem">
       <input id="layout-1" type="checkbox" value="Projektierung der Elektroanlagen" name="layout[]">
@@ -125,7 +125,7 @@ description: 'Um Ihnen ein korrektes Angebot über ein Wohnung Innenausstattung 
     <textarea id="layout" name="layout[]"></textarea>
   </div>
   <div class="item comments">
-    <h1><b>Zusätzliche Anforderungen,</b> Kommentare oder Fragen</h1> 
+    <h2><b>Zusätzliche Anforderungen,</b> Kommentare oder Fragen</h2> 
     <p>Wir geben den Kunden die Freiheit die Bauausführung und die Möbelherstellung sowohl von uns, als auch von eigenen Arbeitern erbringen zu lassen.</p>
     <div class="checkitem">
       <input id="construction-1" type="radio" value="Sie möchten Acherno mit der Reparatur beauftragen" name="construction[]"> 
