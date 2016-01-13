@@ -4,7 +4,6 @@ order: 14
 coverLayout: 3
 price: 75
 design: 'Kolonialstil'
-price: 75
 featured: true
 project: 'Künstlerische Aristokratie'
 title: '[Inneneinrichtung Wohnung] (Künstlerische Aristokratie) '
