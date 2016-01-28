@@ -2,7 +2,6 @@
 href: '/web/projects/private/aristocratic-artistic'
 order: 14
 coverLayout: 3
-price: 75
 design: 'Kolonialstil'
 featured: true
 project: 'Künstlerische Aristokratie'
