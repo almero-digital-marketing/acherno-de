@@ -1,3 +1,8 @@
+Redirect 301 /interior/haus-wohnung.html http://acherno.de/inneneinrichtung/haus-wohnung.html
+Redirect 301 /interior/häuser-und-wohnungen.html http://acherno.de/inneneinrichtung/haus-wohnung.html
+Redirect 301 /interior/büro-laden-clubs-hotels.html http://acherno.de/inneneinrichtung/b%C3%BCro-restorant-hotel.html
+Redirect 301 /interior/büro-restorant-hotel.html http://acherno.de/inneneinrichtung/b%C3%BCro-restorant-hotel.html
+
 Redirect 301 /interior-design/wohnung/zimt-kardamom-und-vanille/interior.html http://acherno.de/interior-design/wohnung/kardamon-vanille-zimt/inneneinrichtung.html
 Redirect 301 /interior-design/wohnung/aero-shokolade/interior.html http://acherno.de/interior-design/wohnung/aero-luftschokolade/interior-design.html
 Redirect 301 /interior/häuser-und-wohnungen.html http://acherno.de/inneneinrichtung/haus-wohnung.html
