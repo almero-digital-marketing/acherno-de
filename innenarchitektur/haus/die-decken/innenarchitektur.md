@@ -9,6 +9,7 @@ featured: true
 title: 'Inneneinrichtung Haus (Die Decken)'
 subtitle: 'Extravagant'
 description: 'Decke – Aushängeschild und Eyecatcher. Das extravagante Deckendesign haben wir bewusst übernommen um es als Grundlagenelement für unser einzigartiges Raumkonzept wirken zu lassen.'
+legacy: '/interior-design/bar/zigarrenlounge/interior-design.html'
 image: 'http://hub.acherno.com/svn/tavanite/Site/Realizacia/01_hol_interior_3_cropped.jpg'
 rooms:
   -

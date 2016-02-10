@@ -10,6 +10,7 @@ project: 'Die Schatzinsel'
 title: '[Innenausstattung Wohnung] (Die Schatzinsel)'
 subtitle: '(Märchenhaft)'
 description: 'Eine großzügige 100 qm Maisonettewohnung, mit extravagantem Schnitt, der alle Blicke auf sich zieht. Klare Linien in Weiß, grau, schwarz und einem kräftigen lila als Akzent.'
+legacy: '/interior-design/wohnung/die-schatzinsel/innenausstattung.html'
 image: 'http://hub.acherno.com/svn/ostrovat-na-sakrovishtata/Site/Realizacia/05_IMG_3192_1v33.jpg'
 rooms:
   -

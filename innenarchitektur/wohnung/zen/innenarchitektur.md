@@ -9,6 +9,7 @@ project: 'Zen'
 title: '[Wohndesign] (Zen)'
 subtitle: '(Junger Rebell)'
 description: 'Eine Wohnung, die einem jungen rebellischen Geist unterworfen ist. Jung, energisch und mit voller Lebensfreude – das ist unser Auftraggeber. Seine Vision von einer modernen und ausbalancierten Wohnseins war unsere Mission.'
+legacy: '/interior-design/wohnung/zen/wohndesign.html'
 image: 'http://hub.acherno.com/svn/dzen/Site/Realizacia/02-18.jpg'
 rooms:
   -

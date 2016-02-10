@@ -9,6 +9,7 @@ project: 'Trautes Heim - Glück allein'
 title: '[Interior Design Wohnung ] (Trautes Heim - Glück allein)'
 subtitle: 'Märchenhaftes Ambiente'
 description: 'Trautes Heim, Glück allein –  eine Wahrheit die sich in diesem nostalgisch-romantischen Wohndesign wiederspiegelt. Eine unschuldige märchenhafte Welt, die von weichen Farben, klaren Linien und sanften Übergänge inspiriert ist.'
+legacy: '/interior-design/wohnung/trautes-heim-glück-allein/interior-design.html'
 image: 'http://hub.acherno.com/svn/prispivna-pesen/Site/Finalni/DH230741_2_3_4_5%20copy.jpg'
 video: 'http://hub.acherno.com/svn/prispivna-pesen/Site/Video/zlatina-20150319-hd.mp4'
 rooms:

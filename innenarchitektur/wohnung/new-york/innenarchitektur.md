@@ -9,6 +9,7 @@ design: 'Modernes (Interior)'
 title: '[Interior Design] (New York)'
 subtitle: 'Glamour'
 description: 'New York is The City That Never Sleeps. Für Millionen ist Sie das Tor zur Hoffnung und Glück. Unsere Inspiration für diese Wohnung, die aus Wohnzimmer, Küche, Schlafzimmer, Kinderzimmer und zwei Badezimmern und einer Gästetoilette besteht.'
+legacy: '/interior-design/wohnung/new-york/interior-design.html'
 image: 'http://hub.acherno.com/svn/new-york/Site/Realizacia/01_19d.jpg'
 rooms:
   -

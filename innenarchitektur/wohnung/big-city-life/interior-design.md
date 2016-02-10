@@ -9,6 +9,7 @@ price: 50
 title: '[Innenausstattung] (Big City Life)'
 subtitle: '(Der Duft von Flieder)'
 description: 'Wenn die Tage länger werden, die Nächte lauer, die Promenade sich mit Menschen füllt, erwacht das Leben in der Stadt! Der Duft von Flieder und die wärmenden Strahlen der Sonne vertreiben auch den letzten Winterblues und machen Platz für Frühlingsgefühle.'
+legacy: '/interior-design/wohnung/big-city-life/interior-design.html'
 image: 'http://hub.acherno.com/svn/gradski/Site/Realizacia/1_h-r.jpg'
 rooms:
   -

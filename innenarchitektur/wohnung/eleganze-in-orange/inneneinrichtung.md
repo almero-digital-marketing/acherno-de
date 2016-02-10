@@ -8,6 +8,7 @@ project: 'Eleganz in orange'
 title: '[Inneneinrichtung Wohnung] (Schlichte Eleganz in Orange)'
 subtitle: 'Schlichte (Schönheit)'
 description: 'Die exotische Süße der Orange entführt dich an einen einsamen Stand und lässt dich träumen. Eine feine und leichte Ergänzung die Unvergessen bleibt.'
+legacy: '/interior-design/wohnung/eleganze-in-orange/inneneinrichtung.html'
 image: 'http://hub.acherno.com/svn/portokalovo-sladko/Site/Realizacia/AchL6a.jpg'
 rooms:
   -

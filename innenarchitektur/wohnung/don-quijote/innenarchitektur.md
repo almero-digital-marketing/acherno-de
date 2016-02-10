@@ -8,6 +8,7 @@ project: 'Don Quijote'
 title: '[Innendesign Wohnung] (Don Quijote)'
 subtitle: 'Motiv Mittelalter'
 description: 'Moderne Klassik. Eine Innenausstattung, die vom Mittelalter inspiriert ist.'
+legacy: '/interior-design/wohnung/don-quijote/einrichtung.html'
 image: 'http://hub.acherno.com/svn/don-kihot/Site/Finalni/9.jpg'
 rooms:
   -

@@ -8,6 +8,7 @@ project: 'Rauch'
 title: '[Inneneinrichtung Wohnung] (Rauch)'
 subtitle: 'In 80 Tagen um die Welt'
 description: 'Der Rauch – ein Stoff  der Gegensätze, der gleichermaßen formlos und doch greifbar erscheint. Schwarz oder weiß. Er kann jeden Raum ausfüllen, kann gefühlt werden, aber nie festgehalten. Rauch von einer genüsslichen Zigarre oder einem warmen Kamin. Es bleibt immer der Rauch. Das flüchtige Element.'
+legacy: '/interior-design/wohnung/rauch/inneneinrichtung.html'
 image: 'http://hub.acherno.com/svn/dim/Site/Finalni/2a.jpg'
 rooms:
   -

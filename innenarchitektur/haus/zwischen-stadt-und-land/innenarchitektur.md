@@ -9,6 +9,7 @@ project: 'Zwischen Stadt und Land'
 title: 'Inneneinrichtung Wohnhaus (Zwischen Stadt und Land)'
 subtitle: 'Braune (Eleganz)'
 description: 'Ein frischer Sommermorgen. Die Sonnenstrahlen wärmen die Veranda des Hauses. In der Küche duftet es nach gekochtem Kaffe und frischgepressten Orangensaft. Eine Dusche im riesigen Badezimmer mit den großen Fenstern. Umkleiden im begehbaren Kleiderschrank, noch kurz den Look im Ganzkörperspiegel gecheckt. Das Leben ist schön und der Arbeitstag kann beginnen.'
+legacy: '/interior-design/haus/zwischen-stadt-und-land/inneneinrichtung.html'
 image: 'http://hub.acherno.com/svn/mezhdu-planinata-i-grada/Site/Realizacia/31.jpg'
 rooms:
   -

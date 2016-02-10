@@ -9,6 +9,7 @@ project: 'Stahl, Ziegel, Beton'
 title: '[Innenausstattung einer Wohnung] (Beton, Ziegel und Eisen)'
 subtitle: 'Loft Inneneinrichtung'
 description: 'Diese Wohnung ähnelt keinem von unseren vorherigen Projekten. Unsere Kunden wünschten sich eine unkonventionelle und extravagante Einrichtung für ihr neues Zuhause und wir schufen ein Märchen aus dekorativen Ziegeln und Eisen.'
+legacy: '/interior-design/wohnung/stahl-ziegel-beton/innenausstattung.html'
 image: 'http://hub.acherno.com/svn/beton-tuhla-i-zhelyazo/Site/Realizacia/02_2.jpg'
 rooms:
   -

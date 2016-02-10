@@ -1,16 +1,15 @@
 ---
-todo: 
-  - 'Не е добавен във Facebook'
 href: '/web/projects/private/optimism'
 order: 11
 coverLayout: 2
 featured: true
 price: 75
 design: '(Moderne Klassik) und Nostalgie'
-project: 'Optimismus ist der Schüssel'
+project: 'Optimismus ist der Schlüssel'
 title: '[Inneneinrichtung Wohnung] (Optimismus ist der Schlüssel)'
 subtitle: 'Neu (inszeniert)'
 description: 'Eine radikale Umbaumaßnahme. Um Sicher zu gehen, dass  später keine Probleme auftauchen, haben wir alles ersetzt. Die Wasser- und Abwasserversorgung und die elektrische Anlage.'
+legacy: '/interior-design/wohnung/optimismus-ist-der-shüssel/inneneinrichtung.html'
 image: 'http://hub.acherno.com/svn/optimizam-mu-e-maykata/Site/Realizacia/spalnq_snimka_06.jpg'
 rooms:
   -

@@ -9,6 +9,7 @@ price: 55
 title: '[Interior Design Ladengeschäft] (Boom)'
 subtitle: 'Jung & Erfrischend'
 description: 'Tausende kleine Blasen breiten sich aus und bedecken das Wasser mit einem dichten, feinperligen Schaum, ein süßliches Aroma fühlt den Raum, du beobachtest wie die kleine Duftbombe allmählich die Kontrolle über deine Sinne übernimmt. Lege vorsichtig deinen Fuß ins heiße und duftige Badewasser und schon trittst du in einer anderen viel schöneren Welt über.'
+legacy: '/interior-design/laden/boom/interior-design.html'
 image: 'http://hub.acherno.com/svn/boom/Site/3D/02-mag_f.jpg'
 rooms:
   -

@@ -9,6 +9,7 @@ price: 65
 title: '[Gastronomiedesign] (Synergie)'
 subtitle: 'Metropole & (Provence)'
 description: 'Verbunden durch eine Treppe realisieren wir hier ein Restaurant über zwei Etagen, das unterschiedliche Stilrichtungen gekonnt unter einem Dach vereint.'
+legacy: '/interior-design/restaurant/synergie/gastronomiedesign.html'
 image: 'http://hub.acherno.com/svn/sblasaka-na-dva-svyata/Site/3D/04_f.jpg'
 rooms:
   -

@@ -11,6 +11,7 @@ price: 50
 title: '[Inneneinrichtung Wohnung] (Alles hat eine Geschichte)'
 subtitle: '(Geliebtes) Zuhause'
 description: Die gute alte Plattenbauwohnung zeichnet sich durch eine praktische Aufteilung und viel Platz aus. Baulich bedingt lässt sich die Wohnung allerdings nur begrenzt umbauen. Unsere individuelle Planungsideen haben nichtsdestotrotz einen wunderschönen Wohnraum geschaffen.'
+legacy: '/interior-design/wohnung/alles-hat-eine-geschichte/inneneinrichtung.html'
 image: 'http://hub.acherno.com/svn/vsichko-si-ima-istoria/Site/Realizacia/07_dr%20(1).jpg'
 rooms:
   -

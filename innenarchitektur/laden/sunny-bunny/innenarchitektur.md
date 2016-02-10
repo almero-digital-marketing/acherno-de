@@ -9,6 +9,7 @@ price: 50
 title: '[Interior Design Kindermode Boutique] (Sunny Bunny)'
 subtitle: 'Fröhlich & Verspielt'
 description: 'Komm Häschen, du kleines Häschen. Lass uns eine Sonne, Regenbogen und viele Kinder malen.'
+legacy: '/interior-design/laden/sunny-bunny/interior-design.html'
 image: 'http://hub.acherno.com/svn/sunny-bunny/Site/3D/Magazin_Solunska_FINAL_01_N.jpg'
 rooms:
   -

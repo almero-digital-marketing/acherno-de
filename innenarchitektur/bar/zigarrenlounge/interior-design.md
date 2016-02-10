@@ -9,6 +9,7 @@ price: 90
 title: '[Interior Design Gaststätte] (Zigarrenlounge)'
 subtitle: 'Klassik & Stil'
 description: 'Der süßliche und schwere Duft von Zigarren und Whisky füllt den Raum und wird allmählich ein Teil von dir. Von hier aus liegt dir die ganze Stadt, überflutet von hellen Lichtern, zu Füßen. Hier kannst du dich mit einem edlen Whiskey in der Hand auf einem großen Sessel setzten und vor dem Kaminfeuer entspannen.'
+legacy: '/interior-design/bar/zigarrenlounge/interior-design.html'
 image: 'http://hub.acherno.com/svn/pura-bar/Site/3D/03.jpg'
 rooms:
   -

@@ -1,6 +1,4 @@
 ---
-todo: 
-  - 'Не е добавен във Facebook'
 href: '/web/projects/private/weather'
 order: 10
 coverLayout: 10
@@ -11,6 +9,7 @@ project: 'Zeitlos'
 title: '[Interior Design] (Zeitlos)'
 subtitle: '(Abwechslungsreich) & behaglich'
 description: 'Die Uhren gehen hier langsamer. Um das Wohngefühl eines geräumigen Hauses zu erzeugen haben wir bei diesem Projekt zwei separate Wohnungen durch umfangreiche Baumaßnahmen, miteinander verbunden.'
+legacy: '/interior-design/wohnung/zeitlos/interior-design.html'
 image: 'http://hub.acherno.com/svn/vremeto/Site/Realizacia/04_5.jpg'
 rooms:
   -

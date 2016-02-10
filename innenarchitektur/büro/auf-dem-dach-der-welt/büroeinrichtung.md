@@ -1,5 +1,5 @@
 ---
-href: '/web/projects/public/on-the-roof-of-the world' 
+href: '/web/projects/public/on-the-roof-of-the-world' 
 order: 52
 coverLayout: 14
 featured: true
@@ -8,7 +8,8 @@ project: 'Auf dem Dach der Welt'
 price: 65
 title: 'Büroeinrichtung (Auf dem Dach der Welt)'
 subtitle: 'Modern & innovativ'
-description: 'Von der Spitze der Kathedrale aus betrachtet wirkten die Menschen wie kleine schwarze Punkte, die ziellos umher irrten. Der Blick streifte die Dächer, die an ein Meer aus Rotalgen erinnerte, das sich leicht wogend immer wieder aufeinander zu und voreinander weg bewegte. '
+description: 'Von der Spitze der Kathedrale aus betrachtet wirkten die Menschen wie kleine schwarze Punkte, die ziellos umher irrten. Der Blick streifte die Dächer, die an ein Meer aus Rotalgen erinnerte, das sich leicht wogend immer wieder aufeinander zu und voreinander weg bewegte.'
+legacy: '/web/innenarchitektur/büro/auf-dem-dach-der-welt/büroeinrichtung.html'
 image: 'http://hub.acherno.com/svn/na-pokriva-na-sveta/Site/3D/01-m.jpg'
 rooms:
   -

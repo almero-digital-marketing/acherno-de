@@ -9,6 +9,7 @@ project: 'Jazz'
 title: '[Interior Design Apartment] (Jazz)'
 subtitle: '(Stilvolle Einrichtung) in dezenten Farben'
 description: 'New Orleans, Anfang des 20. Jahrhunderts – der Jazz ist geboren und erschallt auch in der letzten kleinen Straße der Stadt. Die Bars sind voll mit Tanzenden, die sich den neuen Rhythmen  des Jazz hingeben.'
+legacy: '/interior-design/wohnung/jazz/interior-design.html'
 image: 'http://hub.acherno.com/svn/jazz/Site/Finalni/7.jpg'
 rooms:
   -

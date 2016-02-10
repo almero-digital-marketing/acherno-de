@@ -1,6 +1,4 @@
 ---
-todo: 
-  - 'Не е добавен във Facebook'
 href: '/web/projects/private/bohemian' 
 order: 10
 coverLayout: 14
@@ -11,6 +9,7 @@ price: 65
 title: '[Inneneinrichtung Apartment] (Landhaus Flair)'
 subtitle: 'Modernes (Interior Design)'
 description: 'Eine Wohnung, die sehr unübliche Formen hat. Die Klienten gaben diesem Projekt den netten Namen „ Die zwei rechten Winkel“ vollkommen zu Recht.'
+legacy: '/interior-design/wohnung/landhaus-flair/interior-design.html'
 image: 'http://hub.acherno.com/svn/bohemski/Site/Finalni/ach%20(18)b.jpg'
 video: 'http://hub.acherno.com/svn/bohemski/Site/Video/bohemski-20141103-hd.mp4'
 rooms:

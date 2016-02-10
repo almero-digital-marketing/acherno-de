@@ -9,6 +9,7 @@ project: 'Die Farben des Stiers'
 title: '[Innendesign Wohnung] (Die Farben des Stiers)'
 subtitle: 'Interior design (Sternzeichen Stier)'
 description: 'Ein Wohnkonzept, das wir ganz dem Sternzeichen Stier gewidmet haben, weil unsere Kundin und die zwei Projektdesigner unter diesem Sternzeichen geboren sind.Inspiriert von einer Stierkampfarena ist die Interior in prächtigem purpurrot kombiniert mit sandigen Erdtönen gehalten.'
+legacy: '/interior-design/wohnung/die-farben-des-stiers/einrichtung.html'
 image: 'http://hub.acherno.com/svn/tzvetovete-na-teletza/Site/Realizacia/02-h.jpg'
 rooms:
   -

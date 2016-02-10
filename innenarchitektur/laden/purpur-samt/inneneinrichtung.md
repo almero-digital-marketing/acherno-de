@@ -9,6 +9,7 @@ price: 65
 title: '[Inneneinrichtung Boutique] (Purpursamt)'
 subtitle: '(Glamour)'
 description: 'Der Samt ist das Meer und fließt von den Wänden über die Vorhänge auf Sie zu. Der hochglänzende Fussboden vermittelt Ihnen mit seinen Reflektionen das Gefühl über Wasser zu laufen.'
+legacy: '/interior-design/laden/purpur-samt/inneneinrichtung.html'
 image: 'http://hub.acherno.com/svn/purpurno-kadife/Site/3D/vidin_mall_new_final_04.jpg'
 rooms:
   -

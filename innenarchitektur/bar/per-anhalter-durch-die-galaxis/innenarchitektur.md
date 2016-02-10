@@ -8,7 +8,8 @@ design: '(Moderne) Haptik'
 project: 'Per Anhalter durch die Galaxis'
 title: '[Innendesign Club] (Per Anhalter durch die Galaxis)'
 subtitle: 'Nightclub White'
-description: 'Ist die  Disco überfüllt und du möchtest dich in Ruhe unterhalten? Brauchen du und deine Freunde eine kleine Pause in einer Lokation die so scheint, als wäre sie aus einem Science-Fiction Roman entsprungen?  Mit diesem einzigartigen Bardesign haben wir genau deinen Geschmack getroffen! '
+description: 'Ist die  Disco überfüllt und du möchtest dich in Ruhe unterhalten? Brauchen du und deine Freunde eine kleine Pause in einer Lokation die so scheint, als wäre sie aus einem Science-Fiction Roman entsprungen?  Mit diesem einzigartigen Bardesign haben wir genau deinen Geschmack getroffen!'
+legacy: '/interior-design/bar/per-anhalter-durch-die-galaxis/innendesign.html'
 image: 'http://hub.acherno.com/svn/izvaden-ot-glavata-ni/Site/3D/1_bar_f.bmp'
 rooms:
   -

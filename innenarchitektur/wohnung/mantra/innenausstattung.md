@@ -8,6 +8,7 @@ project: 'Mantra'
 title: '[Interior Design] (Mantra)'
 subtitle: 'Relaxzone'
 description: 'Es ist wunderbar, Dich entspannen zu können, Dich der Erholung und der Ruhe zu ergeben und nur alles um Dich  herum zu beobachten oder tief in Dich selbst einzutauchen. Genau solche Innenausstattung, welche  zur vollen Wonne verleitet, ist diese, an welcher wir bis vor kurzem gearbeitet haben.'
+legacy: '/interior-design/wohnung/mantra/interior-design.html'
 image: 'http://hub.acherno.com/svn/mantra/Site/Realizacia/hol_snimka_01.jpg'
 rooms:
   -

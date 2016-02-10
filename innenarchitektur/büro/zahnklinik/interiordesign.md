@@ -3,12 +3,13 @@ href: '/web/projects/public/doctors-offices'
 order: 53
 coverLayout: 11
 featured: true
-design: '(Interior design) Praxisräume'
+design: '(Innenarchitektur) Praxisräume'
 project: 'Dr. Doktor'
 price: 65
 title: '[Inneneinrichtung Zahnklinik] (Dr. Doktor)'
 subtitle: 'Stil & Technik'
 description: 'Die Patientin lächelte und offenbarte ihr weißes und perfektes Gebiss. Dr. Doktor bewegte sich auf den leuchtenden Multimediapanel neben dem Empfang zu, überlegte kurz und aktivierte ihn. In dieser Sekunde veränderte sich alles. Mehr Licht, eine stimmungsvolle Musik, anderes Raumklima und eine neue Sonnenblendeposition in allen Behandlungsräumen.'
+legacy: '/interior-design/büro/zahnklinik/interiordesign.html'
 image: 'http://hub.acherno.com/svn/doctor/Site/3D/02_1_f.jpg'
 rooms:
   -
