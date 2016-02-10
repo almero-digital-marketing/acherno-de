@@ -1,8 +1,8 @@
 ---
 layout: /web/index.ect
 href: '/web'
-title: '(Interior Design)'
-breadcrumbTitle: 'Interior Design'
+title: '(Innenarchitektur)'
+breadcrumbTitle: 'Innenarchitektur'
 subtitle: 'Inneneinrichtung, (Haus), (Wohnung), (Büro), (Hotel), (Restaurant)'
 description: 'Für uns ist das Interior Design nicht nur eine Dienstleistung, sondern ein komplexer Prozess, an dessen Ende eine perfekte Umsetzung Ihres Wohntraums steht. Unsere langjährige Erfahrung in Design, Planung und Realisierung ist unsere Garantie für ein Gelingen.'
 blog:
