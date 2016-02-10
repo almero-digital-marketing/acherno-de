@@ -1,11 +1,12 @@
 ---
 layout: /web/service.ect
 href: '/web/services/design'
-title: '(Innenausstattung)'
+title: '(Innenarchitektur)'
 subtitle: (Ideenprojekt) und Ausführungsplan
 description: 'Unser Auftrag ist es eine Innenaustattung für Sie zu konzipieren, die Ihrem Lifestyle entspricht und Ihre speziellen Wünsche eingeht  - Wohnstil, Lieblingsfarben und Funktionalität im Einklang.'
 image: /images/base-interior-02.jpg
 showPresentation: false
+legacy: /leistungen/interior-design.html
 ---
 Unser Auftrag ist es eine Innenaustattung für Sie zu konzipieren, die Ihrem Lifestyle entspricht und Ihre speziellen Wünsche eingeht  - Wohnstil, Lieblingsfarben und Funktionalität im Einklang.
 Inspirieren Sie uns mit Bildern und eigenen Ideen von  unterschiedlichen Interior Designs, die Ihnen gefallen. So können wir schon im Vorfeld die Umsetzung Ihrer Ideen planen.
