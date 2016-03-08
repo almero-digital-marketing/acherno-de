@@ -5,7 +5,7 @@ order: 2
 ## Was umfasst ein **Ideenprojekt** ?
 Aufgrund der Raumaufteilung erstellen wir 5-6 Konzepte von unterschiedlichen Innenausstattungen mit diversen Farbkombinationen, Fußbodenbelägen, Beleuchtungsmöglichkeiten und Möbeln. Die Erarbeitung nimmt zwei Wochen in Anspruch und hängt von der Quadratmeterfläche und dem  Grundriss der Räume ab.
 
-In unserem 3D-Modell können wir die realen Kosten der Einrichtungsgegenstände ermitteln und in Ihrem vorgegebenen Budgetrahmen einkalkulieren. Das gewährleistet, dass das Ergebnis nach dem Abschluss der Umbauleistungen nicht von der von Ihnen genehmigten 3D Visualisierung abweicht.
+In unserem Planungsverfahren können wir die realen Kosten der Raumgestaltung ermitteln und in Ihrem vorgegebenen Budgetrahmen einkalkulieren. Das gewährleistet, dass das Ergebnis nach dem Abschluss dem Umbau nicht von der von Ihnen gewünschten Inneneinrichtung abweicht.
 
 - ### Reale **Farben und Stoffe**
     ![Ideeninnenausstattungsprojekt](../images/idea-preview-01.png)

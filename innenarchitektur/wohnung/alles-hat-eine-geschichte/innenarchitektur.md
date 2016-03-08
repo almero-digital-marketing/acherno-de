@@ -5,7 +5,7 @@ href: '/web/projects/private/everything-has-its-history'
 order: 11
 coverLayout: 8
 featured: true
-design: 'Modernes (Innenausstattung) '
+design: 'Moderne (Raumgestaltung)'
 project: 'Alles hat eine Geschichte'
 price: 50
 title: '[Inneneinrichtung Wohnung] (Alles hat eine Geschichte)'
@@ -15,37 +15,37 @@ legacy: '/interior-design/wohnung/alles-hat-eine-geschichte/inneneinrichtung.htm
 image: 'http://hub.acherno.com/svn/vsichko-si-ima-istoria/Site/Realizacia/07_dr%20(1).jpg'
 rooms:
   -
-    title: 'Interior design (Wohnzimmer)'
+    title: 'Raumgestaltung (Wohnzimmer)'
     description: 'Das Wohnzimmer, ein typischer Plattenbauraum ist rechteckig geräumig und hell. Um diesen Architekturstil zu durchbrechen und um Langeweile vorzubeugen, haben wir ein unkonventionelles Design für die Hängedecken realisiert.'
     pageLayout: 6
     project: 'http://hub.acherno.com/svn/vsichko-si-ima-istoria/Site/3D/02-h_f.jpg'
     final: 'http://hub.acherno.com/svn/vsichko-si-ima-istoria/Site/Realizacia/02_dr%20(3).jpg'
   -
-    title: 'Inneneinrichtung (Wonzimmer)'
+    title: 'Innenarchitektur Projekt (Wohnzimmer)'
     description: 'Abendessen im Wohnzimmer? Kein Problem. Für diesen Zweck haben wir einen großen Esstisch mit ausreichend Sitzmöglichkeiten vorgesehen. Weiches Licht aus modernen Hängeleuchten umspielt diesen Essplatz.'
     pageLayout: 2
     project: 'http://hub.acherno.com/svn/vsichko-si-ima-istoria/Site/3D/01-h_f.jpg'
     final: 'http://hub.acherno.com/svn/vsichko-si-ima-istoria/Site/Realizacia/01_dr%20(4).jpg'
   -
-    title: 'Interior design (Kinderzimmer)'
+    title: 'Raumdesign (Kinderzimmer)'
     description: 'Das Deckenkonzept ist unkonventionell ineinander verflochten. Das Kinderzimmer ist Weiß gehalten und setzt Akzente in grau und rot.'
     pageLayout: 3
     project: 'http://hub.acherno.com/svn/vsichko-si-ima-istoria/Site/3D/04-d_f.jpg'
     final: 'http://hub.acherno.com/svn/vsichko-si-ima-istoria/Site/Realizacia/04_dr%20(23).jpg'
   -
-    title: 'Einrichtung (Kinderzimmer)'
+    title: 'Raumgestaltung (Kinderzimmer)'
     description: 'Durch die Integration des Balkons, wurde ausreichend Raum für zwei separate Betten und zwei Arbeitsplätze geschaffen.'
     pageLayout: 5
     project: 'http://hub.acherno.com/svn/vsichko-si-ima-istoria/Site/3D/03-d_f.jpg'
     final: 'http://hub.acherno.com/svn/vsichko-si-ima-istoria/Site/Realizacia/03_dr%20(21).jpg'
   -
-    title: 'Interior design (Küche)'
+    title: 'Innenarchitektur Projekt (Küche)'
     description: 'Die Küche befindet sich wie üblich für diese Bauweise in einem separaten Raum. Ein kleiner Esstisch komplettiert die Einrichtung, die in zartem beige und braun gehalten ist.'
     pageLayout: 4
     project: 'http://hub.acherno.com/svn/vsichko-si-ima-istoria/Site/3D/06-k_f.jpg'
     final: 'http://hub.acherno.com/svn/vsichko-si-ima-istoria/Site/Realizacia/06_dr%20(25).jpg'
   -
-    title: 'Inneneinrichtung (Eingangsbereich)'
+    title: 'Interior Design (Eingangsbereich)'
     description: 'Der Eingangsbereich bildet durch seine Farbgebung einen natürlichen Übergang von außen nach innen.'
     pageLayout: 7
     project: 'http://hub.acherno.com/svn/vsichko-si-ima-istoria/Site/3D/08-a_f.jpg'

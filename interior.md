@@ -1,12 +1,12 @@
 ---
 layout: /web/projects-private-public.ect
 href: '/web/projects'
-title: '[Realisierte] (Projekte)'
-subtitle: 'Im öffentlichen und privaten Bereich'
-description: 'Wir schaffen es alle Ideen des Innenausstattung Projektes bis zum kleinsten detail zu realisieren.'
+title: '[Innenarchitektur]'
+subtitle: 'Wohndesign, Arbeits- and Geschäftsräume Design'
+description: 'Wir schaffen es alle Ideen des Raumgestaltung Projektes bis zum kleinsten Detail zu realisieren.'
 ---
 ### Über uns
-Wir sind einer der wenigen Unternehmen für Interior Design auf dem Markt, dass  Ihnen das gesamte Leistungsspektrum - von der Planung mit 3D-Modell  über die bauliche Ausführung bis hin zur Endabnahme.
+Wir sind einer der wenigen Unternehmen für Raumgestaltung, das Ihnen ein breites Spektrum an Dienstleistungen rund um Ihr Projekt anbietet. Wir beraten Sie kompetent in Fragen Raumgestaltung und erstellen mit Ihnen gemeinsam eine konsequente Raumplanung inklusive einer 3D-Visualisierung, fertigen oder liefern auf Wunsch Ihre komplette Raumgestaltung und erstellen alle relevanten Bau- Schalt und Versorgungspläne.
 
 ### Unsere Philosophie 
-Von der Planung bis zur Umsetzung.  Wir, das Team von Acherno sind bei der Realisierung Ihrer Vorstellungen stets präsent.  Koordinierte Bauleitung  und eine individuelle Betreuung sind unser Credo um eine  perfekte Umsetzung Ihres Projekts  zu gewährleisten.
+Wir, das Team von Acherno sind bei der Realisierung Ihres Interior Design stets präsent. Clevere Raumlösungen und eine individuelle Betreuung sind unser Motto um eine perfekte Umsetzung Ihres Innenarchitektur Projekts zu gewährleisten.

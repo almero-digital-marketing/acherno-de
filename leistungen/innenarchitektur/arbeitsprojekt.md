@@ -13,4 +13,4 @@ Der Arbeitsprojekt ist die Grundlage aller Renovierungs- und Umbauleistungen.  D
 Wir bieten Ihnen die Möglichkeit per Muster alle Farben, Stoffe, Fliesen bis hin zu Sonnenblenden, Vorort bei ihnen zuhause oder in einem unser Geschäftsbüros in Augenschein zu nehmen.
 Während Sie ihre Stoffe und Einrichtungen auswählen, können wir mit Ihnen gemeinsam die verschiedenen Lösungen besprechen. 
 
-Um ihnen es so einfach wie möglich zu machen melden wir uns ca. nach einer Woche telefonisch und per E-Mail um Ihnen einige konkrete Lösungsvarianten vorzustellen. Wenn sie bis dahin Fragen oder Änderungswünsche haben können sie uns jederzeit kontaktieren. So können wir Ihre Vorstellung einer idealen Innenausstattung am schnellsten visualisieren und ausführen.
+Um ihnen es so einfach wie möglich zu machen melden wir uns ca. nach einer Woche telefonisch und per E-Mail um Ihnen einige konkrete Raumlösungen vorzustellen. Wenn sie bis dahin Fragen oder Änderungswünsche haben können sie uns jederzeit kontaktieren. So können wir Ihre Vorstellung einer idealen Raumgestaltung am schnellsten visualisieren und ausführen.

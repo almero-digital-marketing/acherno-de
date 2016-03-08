@@ -13,31 +13,31 @@ legacy: '/interior-design/restaurant/synergie/gastronomiedesign.html'
 image: 'http://hub.acherno.com/svn/sblasaka-na-dva-svyata/Site/3D/04_f.jpg'
 rooms:
   -
-    title: '(Gastronomiedesign)'
+    title: 'Innenarchitektur Projekt (Gastronomie)'
     description: 'Das erste Geschoß des Restaurants bietet seinen Gästen ein Ambiente, das im klassischen Stil der Provence gehalten ist.'
     pageLayout: 2
     project: 'http://hub.acherno.com/svn/sblasaka-na-dva-svyata/Site/3D/06_f.jpg'
     final: 'http://hub.acherno.com/svn/sblasaka-na-dva-svyata/Site/Realizacia/03.JPG'
   -
-    title: 'Innenausstattung von (Restaurant)'
+    title: 'Raumgestaltung von (Restaurant)'
     description: 'Ein paar Stufen nach oben und schon erwartet Sie, ein elegant und modern eingerichtetes Restaurant, das allen Trends der Moderne Rechnung trägt.'
     pageLayout: 6
     project: 'http://hub.acherno.com/svn/sblasaka-na-dva-svyata/Site/3D/01_f.bmp'
     final: 'http://hub.acherno.com/svn/sblasaka-na-dva-svyata/Site/Realizacia/01.JPG'
   -
-    title: '(Gastronomieeinrichtung) und Raumausstattung'
+    title: 'Innenarchitektur Projekt (Gastronomie)'
     description: ' Im Souterrain wird das legeré französische Gefühl der Provence gelebt, während im Obergeschoss der Puls der Moderne zu spüren ist.'
     pageLayout: 2
     project: 'http://hub.acherno.com/svn/sblasaka-na-dva-svyata/Site/3D/04_f.jpg'
     final: 'http://hub.acherno.com/svn/sblasaka-na-dva-svyata/Site/Realizacia/04.JPG'
   -
-    title: 'Innenausstattung von (Gaststätte)'
+    title: 'Interior Design von (Gaststätte)'
     description: Eine kontrastreiche Farbgestaltung  verleiht dem extravaganten Obergeschoss eine zusätzliche Lebendigkeit. Altweiß kombiniert mit glänzendem Schwarz und einer Texturtapete komplettiert das moderne Design. '
     pageLayout: 6
     project: 'http://hub.acherno.com/svn/sblasaka-na-dva-svyata/Site/3D/02_f.bmp'
     final: 'http://hub.acherno.com/svn/sblasaka-na-dva-svyata/Site/Realizacia/02.JPG'
   -
-    title: 'Innenausstattung und Einrichtung von (Gaststätte)'
+    title: 'Raumgestaltung (Gaststätte)'
     description: 'Wie schön doch eine perfekte Symbiose zweier unterschiedlicher Welten sein kann.'
     pageLayout: 5
     project: 'http://hub.acherno.com/svn/sblasaka-na-dva-svyata/Site/3D/05_f.jpg'

@@ -3,7 +3,7 @@ href: '/web/services/design/plan-presentation'
 order: 4
 ---
 ## Aus was besteht ein **Arbeitsprojekt**?
-Für unseren Kunden erstellen wir pro Raum mehr als 15 technische Zeichnungen für alle wichtigen Aspekte der Raumplanung. Die exakten Zeichnungen ermöglichen es unserem Fachpersonal ihre Vorstellungen hinsichtlich der Inneneinrichtung vollständig umzusetzen. 
+Für unseren Kunden erstellen wir pro Raum mehr als 15 technische Zeichnungen für alle wichtigen Aspekte der Raumplanung. Die exakten Zeichnungen ermöglichen es unserem Fachpersonal ihre Vorstellungen hinsichtlich der Raumgestaltung vollständig umzusetzen. 
 
 Das Arbeitsprojekt spart viel Zeit und Geld indem sie die Wahrscheinlichkeit von Beschädigungen an der Stromverkabelung oder an Rohrleitungen während der Montage minimiert.
 

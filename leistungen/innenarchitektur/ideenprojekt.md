@@ -10,5 +10,6 @@ Wir bieten Ihnen hier die Erstellung eines 3D-Computermodells für das Interior 
 - - -
 
 ### Aufteilungen und 3D Visualisierungen
-Wir bieten Ihnen verschiedene Visualisierungen der Raumaufteilung und der Inneneinrichtung. Um das Optimum aus dem vorhandenen Raum zu erzielen sind wir in der Lage auch Innenwände zu versetzen oder auch Wasser- und Stromleitungen neu zu verlegen. 
-Die Erarbeitung einer virtuellen Projektplanung dauert 5 Tage. Wir geben Ihnen die Möglichkeit aus verschiedenen Lösungen der Innenaustattung oder des Designs auszuwählen.
+Um Ihnen eine wirklich reale Vorstellung ihrer gewünschten Raumgestaltung geben zu können, benutzen wir modernste 3D Visualisierungensoftware.
+Wir visualisieren Ihnen verschieden Architektur Modelle um das Optimum in Design und Funktionalität aus den vorhandenen Räumen zu holen. Innenwände versetzen, Wasser- und Stromleitungen neu zu verlegen- das alles ist Teil unserer 3D-Visualierungen.
+Die Erarbeitung einer virtuellen Projektplanung dauert 5 Tage.

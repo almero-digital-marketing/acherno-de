@@ -13,13 +13,13 @@ legacy: '/interior-design/laden/boom/interior-design.html'
 image: 'http://hub.acherno.com/svn/boom/Site/3D/02-mag_f.jpg'
 rooms:
   -
-    title: 'Innenausstattung eines (Ladens)'
+    title: 'Raumgestaltung eines (Ladens)'
     description: 'Eine warme duftige Praline mit rosa Glasur aus Erdbeercreme umhüllt von einem Seidenpapier versinkt langsam in der Badewanne.'
     pageLayout: 1
     a3d: 'http://hub.acherno.com/svn/boom/Site/3D/03-mag_f.jpg'
     b3d: 'http://hub.acherno.com/svn/boom/Site/3D/02-mag_f.jpg'
   -
-    title: 'Innenarchitektur eines (Ladens)'
+    title: 'Innenarchitektur Projekt (Laden)'
     description: 'Ein angenehmes süßliches Aroma breitete sich wie eine Duftexplosion aus.'
     pageLayout: 7
     a3d: 'http://hub.acherno.com/svn/boom/Site/3D/05-mag_f.jpg'

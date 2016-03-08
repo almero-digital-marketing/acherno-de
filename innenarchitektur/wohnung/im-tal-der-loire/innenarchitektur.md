@@ -3,22 +3,22 @@ href: '/web/projects/private/dolinata-na-loara'
 order: 12
 coverLayout: 3
 price: 90
-design: 'Klassische (Interior)'
+design: 'Klassisches (Interior Design)'
 project: 'Im Tal der Loire'
-title: '[Inneneinrichtung Wohnung] (Im Tal der Loire)'
+title: '[Innenarchitektur Projekt] (Im Tal der Loire)'
 subtitle: 'Klassisch & Romantisch'
 description: 'Ein altes Backsteinhaus, von Efeu umrankt mit großen Fenstern und einer alten geschnitzten Eichentür. Das war unsere Vorstellung als wir diese Wohnung projektierten.'
 legacy: '/interior-design/wohnung/im-tal-der-loire/inneneinrichtung.html'
 image: 'http://hub.acherno.com/svn/dolinata-na-loara/Site/Finalni/27.jpg'
 rooms:
   -
-    title: 'Interior design (Wohnzimmer)'
+    title: 'Raumgestaltung (Wohnzimmer)'
     description: 'Ein altes Echtholzparkett, eine Wandgestaltung in Marmor Optik, dekorative Profile und viele verspielte Details geben diesem Arrangements eine heimelige Note.'
     project: 'http://hub.acherno.com/svn/dolinata-na-loara/Site/3D/02-h_f.jpg'
     final: 'http://hub.acherno.com/svn/dolinata-na-loara/Site/Finalni/29.jpg'
     pageLayout: 3
   -    
-    title: 'Einrichtung (Wohnzimmer)'
+    title: 'Innenarchitektur Projekt (Wohnzimmer)'
     description: 'Der niedrige Wohnzimmer Tisch in lila, der geblümte Polstersessel und die kleinen Dekokissen mit ihrem fröhlichen Rosendessin, laden dich zu einem Tee aus edlem Porzellan ein und lassen dich entspannt das Rundherum vergessen.'
     project: 'http://hub.acherno.com/svn/dolinata-na-loara/Site/3D/02-h_f.jpg'
     final: 'http://hub.acherno.com/svn/dolinata-na-loara/Site/Finalni/28.jpg'
@@ -30,26 +30,26 @@ rooms:
     final: 'http://hub.acherno.com/svn/dolinata-na-loara/Site/Finalni/19.jpg'
     pageLayout: 5
   -
-    title: 'Interior design (Schlafzimmer)'
+    title: 'Raumgestaltung (Schlafzimmer)'
     description: 'Ein französisches Bett mit romantischen Nachttischen, dezente Wandfarbe in Wischtechnik, imposante Vorhänge und ein Kronleuchter. Zusammen mit dem passenden Sekretär und den alten schwarz-weiß Fotografien entsteht ein stimmiges Schlafzimmerkonzept.'
     project: 'http://hub.acherno.com/svn/dolinata-na-loara/Site/3D/09-s_f.jpg'
     final: 'http://hub.acherno.com/svn/dolinata-na-loara/Site/Finalni/12.jpg'
     pageLayout: 6
   -
-    title: 'Interior design (Jugendzimmer Mädchen)'
+    title: 'Innenarchitektur Projekt (Jugendzimmer Mädchen)'
     description: 'Mädchenhaft–keine Verwechslungsgefahr dank romantischen rosa Vorhänge und einem weißen französischen Bett. Eine Steinwand setzt einen Kontrast zu dem kindlich verspielten lila Hintergrund.'
     project: 'http://hub.acherno.com/svn/dolinata-na-loara/Site/3D/17-m2_f.jpg'
     final: 'http://hub.acherno.com/svn/dolinata-na-loara/Site/Finalni/8.jpg'
     pageLayout: 2
   -
-    title: 'Interior design (Jugendzimmer Junge)'
+    title: 'Raumgestaltung (Jugendzimmer Junge)'
     description: 'British Style ist das Motto dieses Zimmers. Eine Schwarz-weiße Fototapete in Comic Style, ein Teppich mit dem Union Jack und ein Sitzsack in XXL machen dieses Teenagerzimmer einzigartig! Ein Mix aus Spannung, Individualität und Verspieltheit–eine Beschreibung die zu jedem Teenager passt.'
     project: 'http://hub.acherno.com/svn/dolinata-na-loara/Site/3D/15-m1_f.jpg'
     final: 'http://hub.acherno.com/svn/dolinata-na-loara/Site/Finalni/4.jpg'
     pageLayout: 4
   - 
-    title: 'Inneneinrichtung (Badezimmer)'
-    description: 'Charmant–das kleine Badezimmer mit Barock Elementen bietet einen hohen Wohlfühlfaktor. Florale Fließen und Familienfotos geben dem Raum eine persönliche Note.'
+    title: 'Innendesign (Badezimmer)'
+    description: 'Charmant – das kleine Badezimmer mit Barock Elementen bietet einen hohen Wohlfühlfaktor. Florale Fließen und Familienfotos geben dem Raum eine persönliche Note.'
     project: 'http://hub.acherno.com/svn/dolinata-na-loara/Site/3D/29-b_f.jpg'
     final: 'http://hub.acherno.com/svn/dolinata-na-loara/Site/Finalni/33.jpg'
     pageLayout: 8
