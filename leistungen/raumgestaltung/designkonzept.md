@@ -1,11 +1,11 @@
 ---
 href: '/web/services/design/idea'
-title: 'Ideenprojekt'
-description: 'Wir bieten Ihnen hier die Erstellung eines 3D-Computermodells für das Interior Design Ihrer Wahl an oder beraten Sie umfassend zu allen Fragen hinsichtlich der Inneneinrichtung und des Designs.'
+title: 'Designkonzept'
+description: 'Wir bieten Ihnen hier die Erstellung eines 3D-Computermodells für das Interior Design Ihrer Wahl an oder beraten Sie umfassend zu allen Fragen hinsichtlich der Raumgestaltung und des Designs.'
 order: 1
 ---
-## **Ideenprojekt**
-Wir bieten Ihnen hier die Erstellung eines 3D-Computermodells für das Interior Design Ihrer Wahl an oder beraten Sie umfassend zu allen Fragen hinsichtlich der Inneneinrichtung und des Designs.
+## **Designkonzept**
+Wir bieten Ihnen hier die Erstellung eines 3D-Computermodells für das Interior Design Ihrer Wahl an oder beraten Sie umfassend zu allen Fragen hinsichtlich der Raumgestaltung und des Designs.
 
 - - -
 

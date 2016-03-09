@@ -2,7 +2,7 @@
 layout: /web/projects.ect
 href: '/web/projects/private'
 title: '(Wohndesign)'
-subtitle: '(Wohnraum)'
+subtitle: '(Gestaltung) der (Wohnräume)'
 description: 'Jede Immobilie ist einzigartig: Innenarchitektur, Raumaufteilung, Bausubstanz und  Lage kennzeichnen nur einen Aspekt der Immobilie.'
 summary: 'Jede Immobilie ist einzigartig: Innenarchitektur, Raumgestaltung, Bausubstanz und Lage kennzeichnen nur einen Aspekt der Immobilie. Den anderen Teil, der die Individualität und den Stil der Wohnräume ausmacht, gestalten wir gemeinsam mit Ihnen.'
 ---

@@ -1,9 +1,9 @@
 ---
 layout: /web/index.ect
 href: '/web'
-title: '(Innenarchitektur)'
-breadcrumbTitle: 'Innenarchitektur'
-subtitle: '(Wohn-), (Arbeits-) and (Geschäftsräume) Design'
+title: '(Raumgestaltung & Innenarchitektur)'
+breadcrumbTitle: 'Raumgestaltung & Innenarchitektur'
+subtitle: '(Wohn-), (Arbeits-) und (Geschäftsräume) Design'
 description: 'Innenarchitektur und die Gestaltung von Innenräumen sind für uns nicht nur eine Dienstsleistung, sondern unsere Leidenschaft! Mit unserer langjährigen Erfahrung im Interior Design, Raumgestaltung, individuelle Raumlösungen und Möbelanfertigung können wir Ihren persönlichen Wohntraum bis ins Detail verwirklichen.'
 blog:
   title: '(Lese unseren Blog) [interiorideen.com]'
