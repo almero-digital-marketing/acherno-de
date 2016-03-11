@@ -1,8 +1,8 @@
 ---
 layout: /web/projects-private-public.ect
 href: '/web/projects'
-title: '[Innenarchitektur]'
-subtitle: 'Wohndesign, Arbeits- und Geschäftsräume Design'
+title: '[Projekte] (Innenarchitektur)'
+subtitle: 'Wohndesign, Büro-, Gastronomie- und Retail Design'
 description: 'Wir schaffen es alle Ideen des Raumgestaltung Konzepts bis zum kleinsten Detail zu realisieren.'
 ---
 ### Über uns

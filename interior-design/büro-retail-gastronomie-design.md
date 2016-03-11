@@ -1,8 +1,8 @@
 ---
 layout: /web/projects.ect
 href: '/web/projects/public'
-title: '(Arbeitsräume Design)'
-subtitle: '(Gestaltung) der (Arbeits-) und (Geschäftsräume)'
+title: '(Retail) Design'
+subtitle: '(Büro-), (Gastronomie-) und (Retail) Design'
 description: 'Das Büro, das Hotel oder das Restaurant sind repräsentative Orte, in der sich die Unternehmensphilosophie wiederspiegeln soll.'
 summary: 'Das Büro, das Hotel oder das Restaurant sind repräsentative Orte, in der sich die Unternehmensphilosophie wiederspiegeln soll. Aus diesem Grund muss die Raumgestaltung  Komfort, Funktionalität und Still in sich vereinen um Ihrem Gewerbeobjekt einen individuellen Charakter zu verleihen.'
 ---
