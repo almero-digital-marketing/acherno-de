@@ -1,6 +1,4 @@
 ---
-todo:
-  - 'Липсва превод на въвеждащ текст'
 href: '/web/projects/private/treasure-island'
 order: 7
 coverLayout: 13
@@ -32,7 +30,7 @@ rooms:
     project: 'http://hub.acherno.com/svn/ostrovat-na-sakrovishtata/Site/3D/03-h_f.jpg'
     final: 'http://hub.acherno.com/svn/ostrovat-na-sakrovishtata/Site/Realizacia/03_IMG_3238v4.jpg'
   -
-    title: 'Innendesign (Schlafzimmer)'
+    title: 'Wohndesign (Schlafzimmer)'
     description: 'Das Schlafzimmer ist in Cappuccinotönen gehalten, was einen frischen und munteren Morgen verheißt. Die Inneneinrichtung ist modern und schlicht bietet aber trotzdem ein Maximum an Komfort.'
     pageLayout: 5
     project: 'http://hub.acherno.com/svn/ostrovat-na-sakrovishtata/Site/3D/04-s_f.jpg'

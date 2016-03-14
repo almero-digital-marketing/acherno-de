@@ -14,7 +14,7 @@ image: 'http://hub.acherno.com/svn/bohemski/Site/Finalni/ach%20(18)b.jpg'
 video: 'http://hub.acherno.com/svn/bohemski/Site/Video/bohemski-20141103-hd.mp4'
 rooms:
   -
-    title: 'Innendesign (Wohnzimmer)'
+    title: 'Wohndesign (Wohnzimmer)'
     description: 'Der Wohnbereich ist asymmetrisch und durchbrochen mit Säulen. Das macht ihn auf der einen Seite einzigartig und inspirierend, aber auf der anderen Seite sehr anspruchsvoll zu gestallten.'
     pageLayout: 1
     project: 'http://hub.acherno.com/svn/bohemski/Site/3D/01-h_f.jpg'

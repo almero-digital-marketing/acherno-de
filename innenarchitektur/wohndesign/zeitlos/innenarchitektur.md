@@ -32,7 +32,7 @@ rooms:
     final: 'http://hub.acherno.com/svn/vremeto/Site/Realizacia/04_5.jpg'
   -
     title: 'Raumgestaltung (Küche)'
-    description: 'Eine nostalgische Vision,  klassische Landhausstil Merkmale, wie weiße Vitrinen und offene Regale für Porzellangeschirr, große Arbeitsfläche aus massivem Holz, zaubern jeden Gast ein Lächeln aufs Gesicht.'
+    description: 'Eine nostalgische Vision, klassische Landhausstil Merkmale, wie weiße Vitrinen und offene Regale für Porzellangeschirr, große Arbeitsfläche aus massivem Holz, zaubern jeden Gast ein Lächeln aufs Gesicht.'
     pageLayout: 4
     project: 'http://hub.acherno.com/svn/vremeto/Site/3D/05-k_f.jpg'
     final: 'http://hub.acherno.com/svn/vremeto/Site/Realizacia/05_2.jpg'
@@ -49,7 +49,7 @@ rooms:
     project: 'http://hub.acherno.com/svn/vremeto/Site/3D/07-d_f.jpg'
     final: 'http://hub.acherno.com/svn/vremeto/Site/Realizacia/07_13.jpg'
   -
-    title: 'Innenarchitektur Projekt (Kinderzimmer)'
+    title: 'Wohndesign (Kinderzimmer)'
     description: 'Die bequemen Sitzkissen auf der Erde verstärken das Gefühl, sich an einem weit weg entfernten Ort zu befinden. Halb hohe Betten bieten den nötigen Stauraum für Spielsachen und Kinderbücher.'
     pageLayout: 3
     project: 'http://hub.acherno.com/svn/vremeto/Site/3D/07-d_f.jpg'

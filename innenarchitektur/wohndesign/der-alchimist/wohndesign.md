@@ -6,7 +6,7 @@ featured: true
 design: 'Moderne Klassik'
 price: 80
 project: 'Der Alchimist'
-title: '[Innendesign Apartment] (Der Alchimist)'
+title: '[Wohndesign Apartment] (Der Alchimist)'
 subtitle: 'Aufregende Mixtur aus (Farben und Stilen)'
 description: 'Der Alchimist saß da und dachte über seine eigenartige Geschichte nach. Die Geschichte von einer Verwandlung, von Reisen und der Magie - eine Magie, wie sie nur ganz wenige Auserwählte kennen. Eine Geschichte über das Verwischen von Grenzen und dem Entstehen von Silhouetten in einer Welt, in der nicht alles so aussieht, wie es scheint.'
 legacy: '/interior-design/wohnung/der-alchimist/inneneinrichtung.html'
@@ -32,7 +32,7 @@ rooms:
     project: 'http://hub.acherno.com/svn/alhimika/Site/3D/16-a_f.jpg'
     final: 'http://hub.acherno.com/svn/alhimika/Site/Finalni/achiv%20(12).jpg'
   -
-    title: 'Innendesign (Arbeitszimmer)'
+    title: 'Wohndesign (Arbeitszimmer)'
     description: 'Wenn der Alchimist einen neuen Zauberspruch ausprobiert, braucht er viel Ruhe und volle Konzentration.  Schließlich ist das Zaubern eine Kunst für sich.'
     pageLayout: 4
     project: 'http://hub.acherno.com/svn/alhimika/Site/3D/11-k_f.jpg'
@@ -81,6 +81,6 @@ constructions:
     title: 'Abbau und Zerstörung'
     image: 'http://hub.acherno.com/svn/alhimika/Site/Remonti/01.02.JPG'
 ---
-Der Alchimist saß da und dachte über seine eigenartige Geschichte nach. Die Geschichte von einer Verwandlung, von Reisen und der  Magie - eine Magie, wie sie nur ganz wenige Auserwählte  kennen. Eine Geschichte über das Verwischen von Grenzen und dem Entstehen von  Silhouetten in einer Welt, in der nicht alles so aussieht, wie es scheint. In einer Welt in der sich die Moderne mit dem geschwungenen, ornamentvollen Kronleuchter  vereinigt hat. In der klassische Details, neben modernen Etanolkaminen platziert sind, bunte Dekorationen neben einer Natursteinarbeitsplatte stehen. In einer Welt in der das Gewöhnliche, dank eine Prise Magie,  zum Außergewöhnlichen wird.
+Der Alchimist saß da und dachte über seine eigenartige Geschichte nach. Die Geschichte von einer Verwandlung, von Reisen und der  Magie - eine Magie, wie sie nur ganz wenige Auserwählte kennen. Eine Geschichte über das Verwischen von Grenzen und dem Entstehen von  Silhouetten in einer Welt, in der nicht alles so aussieht, wie es scheint. In einer Welt in der sich die Moderne mit dem geschwungenen, ornamentvollen Kronleuchter  vereinigt hat. In der klassische Details, neben modernen Etanolkaminen platziert sind, bunte Dekorationen neben einer Natursteinarbeitsplatte stehen. In einer Welt in der das Gewöhnliche, dank eine Prise Magie,  zum Außergewöhnlichen wird.
 
 Eine Gesichte, die zu einer Erzählung wird, eine Erzählung, die zu einem Märchen geworden ist.

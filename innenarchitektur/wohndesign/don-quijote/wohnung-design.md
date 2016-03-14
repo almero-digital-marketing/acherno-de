@@ -5,7 +5,7 @@ coverLayout: 2
 price: 70
 design: 'Klassik & Stil'
 project: 'Don Quijote'
-title: '[Raumdesign Wohnung] (Don Quijote)'
+title: '[Wohnung Design] (Don Quijote)'
 subtitle: 'Motiv Mittelalter'
 description: 'Moderne Klassik. Eine Raumgestaltung, die vom Mittelalter inspiriert ist.'
 legacy: '/interior-design/wohnung/don-quijote/einrichtung.html'
@@ -24,7 +24,7 @@ rooms:
     final: 'http://hub.acherno.com/svn/don-kihot/Site/Finalni/4.jpg'
     pageLayout: 4
   -
-    title: 'Innendesign von (Wohnzimmer)'
+    title: 'Wohndesign von (Wohnzimmer)'
     description: 'Der Wohn- und Essbereich bildet eine harmonische Einheit, die zum Verweilen bei Wein und Käse einlädt.'
     project: 'http://hub.acherno.com/svn/don-kihot/Site/3D/03_fin.jpg'
     final: 'http://hub.acherno.com/svn/don-kihot/Site/Finalni/5.jpg'

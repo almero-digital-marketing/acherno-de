@@ -6,7 +6,7 @@ price: 85
 featured: true
 design: 'Modernes (Interior Design) '
 project: 'Make Up'
-title: '[Innendesign Apartment] (Make Up)'
+title: '[Wohndesign Apartment] (Make Up)'
 subtitle: 'Geheimnisvolle (Ausstrahlung)'
 description: 'Make Up – auffällig, ein bisschen schrill und total abgefahren! Smokey Eyes, die erwartungsvoll die Nacht herbeisehnen, ein Lidschatten in grellem Gelb und knallig rote Lippen.'
 legacy: '/interior-design/wohnung/make-up/innendesign.html'
@@ -26,13 +26,13 @@ rooms:
     project: 'http://hub.acherno.com/svn/grim/Site/3D/06-h_f.jpg'
     final: 'http://hub.acherno.com/svn/grim/Site/Finalni/vitisha%20(1)bbcc.jpg'
   -
-    title: 'Innendesign (Küche)'
+    title: 'Interior Design (Küche)'
     description: 'Schlicht, elegant und absolut stilsicher präsentiert sich dieses Schmuckstück. Eine Küche, dessen Design  eines Fashion Laufstegs würdig ist.'
     pageLayout: 4
     project: 'http://hub.acherno.com/svn/grim/Site/3D/09-h_f.jpg'
     final: 'http://hub.acherno.com/svn/grim/Site/Finalni/vitisha%20(4)b.jpg'
   -
-    title: 'Innenarchitektur Projekt (Foyer)'
+    title: 'Wohndesign (Foyer)'
     description: 'Folge dem in Stein gemeißelten Weg und du wirst am Ende deines Weges von einer eindrucksvollen Spiegelwand  erwartet. '
     pageLayout: 7
     project: 'http://hub.acherno.com/svn/grim/Site/3D/10-k_f.jpg'
@@ -68,7 +68,7 @@ rooms:
     project: 'http://hub.acherno.com/svn/grim/Site/3D/03-b_f.jpg'
     final: 'http://hub.acherno.com/svn/grim/Site/Finalni/vitisha%20(8).jpg'
   -
-    title: 'Innenarchitektur Projekt (Gästetoilette)'
+    title: 'Wohndesign (Gästetoilette)'
     description: 'Flippig, bunt und stylisch. So viel Design auf kleinem Raum. Hier als gelungene Kombination von trendigen Mustern in black&white und Ethno Stripes.'
     pageLayout: 8
     project: 'http://hub.acherno.com/svn/grim/Site/3D/15-t_f.jpg'

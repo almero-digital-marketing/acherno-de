@@ -6,7 +6,7 @@ featured: true
 project: 'Mon Chèri'
 price: 60
 design: 'Moderne (Innenarchitektur)'
-title: '[Raumdesign] (Mon Chèri)'
+title: '[Wohndesign] (Mon Chèri)'
 subtitle: 'Fest (der Farben)'
 description: 'Eine kontrastreiche Raumgestaltung, die satte und zarte Farbtöne in sich vereinigt, dazu eine großzügige Terrasse mit einer wunderschönen Aussicht: Ein Apartment, das alle Voraussetzungen zu einem ausgeglichenen Wohngefühl erfüllt.'
 legacy: '/interior-design/wohnung/mon-chèri/inneneinrichtung.html'
@@ -37,7 +37,7 @@ rooms:
     project: 'http://hub.acherno.com/svn/piyani-vishni-v-shokolad/Site/3D/04-s_f.jpg'
     final: 'http://hub.acherno.com/svn/piyani-vishni-v-shokolad/Site/Realizacia/04_Ach (20).jpg'
   -
-    title: 'Innendesign (Schlafzimmer)'
+    title: 'Wohndesign (Schlafzimmer)'
     description: 'Um die geringe Nutzfläche dieses Zimmers optimal auszunutzen haben wir uns entschieden ein mittelgroßes Bett und funktional gegenüber eingebaute Sideboards zu platzieren.'
     pageLayout: 5
     project: 'http://hub.acherno.com/svn/piyani-vishni-v-shokolad/Site/3D/05-k_f.jpg'
@@ -49,7 +49,7 @@ rooms:
     project: 'http://hub.acherno.com/svn/piyani-vishni-v-shokolad/Site/3D/06-b1_f.jpg'
     final: 'http://hub.acherno.com/svn/piyani-vishni-v-shokolad/Site/Realizacia/06_Ach (26).jpg'
   -
-    title: 'Innendesign (Toilette)'
+    title: 'Interior Design (Toilette)'
     description: 'Die zweite Toilette haben wir elegant als ein hochwertiges Gäste WC mit einem praktischen Waschplatz gelöst'
     pageLayout: 8
     project: 'http://hub.acherno.com/svn/piyani-vishni-v-shokolad/Site/3D/07-b2_f.jpg'
@@ -77,4 +77,4 @@ facebook:
   project: '481735644478'
   final: '10151205374634479'
 ---
-Eine kontrastreiche Innenausstattung, die satte und zarte Farbtöne in sich vereinigt, dazu eine großzügige Terrasse mit einer wunderschönen Aussicht: Ein Apartment, das alle Voraussetzungen zu einem ausgeglichenen Wohngefühl erfüllt. Innenausstattung und Farbkombinationen sind eine Hommage an die berühmte, von zartbitterer Schokolade umhüllte Kirsche in Likör.
+Eine kontrastreiche Raumgestaltung, die satte und zarte Farbtöne in sich vereinigt, dazu eine großzügige Terrasse mit einer wunderschönen Aussicht: Ein Apartment, das alle Voraussetzungen zu einem ausgeglichenen Wohngefühl erfüllt. Raumgestaltung und Farbkombinationen sind eine Hommage an die berühmte, von zartbitterer Schokolade umhüllte Kirsche in Likör.

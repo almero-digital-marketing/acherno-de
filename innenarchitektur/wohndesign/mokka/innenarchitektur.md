@@ -12,8 +12,8 @@ legacy: '/interior-design/wohnung/mokka/interior-design.html'
 image: 'http://hub.acherno.com/svn/moka/Site/Finalni/acherno-8.jpg'
 rooms:
   -
-    title: 'Raumdesign (Wohnzimmer)'
-    description: 'Ein weiches pastellgraues Sofa dazu ein hochwertiger Bodenbelag in steingrau. Im Kontrast das bunte abstrakte Wandgemälde und eine exzentrische Wanduhr. Dieser Mix  wirkt überraschend beruhigend. '
+    title: 'Wohndesign (Wohnzimmer)'
+    description: 'Ein weiches pastellgraues Sofa dazu ein hochwertiger Bodenbelag in steingrau. Im Kontrast das bunte abstrakte Wandgemälde und eine exzentrische Wanduhr. Dieser Mix  wirkt überraschend beruhigend.'
     project: 'http://hub.acherno.com/svn/moka/Site/3D/01-h_f.jpg'
     final: 'http://hub.acherno.com/svn/moka/Site/Finalni/acherno-2.jpg'
     pageLayout: 4

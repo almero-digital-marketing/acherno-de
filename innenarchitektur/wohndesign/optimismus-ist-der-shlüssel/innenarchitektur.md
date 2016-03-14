@@ -37,7 +37,7 @@ rooms:
     project: 'http://hub.acherno.com/svn/optimizam-mu-e-maykata/Site/3D/spalnq_3D_06.jpg'
     final: 'http://hub.acherno.com/svn/optimizam-mu-e-maykata/Site/Realizacia/spalnq_snimka_06.jpg'
   -
-    title: 'Innenarchitektur Projekt (Schlafzimmer)'
+    title: 'Wohndesign (Schlafzimmer)'
     description: 'Vorhänge und Tapete in gleichem Dessin komplettieren das Schlafzimmer. Gelungen!'
     pageLayout: 1
     project: 'http://hub.acherno.com/svn/optimizam-mu-e-maykata/Site/3D/spalnq_3D_07.jpg'

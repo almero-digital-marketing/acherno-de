@@ -3,11 +3,11 @@ href: '/web/projects/private/mantra'
 order: 17
 coverLayout: 3
 price: 70
-design: 'Modernes schlichtes (Innendesign)'
+design: 'Modernes schlichtes (Wohndesign)'
 project: 'Mantra'
 title: '[Raumgestaltung] (Mantra)'
 subtitle: 'Relaxzone'
-description: 'Es ist wunderbar, Dich entspannen zu können, Dich der Erholung und der Ruhe zu ergeben und nur alles um Dich  herum zu beobachten oder tief in Dich selbst einzutauchen. Genau solche Innenausstattung, welche  zur vollen Wonne verleitet, ist diese, an welcher wir bis vor kurzem gearbeitet haben.'
+description: 'Es ist wunderbar, Dich entspannen zu können, Dich der Erholung und der Ruhe zu ergeben und nur alles um Dich herum zu beobachten oder tief in Dich selbst einzutauchen. Genau solche Raumgestaltung, welche zur vollen Wonne verleitet, ist diese, an welcher wir bis vor kurzem gearbeitet haben.'
 legacy: '/interior-design/wohnung/mantra/interior-design.html'
 image: 'http://hub.acherno.com/svn/mantra/Site/Realizacia/hol_snimka_01.jpg'
 rooms:
@@ -19,7 +19,7 @@ rooms:
     final: 'http://hub.acherno.com/svn/mantra/Site/Finalni/1-2.jpg'
   -
     title: 'Innenarchitektur Projekt (Wohnzimmer)'
-    description: 'Ovale Linienführung, Hängedecken mit weicher Beleuchtung und komfortable Sitzmöbel. Ein modernes Wohnzimmer in dem man gerne Gäste empfängt oder einfach nur gemütlich abhängt und entspannt. '
+    description: 'Ovale Linienführung, Hängedecken mit weicher Beleuchtung und komfortable Sitzmöbel. Ein modernes Wohnzimmer in dem man gerne Gäste empfängt oder einfach nur gemütlich abhängt und entspannt.'
     pageLayout: 5
     project: 'http://hub.acherno.com/svn/mantra/Site/3D/hol_3D_02.jpg'
     final: 'http://hub.acherno.com/svn/mantra/Site/Realizacia/hol_snimka_02.jpg'
@@ -30,7 +30,7 @@ rooms:
     project: 'http://hub.acherno.com/svn/mantra/Site/3D/hol_3D_01.jpg'
     final: 'http://hub.acherno.com/svn/mantra/Site/Realizacia/hol_snimka_01.jpg'
   -
-    title: 'Innendesign (Küche)'
+    title: 'Wohndesign (Küche)'
     description: 'Die Küche ist mit funktionalen Einbaugeräten optimal eingerichtet. Durch den zusätzlich geschaffenen Stauraum, wirkt alles klar und geordnet.'
     pageLayout: 2
     project: 'http://hub.acherno.com/svn/mantra/Site/3D/kuhnq_3D_07.jpg'

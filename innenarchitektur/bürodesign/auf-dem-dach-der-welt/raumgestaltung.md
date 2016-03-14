@@ -19,7 +19,7 @@ rooms:
     a3d: 'http://hub.acherno.com/svn/na-pokriva-na-sveta/Site/3D/03-z.jpg'
     b3d: 'http://hub.acherno.com/svn/na-pokriva-na-sveta/Site/3D/04z.jpg'
   -
-    title: 'Inneneinrichtung - (Raumgestaltung Office)'
+    title: 'Innenarchitektur - (Raumgestaltung Office)'
     description: 'Der Blick streifte die Dächer, die an ein Meer aus Rotalgen erinnerte, das sich leicht wogend immer wieder aufeinander zu und voreinander weg bewegte. '
     pageLayout: 3
     a3d: 'http://hub.acherno.com/svn/na-pokriva-na-sveta/Site/3D/02m.jpg'

@@ -19,7 +19,7 @@ rooms:
     project: 'http://hub.acherno.com/svn/tavanite/Site/3D/02-h_f.jpg'
     final: 'http://hub.acherno.com/svn/tavanite/Site/Realizacia/02_hol_interior_2-Edit-2.jpg'
   -
-    title: 'Innendesign - (Esszimmer)'
+    title: 'Interior Design - (Esszimmer)'
     description: 'Farben und Stoffe fließen hier, wie auch in der gesamten Wohnung, ineinander. Der große runde markante Esstisch bildet die Mitte des Esszimmers. Stühle und Schränke für alles Notwendige sind rund herum platziert. Eine Anrichte bietet zusätzlich Platz für Ihre Tafel. Deckenhohe Schränke haben sich als der ideale Aufbewahrungsort für die großen Dinge rund ums Essen und Trinken bewährt. Die Küche ist mit dem Esszimmer verbunden, bleibt aber diskret vom Wohnzimmer und Flur verborgen. Die vielen Fenster sorgen für eine helle Grundstimmung in der Küche. So eine gemütliche Umgebung verleitet zum Kochen und geselligen Zusammensein im Kreise der Familie.'
     pageLayout: 5
     project: 'http://hub.acherno.com/svn/tavanite/Site/3D/03-t_f.jpg'
@@ -37,7 +37,7 @@ rooms:
     project: 'http://hub.acherno.com/svn/tavanite/Site/3D/05-s_f.jpg'
     final: 'http://hub.acherno.com/svn/tavanite/Site/Realizacia/05_spalnia_3_crop.jpg'
   -
-    title: 'Raumdesign - (Schlafzimmer)'
+    title: 'Wohndesign - (Schlafzimmer)'
     description: 'Ein gemütliches und ruhiges Zimmer, das Erholung und zeitgemäßes Design in sich vereint.'
     pageLayout: 1
     project: 'http://hub.acherno.com/svn/tavanite/Site/3D/06-s_f.jpg'
