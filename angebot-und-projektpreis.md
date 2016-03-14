@@ -4,7 +4,7 @@ href: '/web/price-project'
 ## **Angebot** und **Projektpreis**
 
 - ### Online-Anfrage oder Termin in unserem Büro
-    Um Ihnen ein konkretes und umfangreiches Angebot für die Erarbeitung eines Innenausstattungsprojektes unterbreiten zu können, brauchen wir Informationen über das Objekt und über Ihre Vorstellungen für die Innenausstattung (Bilder/Zeichnungen). Deshalb ist der erste und wichtigste Schritt das gewissenhafte  Ausfüllen des "Anfrageformulars" und die Vereinbarung eines Termins mit einem Vertreter unseres Teams.
+    Um Ihnen ein konkretes und umfangreiches Angebot für die Erarbeitung eines Raumgestaltungsprojektes unterbreiten zu können, brauchen wir Informationen über das Objekt und über Ihre Vorstellungen für die Raumgestaltung (Bilder/Zeichnungen). Deshalb ist der erste und wichtigste Schritt das gewissenhafte  Ausfüllen des "Anfrageformulars" und die Vereinbarung eines Termins mit einem Vertreter unseres Teams.
 
 - ### Angebot für Raumgestaltungsprojekt 
     Innerhalb von 5 Werktagen bekommen Sie ein unverbindliches Angebot für die Erstellung des ganzen Raumgestaltung Projektes. Der Angebotspreis errechnet sich anhand der von Ihnen angegebenen Quadratmeterfläche der Räume. Bitte beachten Sie, dass sehr oft der reale Endpreis niedriger ist als der Angebotspreis, weil wir nur eine reine Wohnquadratmeterfläche ohne Balkone, Wände und Dunkelräume berechnen.

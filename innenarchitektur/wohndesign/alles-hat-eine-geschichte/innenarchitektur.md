@@ -8,7 +8,7 @@ featured: true
 design: 'Moderne (Raumgestaltung)'
 project: 'Alles hat eine Geschichte'
 price: 50
-title: '[Inneneinrichtung Wohnung] (Alles hat eine Geschichte)'
+title: '[Innenarchitektur Wohnung] (Alles hat eine Geschichte)'
 subtitle: '(Geliebtes) Zuhause'
 description: Die gute alte Plattenbauwohnung zeichnet sich durch eine praktische Aufteilung und viel Platz aus. Baulich bedingt lässt sich die Wohnung allerdings nur begrenzt umbauen. Unsere individuelle Planungsideen haben nichtsdestotrotz einen wunderschönen Wohnraum geschaffen.'
 legacy: '/interior-design/wohnung/alles-hat-eine-geschichte/inneneinrichtung.html'
@@ -27,7 +27,7 @@ rooms:
     project: 'http://hub.acherno.com/svn/vsichko-si-ima-istoria/Site/3D/01-h_f.jpg'
     final: 'http://hub.acherno.com/svn/vsichko-si-ima-istoria/Site/Realizacia/01_dr%20(4).jpg'
   -
-    title: 'Raumdesign (Kinderzimmer)'
+    title: 'Wohndesign (Kinderzimmer)'
     description: 'Das Deckenkonzept ist unkonventionell ineinander verflochten. Das Kinderzimmer ist Weiß gehalten und setzt Akzente in grau und rot.'
     pageLayout: 3
     project: 'http://hub.acherno.com/svn/vsichko-si-ima-istoria/Site/3D/04-d_f.jpg'

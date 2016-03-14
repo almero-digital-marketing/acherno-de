@@ -19,7 +19,7 @@ rooms:
     project: 'http://hub.acherno.com/svn/aristokratichno-artistichen/Site/3D/01-h_f.jpg'
     final: 'http://hub.acherno.com/svn/aristokratichno-artistichen/Site/Realizacia/01_1.jpg'
   -
-    title: 'Raumdesign (Wohnzimmer)'
+    title: 'Wohndesign (Wohnzimmer)'
     description: 'Auch das Wohnzimmer ist in warmen und satten Farben gehalten.'
     pageLayout: 2
     project: 'http://hub.acherno.com/svn/aristokratichno-artistichen/Site/3D/02-h_f.jpg'
@@ -49,7 +49,7 @@ rooms:
     project: 'http://hub.acherno.com/svn/aristokratichno-artistichen/Site/3D/06-s_f.jpg'
     final: 'http://hub.acherno.com/svn/aristokratichno-artistichen/Site/Realizacia/06_7.jpg'
   -
-    title: 'Innenarchitektur Projekt (Eingangsbereich)'
+    title: 'Raumdesign (Eingangsbereich)'
     description: 'Der klassische Eingangsbereich in Terrakotta mit der antiken Kommode im Kolonialstil passt perfekt ins Bild.'
     pageLayout: 7
     project: 'http://hub.acherno.com/svn/aristokratichno-artistichen/Site/3D/07-a_f.jpg'

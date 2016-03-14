@@ -4,7 +4,7 @@ order: 19
 coverLayout: 6
 featured: true
 price: 50
-design: 'Modernes und stilvolles (Raumdesign)'
+design: 'Modernes und stilvolles (Wohndesign)'
 project: 'Zimt, Vanille, Kardamom'
 title: '[Raumgestaltung] (Zimt, Vanille, Kardamom)'
 subtitle: 'Harmonische Farbgebung'
@@ -37,7 +37,7 @@ rooms:
     project: 'http://hub.acherno.com/svn/kanela-kardamon-i-vanilia/Site/3D/04-d_f.bmp'
     final: 'http://hub.acherno.com/svn/kanela-kardamon-i-vanilia/Site/Realizacia/04-1A.jpg'
   -
-    title: 'Innenarchitektur Projekt (Schlafzimmer)'
+    title: 'Wohndesign (Schlafzimmer)'
     description: 'Rote Tapeten, die von dezenten Farben im Zaun gehalten werden. Die großzügigen Spiegelschränke schaffen zusätzlich Raum und Licht.'
     pageLayout: 5
     project: 'http://hub.acherno.com/svn/kanela-kardamon-i-vanilia/Site/3D/05-s_f.jpg'

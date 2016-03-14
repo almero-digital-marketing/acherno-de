@@ -30,13 +30,13 @@ rooms:
     final: 'http://hub.acherno.com/svn/portokalovo-sladko/Site/Finalni/AchL6.jpg'
     pageLayout: 3
   -
-    title: 'Innendesign (Schlafzimmer)'
+    title: 'Wohndesign (Schlafzimmer)'
     description: 'Die bekannten Farbtöne haben wir beibehalten und mit einem milden Grün veredelt, das an frisches Heu erinnert.'
     project: 'http://hub.acherno.com/svn/portokalovo-sladko/Site/3D/07-s_f.jpg'
     final: 'http://hub.acherno.com/svn/portokalovo-sladko/Site/Finalni/AchL1.jpg'
     pageLayout: 2
   -
-    title: 'Innenarchitektur Projekt (Schlafzimmer)'
+    title: 'Interior Design (Schlafzimmer)'
     description: 'Das Holz der Möbel haben wir, wie auch die Wände, in besonders weichen und zarten Farben gehalten.'
     project: 'http://hub.acherno.com/svn/portokalovo-sladko/Site/3D/06-s_f.jpg'
     final: 'http://hub.acherno.com/svn/portokalovo-sladko/Site/Finalni/AchL5.jpg'

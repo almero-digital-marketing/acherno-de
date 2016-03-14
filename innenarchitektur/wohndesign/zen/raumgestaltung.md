@@ -31,7 +31,7 @@ rooms:
     project: 'http://hub.acherno.com/svn/dzen/Site/3D/03-s_f.jpg'
     final: 'http://hub.acherno.com/svn/dzen/Site/Realizacia/03-9.jpg'
   -
-    title: 'Innenarchitektur Projekt (Schlafzimmer)'
+    title: 'Wohndesign (Schlafzimmer)'
     description: 'Hinter den großen asiatischen Schiebetüren  lassen sich nur  Schatten erahnen. Die Deckenleuchte streut das Licht in alle Richtungen und sorgt für ein angenehmes Raumgefühl.'
     pageLayout: 5
     project: 'http://hub.acherno.com/svn/dzen/Site/3D/04-s_f.jpg'
@@ -43,7 +43,7 @@ rooms:
     project: 'http://hub.acherno.com/svn/dzen/Site/3D/05-b_f.jpg'
     final: 'http://hub.acherno.com/svn/dzen/Site/Realizacia/05-10.jpg'
   -
-    title: 'Innendesign (Badezimmer)'
+    title: 'Raumdesign (Badezimmer)'
     description: 'Balance durch Kontrast – warme Holznuancen in Kombination mit kühlem Grau und gleisendem Metall. Warm und kalt – der Tag beginnt in diesem stilvollen Ambiente mit einer erfrischenden Wechseldusche.'
     pageLayout: 9
     project: 'http://hub.acherno.com/svn/dzen/Site/3D/06-b_f.jpg'

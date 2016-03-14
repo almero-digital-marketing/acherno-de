@@ -6,7 +6,7 @@ price: 70
 design: 'Modernes (Wohndesign)'
 project: 'Lächeln'
 title: '[Innenarchitektur eines Apartments] (Lächeln)'
-subtitle: 'Interior (mit Stimmung)'
+subtitle: 'Interior Design (mit Stimmung)'
 description: 'Ein Lächeln lässt die Sonne der Seele aufgehen! Du kommst herein und kannst es kaum fassen, du und deine Nächsten könnt eure Freude kaum verbergen. Ein strahlendes Lächeln breitet sich auf deinen Lippen aus. Hier ist das Zuhause, ein Heim der Gefühle, der Herzlichkeit und des Glücks.'
 legacy: '/interior-design/wohnung/lächeln/inneneinrichtung.html'
 image: 'http://hub.acherno.com/svn/usmivka/Site/Finalni/7.jpg'
@@ -24,7 +24,7 @@ rooms:
     final: 'http://hub.acherno.com/svn/usmivka/Site/Finalni/9.jpg'
     pageLayout: 5
   -
-    title: 'Innendesign (Wohnzimmer)'
+    title: 'Wohndesign (Wohnzimmer)'
     description: 'Jetzt ist auch der letzte Winkel des Wohnzimmers in Sonne getaucht.'
     project: 'http://hub.acherno.com/svn/usmivka/Site/3D/002-h_f.jpg'
     final: 'http://hub.acherno.com/svn/usmivka/Site/Finalni/7.jpg'
@@ -36,7 +36,7 @@ rooms:
     final: 'http://hub.acherno.com/svn/usmivka/Site/Finalni/8.jpg'
     pageLayout: 5
   -
-    title: 'Innenarchitektur Projekt (Eingangsbereich)'
+    title: 'Interior Design (Eingangsbereich)'
     description: 'Ein geheimnisvolles asiatisches Lächeln empfängt dich herzlich und bittet dich einzutreten.'
     project: 'http://hub.acherno.com/svn/usmivka/Site/3D/015-k_f.jpg'
     final: 'http://hub.acherno.com/svn/usmivka/Site/Finalni/18.jpg'
@@ -72,7 +72,7 @@ rooms:
     final: 'http://hub.acherno.com/svn/usmivka/Site/Finalni/6.jpg'
     pageLayout: 4
   -
-    title: 'Innenarchitektur (Kinderzimmer)'
+    title: 'Wohndesign (Kinderzimmer)'
     description: 'Gibt es etwas Schöneres als das Lachen eines Kindes? Das Kinderzimmer ist der Ort der vielen Erinnerungen, erste Entdeckungen und unzähligen kleinen Momenten voller Glück und Spaß.'
     project: 'http://hub.acherno.com/svn/usmivka/Facebook/11-d_f.jpg'
     final: 'http://hub.acherno.com/svn/usmivka/Site/Finalni/14.jpg'

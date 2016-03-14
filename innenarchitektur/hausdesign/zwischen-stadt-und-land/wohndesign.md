@@ -6,7 +6,7 @@ featured: true
 design: '(Modernes Design) Haus'
 price: 75
 project: 'Zwischen Stadt und Land'
-title: 'Raumdesign Wohnhaus (Zwischen Stadt und Land)'
+title: 'Wohndesign Haus (Zwischen Stadt und Land)'
 subtitle: 'Braune (Eleganz)'
 description: 'Ein frischer Sommermorgen. Die Sonnenstrahlen wärmen die Veranda des Hauses. In der Küche duftet es nach gekochtem Kaffe und frischgepressten Orangensaft. Eine Dusche im riesigen Badezimmer mit den großen Fenstern. Umkleiden im begehbaren Kleiderschrank, noch kurz den Look im Ganzkörperspiegel gecheckt. Das Leben ist schön und der Arbeitstag kann beginnen.'
 legacy: '/interior-design/haus/zwischen-stadt-und-land/inneneinrichtung.html'
@@ -25,7 +25,7 @@ rooms:
     project: 'http://hub.acherno.com/svn/mezhdu-planinata-i-grada/Site/3D/04-3d.jpg'
     final: 'http://hub.acherno.com/svn/mezhdu-planinata-i-grada/Site/Realizacia/31.jpg'
   -
-    title: 'Innendesign von (Esszimmer)'
+    title: 'Wohndesign von (Esszimmer)'
     description: 'Die offene helle Küche und der angrenzende Essbereich sind mit Allem ausgestattet was du brauchst um Dir Sonntagsmorgens ein geschmackvolles Frühstück oder am Freitagabend ein festliches Dinner zu bereiten.'
     pageLayout: 3
     project: 'http://hub.acherno.com/svn/mezhdu-planinata-i-grada/Site/3D/08-h_f.jpg'

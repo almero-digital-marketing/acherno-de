@@ -6,7 +6,7 @@ design: 'Moderne und behagliche (Innenarchitektur)'
 project: 'Liebe das Leben'
 featured: true
 title: '[Raumgestaltung Stadtvilla] (Liebe das Leben)'
-subtitle: 'Interior Design einer Stadtvilla'
+subtitle: 'Wohndesign einer Stadtvilla'
 description: 'Die Stadtvilla - ein zwei stöckiges, großzügiges Haus mit Rückzugsmöglichkeiten für jeden. Unten - ein großer Wohnbereich mit Küche, Esszimmer, Badezimmer und Garderobe, sowie einer kleinen Gästetoilette. Oben - zwei Apartmentstudios mit eigenem Bad.'
 legacy: '/interior-design/haus/liebe-das-leben/inneneinrichtung.html'
 image: 'http://hub.acherno.com/svn/obichay-zhivota/Site/Finalni/ach_%20(41).jpg'
@@ -37,7 +37,7 @@ rooms:
     project: 'http://hub.acherno.com/svn/obichay-zhivota/Site/3D/19-a_f.jpg'
     final: 'http://hub.acherno.com/svn/obichay-zhivota/Site/Finalni/ach_%20(33).jpg'
   -
-    title: 'Innendesign (Lounge)'
+    title: 'Wohndesign (Lounge)'
     description: 'Relax! Im zweiten Stock befindet sich eine stylische Lounge im Industriel Look. Holz und Stein in Beigetönen im Kontrast zu blauen Sitzmöbeln. '
     pageLayout: 3
     project: 'http://hub.acherno.com/svn/obichay-zhivota/Site/3D/25-h1_f.jpg'

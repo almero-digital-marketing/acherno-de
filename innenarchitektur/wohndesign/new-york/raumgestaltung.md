@@ -13,7 +13,7 @@ legacy: '/interior-design/wohnung/new-york/interior-design.html'
 image: 'http://hub.acherno.com/svn/new-york/Site/Realizacia/01_19d.jpg'
 rooms:
   -
-    title: 'Raumdesign (Wohnzimmer)'
+    title: 'Wohndesign (Wohnzimmer)'
     description: 'Das Feuer im Ethanol-Kamin tanzt fröhlich hin und her  und wirft sein warmes Licht auf den vielfarbigen Stein.'
     pageLayout: 1
     project: 'http://hub.acherno.com/svn/new-york/Site/3D/01-h_f.jpg'
@@ -43,7 +43,7 @@ rooms:
     project: 'http://hub.acherno.com/svn/new-york/Site/3D/05-s_f.jpg'
     final: 'http://hub.acherno.com/svn/new-york/Site/Realizacia/05_4.jpg'
   -
-    title: 'Innenarchitektur Projekt (Schlafzimmer)'
+    title: 'Raumdesign (Schlafzimmer)'
     description: 'Ein komfortabler Arbeitsplatz. Ein modularer Schlafsessel für unerwartete Gäste und ein geräumiges von schweren Vorhängen getrenntes Schlafzimmer mit in der Garderobe integrierter Tür zeichnen diesen besonderen Look aus.'
     pageLayout: 6
     project: 'http://hub.acherno.com/svn/new-york/Site/3D/06-s_f.jpg'

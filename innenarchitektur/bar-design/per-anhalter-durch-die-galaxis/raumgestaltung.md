@@ -25,7 +25,7 @@ rooms:
     a3d: 'http://hub.acherno.com/svn/izvaden-ot-glavata-ni/Site/3D/1_bar_f.bmp'
     b3d: 'http://hub.acherno.com/svn/izvaden-ot-glavata-ni/Site/3D/4_bar_f.bmp'
   -
-    title: 'Innendesign (Club)'
+    title: 'Interior Design (Club)'
     description: 'Alles ist so entworfen, wie wir es ursprünglich projektiert haben. Hohe Barhocker und niedrige Sitzsessel in geometrischen Formen. Dazu als Eyecatcher vier rote Kugelsessel in sphärischem Design. Weitere Akzente werden nur durch die dünnen Roten Linien gesetzt. Ein Design, das dir nicht mehr aus dem Kopf geht.'
     pageLayout: 2
     a3d: 'http://hub.acherno.com/svn/izvaden-ot-glavata-ni/Site/3D/5_bar_f.bmp'

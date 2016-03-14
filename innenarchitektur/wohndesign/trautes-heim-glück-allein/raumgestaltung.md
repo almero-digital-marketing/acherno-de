@@ -26,7 +26,7 @@ rooms:
     project: 'http://hub.acherno.com/svn/prispivna-pesen/Site/3D/04-h_f.jpg'
     final: 'http://hub.acherno.com/svn/prispivna-pesen/Site/Finalni/DH230731_2_3_4_5%20copy.jpg'
   -
-    title: 'Innendesign (Küche)'
+    title: 'Wohndesign (Küche)'
     description: 'Schönheit, Gemütlichkeit, Wärme und Komfort wie bei Muttern. Was Früher richtig war, kann auch heute nicht falsch sein.  Vertrautes Design, klare Linien und Muster mit einem Hauch Modernität und Farben.'
     pageLayout: 4
     project: 'http://hub.acherno.com/svn/prispivna-pesen/Site/3D/06-k_f.jpg'

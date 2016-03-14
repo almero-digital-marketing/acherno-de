@@ -36,7 +36,7 @@ rooms:
     project: 'http://hub.acherno.com/svn/dim/Site/3D/09-s_g.jpg'
     final: 'http://hub.acherno.com/svn/dim/Site/Finalni/23.jpg'
   -
-    title: 'Innenarchitektur Projekt (Arbeitszimmer)'
+    title: 'Wohndesign (Arbeitszimmer)'
     description: 'Masking Tape Design – eine markante  Linie in Rot zieht sich durch das ganze Zimmer, vom Schrank über den Arbeitstisch bis zum Boden durch und setzt ein unverwechselbares Zeichen. In diesem Designer Büro macht nicht nur das Arbeiten Spaß, sondern auch das gemütliche Relaxen auf der gepolsterten Couch.'
     pageLayout: 2
     project: 'http://hub.acherno.com/svn/dim/Site/3D/01-k.jpg'

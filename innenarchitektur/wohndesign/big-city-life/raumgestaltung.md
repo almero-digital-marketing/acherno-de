@@ -13,8 +13,8 @@ legacy: '/interior-design/wohnung/big-city-life/interior-design.html'
 image: 'http://hub.acherno.com/svn/gradski/Site/Realizacia/1_h-r.jpg'
 rooms:
   -
-    title: 'Innendesign (Wohn- und Kochbereich) '
-    description: 'Du kommst heim und der süße Duft von lila Flieder betört deine Sinne.  Jetzt noch deine Lieblingsmusik und ein Glas Prosecco mit zwei Blättchen Minze und der Abend ist perfekt.  Dein Apartment und Du. Wer hätte gedacht, dass eine Wohnung so viel Nestwärme geben kann? Stilvolle Einrichtung und leidenschaftliche Farben sind das Abbild deines Lifestyles.'
+    title: 'Wohndesign (Wohn- und Kochbereich) '
+    description: 'Du kommst heim und der süße Duft von lila Flieder betört deine Sinne.  Jetzt noch deine Lieblingsmusik und ein Glas Prosecco mit zwei Blättchen Minze und der Abend ist perfekt.  Dein Apartment und Du. Wer hätte gedacht, dass eine Wohnung so viel Nestwärme geben kann? Stilvolle Raumgestaltung und leidenschaftliche Farben sind das Abbild deines Lifestyles.'
     pageLayout: 5
     project: 'http://hub.acherno.com/svn/gradski/Site/3D/2.02-h_f.jpg'
     final: 'http://hub.acherno.com/svn/gradski/Site/Realizacia/1_h-r.jpg'
@@ -61,7 +61,7 @@ rooms:
     project: 'http://hub.acherno.com/svn/gradski/Site/3D/4.03-s_f.jpg'
     final: 'http://hub.acherno.com/svn/gradski/Site/Realizacia/6_s-r.jpg'
   -
-    title: 'Innendesign (Schlafzimmer)'
+    title: 'Wohndesign (Schlafzimmer)'
     description: 'Never ever give up! Das kleine Mantra an der Wand erinnert dich jeden Morgen an den wichtigen Dingen im Leben.'
     pageLayout: 6
     project: 'http://hub.acherno.com/svn/gradski/Site/3D/4.02-s_f.jpg'
