@@ -3,6 +3,7 @@ href: '/web/projects/private/dolinata-na-loara'
 order: 12
 coverLayout: 3
 price: 90
+featured: true
 design: 'Klassisches (Interior Design)'
 project: 'Im Tal der Loire'
 title: '[Innenarchitektur Projekt] (Im Tal der Loire)'
