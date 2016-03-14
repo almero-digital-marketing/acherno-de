@@ -5,7 +5,6 @@ coverLayout: 18
 design: '(Modernes) Raumdesign'
 price: 13
 project: 'Die Decken'
-featured: true
 title: 'Innenarchitektur Projekt Haus (Die Decken)'
 subtitle: 'Extravagant'
 description: 'Decke – Aushängeschild und Eyecatcher. Das extravagante Deckendesign haben wir bewusst übernommen um es als Grundlagenelement für unser einzigartiges Raumkonzept wirken zu lassen.'
