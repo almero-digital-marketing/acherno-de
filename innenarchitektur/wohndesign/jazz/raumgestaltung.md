@@ -6,7 +6,7 @@ price: 70
 featured: true
 design: 'Moderne Klassik (Innenarchitektur Projekt)'
 project: 'Jazz'
-title: '[Interior Design Apartment] (Jazz)'
+title: '[Raumgestaltung Apartment] (Jazz)'
 subtitle: '(Stilvolle Raumgestaltung) in dezenten Farben'
 description: 'New Orleans, Anfang des 20. Jahrhunderts – der Jazz ist geboren und erschallt auch in der letzten kleinen Straße der Stadt. Die Bars sind voll mit Tanzenden, die sich den neuen Rhythmen  des Jazz hingeben.'
 legacy: '/interior-design/wohnung/jazz/interior-design.html'
@@ -67,7 +67,7 @@ rooms:
     project: 'http://hub.acherno.com/svn/jazz/Facebook/18-o_f.jpg'
     final: 'http://hub.acherno.com/svn/jazz/Site/Finalni/21.jpg'
   -
-    title: 'Interior Design (Arbeitszimmer)'
+    title: 'Wohnung Design (Arbeitszimmer)'
     description: '„I did it my way “ – so präsentiert sich dein perfektes Office.'
     pageLayout: 6
     project: 'http://hub.acherno.com/svn/jazz/Facebook/16-o_f.jpg'
@@ -109,7 +109,7 @@ rooms:
     project: 'http://hub.acherno.com/svn/jazz/Facebook/28-b_f.jpg'
     final: 'http://hub.acherno.com/svn/jazz/Site/Finalni/17.jpg'
   -
-    title: 'Wohndesign (Badezimmer)'
+    title: 'Wohnung Design (Badezimmer)'
     description: 'Wie ein tropischer Morgen in Louisiana - inspiriert von braunem Holz und frischem Grün schenkt dir das Badezimmer die Kraft und die Gelassenheit für einen erfolgreichen Tag.'
     pageLayout: 8
     project: 'http://hub.acherno.com/svn/jazz/Facebook/31-b_f.jpg'

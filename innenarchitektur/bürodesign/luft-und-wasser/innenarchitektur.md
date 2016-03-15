@@ -5,7 +5,7 @@ coverLayout: 7
 price: 55
 design: 'Moderne (Büroeinrichtung)'
 project: 'Luft und Wasser'
-title: '[Interior Design Büro] (Luft und Wasser)'
+title: '[Innenarchitektur Büro] (Luft und Wasser)'
 subtitle: 'Elegant & Funktional'
 description: 'Luft und Wasser. Zwei leichte und flüchtige Elemente die sich gut kombinieren lassen. Unser Anspruch – das Licht im Raum zu halten und ein funktionelles Arbeitsumfeld zu schaffen. Um einen bequemen und praktischen Arbeitsplatz zu gestalten, der dem neusten Trend und Extravagantem wiederspiegelt, haben wir uns die großen Fenster zu Nutze gemacht. '
 legacy: '/interior-design/büro/luft-und-wasser/inneneinrichtung.html'
@@ -30,7 +30,7 @@ rooms:
     project: 'http://hub.acherno.com/svn/vazduh-i-voda/Site/3D/03_f.jpg'
     final: 'http://hub.acherno.com/svn/vazduh-i-voda/Site/Realizacia/03.jpg'
   -
-    title: 'Interior Design (Besprechungsraum)'
+    title: 'Innendesign (Besprechungsraum)'
     description: 'Der Besprechungsraum ist unkonventionell das Zentrum aller Büros. So erfolgen die Mettings immer vor dem gesamten Personal und nie hinter verschlossenen Türen.'
     pageLayout: 5
     project: 'http://hub.acherno.com/svn/vazduh-i-voda/Site/3D/04_f.jpg'

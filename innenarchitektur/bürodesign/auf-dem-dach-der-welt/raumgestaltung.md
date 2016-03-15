@@ -3,7 +3,7 @@ href: '/web/projects/public/on-the-roof-of-the-world'
 order: 52
 coverLayout: 14
 featured: true
-design: '(Raumgestaltung Office)'
+design: '(Innenarchitektur Office)'
 project: 'Auf dem Dach der Welt'
 price: 65
 title: 'Raumgestaltung Office (Auf dem Dach der Welt)'
@@ -13,7 +13,7 @@ legacy: '/interior-design/büro/auf-dem-dach-der-welt/büroeinrichtung.html'
 image: 'http://hub.acherno.com/svn/na-pokriva-na-sveta/Site/3D/01-m.jpg'
 rooms:
   -
-    title: 'Raumgestaltung – (Interior Design Office)'
+    title: 'Raumgestaltung – (Design Office)'
     description: 'Er stand auf dem Dach von Santiago de Compostela und blickte auf die kleine Welt unter seinen Füßen.'
     pageLayout: 1
     a3d: 'http://hub.acherno.com/svn/na-pokriva-na-sveta/Site/3D/03-z.jpg'
@@ -25,7 +25,7 @@ rooms:
     a3d: 'http://hub.acherno.com/svn/na-pokriva-na-sveta/Site/3D/02m.jpg'
     b3d: 'http://hub.acherno.com/svn/na-pokriva-na-sveta/Site/3D/01-m.jpg'
   -
-    title: 'Interior Design - (Innenarchitektur Projekt Office)'
+    title: 'Innendesign - (Innenarchitektur Projekt Office)'
     description: 'Sein Blick fiel auf die rötlichen Nuancen der Ziegel, deren Farbtöne von dunklem Karmin, über Cinober bis zu einem leichten Orange reichten. Wer wird wohl unter diesen Ziegeln wohnen, wohin geht er und kennt er den Blick von oben?'
     pageLayout: 8
     a3d: 'http://hub.acherno.com/svn/na-pokriva-na-sveta/Site/3D/05k.jpg'

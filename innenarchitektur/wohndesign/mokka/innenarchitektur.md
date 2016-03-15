@@ -36,7 +36,7 @@ rooms:
     final: 'http://hub.acherno.com/svn/moka/Site/Finalni/acherno-12.jpg'
     pageLayout: 8
   -
-    title: 'Interior Design (Badezimmer)'
+    title: 'Wohnung Design (Badezimmer)'
     description: 'Der Farbcode bleibt. Der elegante Spiegelschrank mit integrierter Beleuchtung hat nicht nur eine praktische  Funktion, zusätzlich lässt er den Raum heller und größer wirken. Der große Waschtisch lässt genügend Raum für Badeaccessoires.'
     project: 'http://hub.acherno.com/svn/moka/Site/3D/18-b_f.jpg'
     final: 'http://hub.acherno.com/svn/moka/Site/Finalni/acherno-11.jpg'

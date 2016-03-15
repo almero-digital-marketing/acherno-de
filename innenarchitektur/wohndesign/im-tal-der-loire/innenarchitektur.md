@@ -4,7 +4,7 @@ order: 12
 coverLayout: 3
 price: 90
 featured: true
-design: 'Klassisches (Interior Design)'
+design: 'Klassisches (Wohnung Design)'
 project: 'Im Tal der Loire'
 title: '[Innenarchitektur Projekt] (Im Tal der Loire)'
 subtitle: 'Klassisch & Romantisch'
@@ -25,7 +25,7 @@ rooms:
     final: 'http://hub.acherno.com/svn/dolinata-na-loara/Site/Finalni/28.jpg'
     pageLayout: 6
   -
-    title: 'Interior Design (Küche)'
+    title: 'Wohnung Design (Küche)'
     description: 'Hier im Herzen jedes Zuhauses mussten wir einen Platz für alles Notwendige finden. Hier, wo die Familienabendessen zubereitet, wo jeden Abend Geschichten erzählt werden und wo an Festen die ganze Familie Beisammen ist.  Hier, wo das Schöne auch praktisch sein muss, wo die Naturstein-Arbeitsplatte schöne Details offenbart und die Tischplatte aus einem angenehmen Massivholz ist.'
     project: 'http://hub.acherno.com/svn/dolinata-na-loara/Site/3D/07-h_f.jpg'
     final: 'http://hub.acherno.com/svn/dolinata-na-loara/Site/Finalni/19.jpg'

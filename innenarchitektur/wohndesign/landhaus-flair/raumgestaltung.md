@@ -7,7 +7,7 @@ design: 'Unübliche Formen mit (Landhausaustrahlung) '
 project: 'Landhaus Flair'
 price: 65
 title: '[Raumgestaltung] (Landhaus Flair)'
-subtitle: 'Modernes (Interior Design)'
+subtitle: 'Modernes (Wohnung Design)'
 description: 'Eine Wohnung, die sehr unübliche Formen hat. Die Klienten gaben diesem Projekt den netten Namen „ Die zwei rechten Winkel“ vollkommen zu Recht.'
 legacy: '/interior-design/wohnung/landhaus-flair/interior-design.html'
 image: 'http://hub.acherno.com/svn/bohemski/Site/Finalni/ach%20(18)b.jpg'
@@ -50,7 +50,7 @@ rooms:
     project: 'http://hub.acherno.com/svn/bohemski/Site/3D/21-d_f.jpg'
     final: 'http://hub.acherno.com/svn/bohemski/Site/Finalni/7.jpg'
   -
-    title: 'Interior Design (Kinderzimmer)'
+    title: 'Wohnung Design (Kinderzimmer)'
     description: 'Eine Welt in der sich der kleine Liebling wohl fühlt und unbesorgt spielen kann.'
     pageLayout: 5
     project: 'http://hub.acherno.com/svn/bohemski/Site/3D/22-d_f.jpg'

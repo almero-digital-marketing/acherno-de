@@ -4,7 +4,7 @@ order: 6
 coverLayout: 18
 price: 85
 featured: true
-design: 'Modernes (Interior Design) '
+design: 'Modernes (Wohnung Design) '
 project: 'Make Up'
 title: '[Wohndesign Apartment] (Make Up)'
 subtitle: 'Geheimnisvolle (Ausstrahlung)'
@@ -26,7 +26,7 @@ rooms:
     project: 'http://hub.acherno.com/svn/grim/Site/3D/06-h_f.jpg'
     final: 'http://hub.acherno.com/svn/grim/Site/Finalni/vitisha%20(1)bbcc.jpg'
   -
-    title: 'Interior Design (Küche)'
+    title: 'Wohnung Design (Küche)'
     description: 'Schlicht, elegant und absolut stilsicher präsentiert sich dieses Schmuckstück. Eine Küche, dessen Design  eines Fashion Laufstegs würdig ist.'
     pageLayout: 4
     project: 'http://hub.acherno.com/svn/grim/Site/3D/09-h_f.jpg'
@@ -62,7 +62,7 @@ rooms:
     project: 'http://hub.acherno.com/svn/grim/Site/3D/02-b_f.jpg'
     final: 'http://hub.acherno.com/svn/grim/Site/Finalni/vitisha%20(5).jpg'
   -
-    title: 'Interior Design (Bad)'
+    title: 'Wohnung Design (Bad)'
     description: 'Von hochwertigem Glas und Edelstahl geschützt machen die aufwendigen Mosaike diese Luxusdusche zu einer Referenz in Sachen Ästhetik und Funktionalität.'
     pageLayout: 7
     project: 'http://hub.acherno.com/svn/grim/Site/3D/03-b_f.jpg'

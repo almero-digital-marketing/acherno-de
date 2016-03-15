@@ -6,7 +6,7 @@ featured: true
 project: 'Mon Chèri'
 price: 60
 design: 'Moderne (Innenarchitektur)'
-title: '[Wohndesign] (Mon Chèri)'
+title: '[Wohnung Design] (Mon Chèri)'
 subtitle: 'Fest (der Farben)'
 description: 'Eine kontrastreiche Raumgestaltung, die satte und zarte Farbtöne in sich vereinigt, dazu eine großzügige Terrasse mit einer wunderschönen Aussicht: Ein Apartment, das alle Voraussetzungen zu einem ausgeglichenen Wohngefühl erfüllt.'
 legacy: '/interior-design/wohnung/mon-chèri/inneneinrichtung.html'
@@ -49,7 +49,7 @@ rooms:
     project: 'http://hub.acherno.com/svn/piyani-vishni-v-shokolad/Site/3D/06-b1_f.jpg'
     final: 'http://hub.acherno.com/svn/piyani-vishni-v-shokolad/Site/Realizacia/06_Ach (26).jpg'
   -
-    title: 'Interior Design (Toilette)'
+    title: 'Wohnung Design (Toilette)'
     description: 'Die zweite Toilette haben wir elegant als ein hochwertiges Gäste WC mit einem praktischen Waschplatz gelöst'
     pageLayout: 8
     project: 'http://hub.acherno.com/svn/piyani-vishni-v-shokolad/Site/3D/07-b2_f.jpg'

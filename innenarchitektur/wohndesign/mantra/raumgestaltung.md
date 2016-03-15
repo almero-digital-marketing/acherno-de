@@ -30,7 +30,7 @@ rooms:
     project: 'http://hub.acherno.com/svn/mantra/Site/3D/hol_3D_01.jpg'
     final: 'http://hub.acherno.com/svn/mantra/Site/Realizacia/hol_snimka_01.jpg'
   -
-    title: 'Wohndesign (Küche)'
+    title: 'Wohnung Design (Küche)'
     description: 'Die Küche ist mit funktionalen Einbaugeräten optimal eingerichtet. Durch den zusätzlich geschaffenen Stauraum, wirkt alles klar und geordnet.'
     pageLayout: 2
     project: 'http://hub.acherno.com/svn/mantra/Site/3D/kuhnq_3D_07.jpg'

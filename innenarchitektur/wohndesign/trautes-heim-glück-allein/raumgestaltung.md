@@ -14,7 +14,7 @@ image: 'http://hub.acherno.com/svn/prispivna-pesen/Site/Finalni/DH230741_2_3_4_5
 video: 'http://hub.acherno.com/svn/prispivna-pesen/Site/Video/zlatina-20150319-hd.mp4'
 rooms:
   -
-    title: 'Innenarchitektur Projekt (Wohnzimmer)'
+    title: 'Wohnung Design (Wohnzimmer)'
     description: 'Ein Raum voller Erinnerungen. Hier bist du Zuhause.'
     pageLayout: 1
     project: 'http://hub.acherno.com/svn/prispivna-pesen/Site/3D/02-h_f.jpg'

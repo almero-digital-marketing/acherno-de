@@ -6,7 +6,7 @@ design: 'Kolonialstil'
 price: 75
 featured: true
 project: 'Künstlerische Aristokratie'
-title: '[Raumgestaltung] (Künstlerische Aristokratie)'
+title: '[Wohnung Design] (Künstlerische Aristokratie)'
 subtitle: 'Komfort'
 description: 'Die Seele eines Künstlers, die  Augen eines Abenteurers und das  Herz eines Aristokraten - diese Wohnung hat Tausende von Welten versammelt in den Büchern der Regale und Schränke. Eine Wohnung die sich im Herzen der Stadt, direkt über einer uralten Kastanie, befindet.'
 legacy: '/interior-design/wohnung/künstlerische-aristokratie/interior.html'
@@ -37,7 +37,7 @@ rooms:
     project: 'http://hub.acherno.com/svn/aristokratichno-artistichen/Site/3D/04-h_f.jpg'
     final: 'http://hub.acherno.com/svn/aristokratichno-artistichen/Site/Realizacia/04_5.jpg'
   -
-    title: 'Interior Design (Schlafzimmer)'
+    title: 'Wohnung Design (Schlafzimmer)'
     description: 'Das Schlafzimmer erstrahlt in hellen weiß mit freundlichem Ornament und lädt zum entspannen ein. Das wunderschöne Gästezimmer steht dem in nichts nach.'
     pageLayout: 2
     project: 'http://hub.acherno.com/svn/aristokratichno-artistichen/Site/3D/05-s_f.jpg'

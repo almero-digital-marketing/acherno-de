@@ -13,7 +13,7 @@ legacy: '/interior-design/wohnung/zeitlos/interior-design.html'
 image: 'http://hub.acherno.com/svn/vremeto/Site/Realizacia/04_5.jpg'
 rooms:
   -
-    title: 'Interior Design (Wohnzimmer)'
+    title: 'Wohnung Design (Wohnzimmer)'
     description: 'Das lichtdurchflutete  Wohnzimmer ist komfortabel eingerichtet und lädt mit seinen großen Wohnzimmertisch zu einem gemütlichen Spielabend ein.'
     pageLayout: 5
     project: 'http://hub.acherno.com/svn/vremeto/Site/3D/02-h_f.jpg'
@@ -83,7 +83,7 @@ constructions:
     title: 'Reparatur von Schlafzimmer'
     image: 'http://hub.acherno.com/svn/vremeto/Site/Remonti/IMG_7175.JPG'
   - 
-    title: 'Interior Design von Badezimmer'
+    title: 'Wohnung Design von Badezimmer'
     image: 'http://hub.acherno.com/svn/vremeto/Site/Remonti/IMG_7188.JPG'
 facebook:
   project: '475402469478'

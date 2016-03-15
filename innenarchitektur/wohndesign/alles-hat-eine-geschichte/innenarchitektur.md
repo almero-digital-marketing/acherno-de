@@ -45,7 +45,7 @@ rooms:
     project: 'http://hub.acherno.com/svn/vsichko-si-ima-istoria/Site/3D/06-k_f.jpg'
     final: 'http://hub.acherno.com/svn/vsichko-si-ima-istoria/Site/Realizacia/06_dr%20(25).jpg'
   -
-    title: 'Interior Design (Eingangsbereich)'
+    title: 'Wohnung Design (Eingangsbereich)'
     description: 'Der Eingangsbereich bildet durch seine Farbgebung einen natürlichen Übergang von außen nach innen.'
     pageLayout: 7
     project: 'http://hub.acherno.com/svn/vsichko-si-ima-istoria/Site/3D/08-a_f.jpg'

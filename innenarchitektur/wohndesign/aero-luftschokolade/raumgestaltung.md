@@ -3,7 +3,7 @@ href: '/web/projects/private/air-chocolate'
 order: 7
 coverLayout: 3
 price: 40
-design: 'Modernes und funktionales (Wohndesign)'
+design: 'Modernes und funktionales (Wohnung Design)'
 project: 'Aero Luftschokolade'
 title: '[Raumgestaltung] (Aero Luftschokolade)'
 subtitle: 'Gewagte (Avantgarde)'
@@ -24,7 +24,7 @@ rooms:
     final: 'http://hub.acherno.com/svn/aero-shokolad/Site/Finalni/2.jpg'
     pageLayout: 2
   -
-    title: 'Interior Design (Eingangsbereich)'
+    title: 'Wohnung Design (Eingangsbereich)'
     description: 'Die von Lichtern flankierten schmalen, Linien an der Decke geleiten dich sanft in das Herz der Wohnung.'
     project: 'http://hub.acherno.com/svn/aero-shokolad/Site/3D/01_fin.jpg'
     final: 'http://hub.acherno.com/svn/aero-shokolad/Site/Finalni/10.jpg'

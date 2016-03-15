@@ -25,7 +25,7 @@ rooms:
     project: 'http://hub.acherno.com/svn/kanela-kardamon-i-vanilia/Site/3D/02-h_f.jpg'
     final: 'http://hub.acherno.com/svn/kanela-kardamon-i-vanilia/Site/Realizacia/02-6.jpg'
   -
-    title: 'Interior Design (Kinderzimmer)'
+    title: 'Wohnung Design (Kinderzimmer)'
     description: 'Schön bunt, aber nicht zu grell. Verspielt und trotzdem praktisch mit ausreichend Stauraum für alle Spielsachen.'
     pageLayout: 3
     project: 'http://hub.acherno.com/svn/kanela-kardamon-i-vanilia/Site/3D/03-d_f.bmp'

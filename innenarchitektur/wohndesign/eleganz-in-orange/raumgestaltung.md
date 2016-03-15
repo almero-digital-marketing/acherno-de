@@ -36,7 +36,7 @@ rooms:
     final: 'http://hub.acherno.com/svn/portokalovo-sladko/Site/Finalni/AchL1.jpg'
     pageLayout: 2
   -
-    title: 'Interior Design (Schlafzimmer)'
+    title: 'Wohnung Design (Schlafzimmer)'
     description: 'Das Holz der Möbel haben wir, wie auch die Wände, in besonders weichen und zarten Farben gehalten.'
     project: 'http://hub.acherno.com/svn/portokalovo-sladko/Site/3D/06-s_f.jpg'
     final: 'http://hub.acherno.com/svn/portokalovo-sladko/Site/Finalni/AchL5.jpg'

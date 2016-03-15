@@ -7,7 +7,7 @@ price: 70
 design: 'Luxuriös'
 project: 'Die Farben des Stiers'
 title: '[Raumgestaltung] (Die Farben des Stiers)'
-subtitle: 'Interior Design (Sternzeichen Stier)'
+subtitle: 'Wohnung Design (Sternzeichen Stier)'
 description: 'Ein Wohnkonzept, das wir ganz dem Sternzeichen Stier gewidmet haben, weil unsere Kundin und die zwei Projektdesigner unter diesem Sternzeichen geboren sind.Inspiriert von einer Stierkampfarena ist die Interior in prächtigem purpurrot kombiniert mit sandigen Erdtönen gehalten.'
 legacy: '/interior-design/wohnung/die-farben-des-stiers/einrichtung.html'
 image: 'http://hub.acherno.com/svn/tzvetovete-na-teletza/Site/Realizacia/02-h.jpg'
@@ -61,7 +61,7 @@ rooms:
     project: 'http://hub.acherno.com/svn/tzvetovete-na-teletza/Site/3D/11-k_f.jpg'
     final: 'http://hub.acherno.com/svn/tzvetovete-na-teletza/Site/Realizacia/11-a.jpg'
   -
-    title: 'Interior Design von (Eingangsbereich)'
+    title: 'Wohnung Design von (Eingangsbereich)'
     description: 'Florale Wandsticker  komplettieren das Design und lassen es unvergesslich werden.'
     pageLayout: 1
     project: 'http://hub.acherno.com/svn/tzvetovete-na-teletza/Site/3D/12-k_f.jpg'

@@ -25,13 +25,13 @@ rooms:
     project: 'http://hub.acherno.com/svn/sblasaka-na-dva-svyata/Site/3D/01_f.bmp'
     final: 'http://hub.acherno.com/svn/sblasaka-na-dva-svyata/Site/Realizacia/01.JPG'
   -
-    title: 'Innenarchitektur Projekt (Gastronomie)'
+    title: 'Innendesign (Gastronomie)'
     description: ' Im Souterrain wird das legeré französische Gefühl der Provence gelebt, während im Obergeschoss der Puls der Moderne zu spüren ist.'
     pageLayout: 2
     project: 'http://hub.acherno.com/svn/sblasaka-na-dva-svyata/Site/3D/04_f.jpg'
     final: 'http://hub.acherno.com/svn/sblasaka-na-dva-svyata/Site/Realizacia/04.JPG'
   -
-    title: 'Interior Design von (Gaststätte)'
+    title: 'Raumdesign (Gaststätte)'
     description: Eine kontrastreiche Farbgestaltung  verleiht dem extravaganten Obergeschoss eine zusätzliche Lebendigkeit. Altweiß kombiniert mit glänzendem Schwarz und einer Texturtapete komplettiert das moderne Design. '
     pageLayout: 6
     project: 'http://hub.acherno.com/svn/sblasaka-na-dva-svyata/Site/3D/02_f.bmp'
