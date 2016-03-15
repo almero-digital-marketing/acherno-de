@@ -3,7 +3,7 @@ href: '/web/projects/private/urban'
 order: 5
 coverLayout: 3
 featured: true
-design: 'Modernes (Interior Design)'
+design: 'Modernes (Wohnung Design)'
 project: 'Big City Life'
 price: 50
 title: '[Raumgestaltung] (Big City Life)'
@@ -49,7 +49,7 @@ rooms:
     project: 'http://hub.acherno.com/svn/gradski/Site/3D/3.02-k_f.jpg'
     final: 'http://hub.acherno.com/svn/gradski/Site/Realizacia/8_k-r.jpg'
   -
-    title: 'Interior Design (Schlafzimmer)'
+    title: 'Wohnung Design (Schlafzimmer)'
     description: 'Alles neu macht der Mai! Üppige Blüten versprühen ihr elegantes Aroma und tauchen den Raum in einem Traum aus Rosa, Rot und Weiß.'
     pageLayout: 4
     project: 'http://hub.acherno.com/svn/gradski/Site/3D/4.01-s_f.jpg'
@@ -67,7 +67,7 @@ rooms:
     project: 'http://hub.acherno.com/svn/gradski/Site/3D/4.02-s_f.jpg'
     final: 'http://hub.acherno.com/svn/gradski/Site/Realizacia/5_s-r.jpg'
   -
-    title: 'Interior Design (Badezimmer)'
+    title: 'Wohnung Design (Badezimmer)'
     description: 'Ein Labsal für Seele und Körper! Lass dich von der warmen Regendusche erfrischen und entspannen zugleich. Welch ein Genuss, der Tag kann kommen!'
     pageLayout: 9
     project: 'http://hub.acherno.com/svn/gradski/Site/3D/1.03-b_f.jpg'

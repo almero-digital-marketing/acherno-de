@@ -13,7 +13,7 @@ legacy: '/interior-design/büro/zahnklinik/interiordesign.html'
 image: 'http://hub.acherno.com/svn/doctor/Site/3D/02_1_f.jpg'
 rooms:
   -
-    title: 'Interior Design (Warte- und Empfangsbereich)'
+    title: 'Raumdesign (Warte- und Empfangsbereich)'
     description: 'Der erste Eindruck ist entscheidend. Der Wartebereich hinterlässt ein Gefühl von Gemütlichkeit und Ruhe. Die Rezeption ist schlicht gehalten, mit geraden Linien und lenkt nicht mit unnötigen Details ab. Mit genügend Stauraum wirkt der Raum strukturiert und ordentlich. Auch ohne Tageslicht haben wir hier eine Beispielhafte Lösung für einen innenliegenden Raum geschaffen.'
     pageLayout: 4
     a3d: 'http://hub.acherno.com/svn/doctor/Site/3D/20_o_f.jpg'

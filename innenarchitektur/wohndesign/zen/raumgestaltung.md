@@ -19,7 +19,7 @@ rooms:
     project: 'http://hub.acherno.com/svn/dzen/Site/3D/01-h_f.jpg'
     final: 'http://hub.acherno.com/svn/dzen/Site/Realizacia/02-18.jpg'
   -
-    title: 'Interior Design (Wohnzimmer)'
+    title: 'Wohnung Design (Wohnzimmer)'
     description: 'Ein weiches Ledersofa, Wandregale mit indirekter Beleuchtung und dazu deine Lieblingsmusik in Hi-Fi Deluxe –  alles was du brauchst zum Relaxen. Eine gelungene Kombination aus Spannung und Balance, die lebendig und gleichzeitig beruhigend wirkt.'
     pageLayout: 6
     project: 'http://hub.acherno.com/svn/dzen/Site/3D/02-h_f.jpg'

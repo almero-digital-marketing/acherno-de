@@ -31,7 +31,7 @@ rooms:
     project: 'http://hub.acherno.com/svn/sunny-bunny/Site/3D/Magazin_Solunska_FINAL_04_N.jpg'
     final: 'http://hub.acherno.com/svn/sunny-bunny/Site/Finalni/IMG_2254.jpg'
   -
-    title: 'Interior Design von (Laden)'
+    title: 'Innendesign von (Laden)'
     description: 'Den Platz unter der Treppe ist als zusätzlicher Stauraum vorgesehen.'
     pageLayout: 9
     project: 'http://hub.acherno.com/svn/sunny-bunny/Site/3D/Magazin_Solunska_FINAL_03_N.jpg'

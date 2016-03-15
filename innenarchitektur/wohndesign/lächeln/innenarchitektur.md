@@ -6,7 +6,7 @@ price: 70
 design: 'Modernes (Wohndesign)'
 project: 'Lächeln'
 title: '[Innenarchitektur eines Apartments] (Lächeln)'
-subtitle: 'Interior Design (mit Stimmung)'
+subtitle: 'Wohnung Design (mit Stimmung)'
 description: 'Ein Lächeln lässt die Sonne der Seele aufgehen! Du kommst herein und kannst es kaum fassen, du und deine Nächsten könnt eure Freude kaum verbergen. Ein strahlendes Lächeln breitet sich auf deinen Lippen aus. Hier ist das Zuhause, ein Heim der Gefühle, der Herzlichkeit und des Glücks.'
 legacy: '/interior-design/wohnung/lächeln/inneneinrichtung.html'
 image: 'http://hub.acherno.com/svn/usmivka/Site/Finalni/7.jpg'
@@ -36,7 +36,7 @@ rooms:
     final: 'http://hub.acherno.com/svn/usmivka/Site/Finalni/8.jpg'
     pageLayout: 5
   -
-    title: 'Interior Design (Eingangsbereich)'
+    title: 'Wohnung Design (Eingangsbereich)'
     description: 'Ein geheimnisvolles asiatisches Lächeln empfängt dich herzlich und bittet dich einzutreten.'
     project: 'http://hub.acherno.com/svn/usmivka/Site/3D/015-k_f.jpg'
     final: 'http://hub.acherno.com/svn/usmivka/Site/Finalni/18.jpg'
@@ -60,7 +60,7 @@ rooms:
     final: 'http://hub.acherno.com/svn/usmivka/Site/Finalni/3.jpg' 
     pageLayout: 5
   -
-    title: 'Interior Design (Schlafzimmer)'
+    title: 'Wohnung Design (Schlafzimmer)'
     description: 'Wände in Zimt und Schokolade versprühen  Wärme und Behaglichkeit im Raum.л.'
     project: 'http://hub.acherno.com/svn/usmivka/Site/3D/009-s_f.jpg'
     final: 'http://hub.acherno.com/svn/usmivka/Site/Finalni/4.jpg'

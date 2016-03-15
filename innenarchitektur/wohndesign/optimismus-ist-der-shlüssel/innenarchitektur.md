@@ -43,7 +43,7 @@ rooms:
     project: 'http://hub.acherno.com/svn/optimizam-mu-e-maykata/Site/3D/spalnq_3D_07.jpg'
     final: 'http://hub.acherno.com/svn/optimizam-mu-e-maykata/Site/Realizacia/spalnq_snimka_05.jpg'
   -
-    title: 'Interior Design (Flur)'
+    title: 'Wohnung Design (Flur)'
     description: 'Clevere Einbauten und zarten Wandarben lassen den Eingangsbereich gemütlich und hell wirken.'
     pageLayout: 7
     project: 'http://hub.acherno.com/svn/optimizam-mu-e-maykata/Site/3D/antre_3D_01.jpg'

@@ -5,7 +5,7 @@ coverLayout: 7
 featured: true
 project: 'New York'
 price: 75
-design: 'Modernes (Interior Design)'
+design: 'Modernes (Wohnung Design)'
 title: '[Raumgestaltung] (New York)'
 subtitle: 'Glamour'
 description: 'New York is The City That Never Sleeps. Für Millionen ist Sie das Tor zur Hoffnung und Glück. Unsere Inspiration für diese Wohnung, die aus Wohnzimmer, Küche, Schlafzimmer, Kinderzimmer und zwei Badezimmern und einer Gästetoilette besteht.'
@@ -31,7 +31,7 @@ rooms:
     project: 'http://hub.acherno.com/svn/new-york/Site/3D/03-d_f.jpg'
     final: 'http://hub.acherno.com/svn/new-york/Site/Realizacia/03_7d.jpg'
   -
-    title: 'Interior Design (Kinderzimmer Mädchen)'
+    title: 'Wohnung Design (Kinderzimmer Mädchen)'
     description: 'Eine Welt voller Wunder und kleiner entzückender Momente in diesem rosa und weiß getauchten romantischem Zimmer.'
     pageLayout: 4
     project: 'http://hub.acherno.com/svn/new-york/Site/3D/04-d_f.jpg'

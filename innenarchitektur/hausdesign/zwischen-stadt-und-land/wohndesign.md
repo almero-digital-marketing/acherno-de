@@ -61,7 +61,7 @@ rooms:
     project: 'http://hub.acherno.com/svn/mezhdu-planinata-i-grada/Site/3D/30-p_f.jpg'
     final: 'http://hub.acherno.com/svn/mezhdu-planinata-i-grada/Site/Finalni/30-snimka.jpg'
   -
-    title: 'Interior Design von (Gäste Toilette)'
+    title: 'Wohnung Design von (Gäste Toilette)'
     description: 'Dezent und trotzdem stilvoll präsentiert sich unsere Gästetoillete.'
     pageLayout: 8
     project: 'http://hub.acherno.com/svn/mezhdu-planinata-i-grada/Site/3D/14-b_f.jpg'

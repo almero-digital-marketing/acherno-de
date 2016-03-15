@@ -6,14 +6,14 @@ design: 'Moderne und behagliche (Innenarchitektur)'
 project: 'Liebe das Leben'
 featured: true
 title: '[Raumgestaltung Stadtvilla] (Liebe das Leben)'
-subtitle: 'Wohndesign einer Stadtvilla'
+subtitle: 'Wohnung Design einer Stadtvilla'
 description: 'Die Stadtvilla - ein zwei stöckiges, großzügiges Haus mit Rückzugsmöglichkeiten für jeden. Unten - ein großer Wohnbereich mit Küche, Esszimmer, Badezimmer und Garderobe, sowie einer kleinen Gästetoilette. Oben - zwei Apartmentstudios mit eigenem Bad.'
 legacy: '/interior-design/haus/liebe-das-leben/inneneinrichtung.html'
 image: 'http://hub.acherno.com/svn/obichay-zhivota/Site/Finalni/ach_%20(41).jpg'
 video: 'http://hub.acherno.com/svn/obichay-zhivota/Site/Video/20141103-hd.mp4'
 rooms:
   -
-    title: 'Interior Design (Wohnzimmer)'
+    title: 'Wohnung Design (Wohnzimmer)'
     description: 'Ein Wohnzimmer ganz in zartem  Flieder,  klassischem Weiß und ein paar Akzenten in Rosa und Gelb. Das ist ein frisches Frühlingsbouqet für die Seele. Dieses luftige Wohnzimmer mit schönem Ausblick zum Garten ist das Herz des Hauses. Besinnliche Abende mit Freunden oder einfach nur auf dem Sofa liegen und einen aromatischen Tee trinken– hier alles ist denkbar!'
     pageLayout: 9
     project: 'http://hub.acherno.com/svn/obichay-zhivota/Site/3D/01-h_f.jpg'
@@ -55,7 +55,7 @@ rooms:
     project: 'http://hub.acherno.com/svn/obichay-zhivota/Facebook/33-b1_f.jpg'
     final: 'http://hub.acherno.com/svn/obichay-zhivota/Site/Finalni/ach_%20(11).jpg'
   -
-    title: 'Interior Design (Wohnzimmer)'
+    title: 'Wohnung Design (Wohnzimmer)'
     description: 'Ein modern und geschmackvoll eingerichtetes Wohnzimmer in den Trendfarben Mint, Grau und Khaki. Hier findest du nach der Arbeit, die Zeit für einen guten Roman oder einen spannenden Film. '
     pageLayout: 4
     project: 'http://hub.acherno.com/svn/obichay-zhivota/Site/3D/39-h2_f.jpg'

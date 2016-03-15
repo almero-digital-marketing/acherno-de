@@ -3,7 +3,7 @@ href: '/web/projects/private/dim'
 order: 3
 coverLayout: 3
 price: 40
-design: 'Modernes (Interior Design)'
+design: 'Modernes (Wohnung Design)'
 project: 'Rauch'
 title: '[Raumgestaltung] (Rauch)'
 subtitle: 'In 80 Tagen um die Welt'
@@ -24,7 +24,7 @@ rooms:
     project: 'http://hub.acherno.com/svn/dim/Site/3D/24-h.jpg'
     final: 'http://hub.acherno.com/svn/dim/Site/Finalni/7.jpg'
   -
-    title: 'Innendesign (Schlafzimmer)'
+    title: 'Wohnung Design (Schlafzimmer)'
     description: 'The City that never sleeps – Like all these buildings I will try. To leave the world behind until my head is clear. Draw a new skyline... and change my atmosphere.Ein Schlafzimmer in glamourösem New York Look. Perfekt ausgeleuchtet und dank kleiner Wohnaccessoires zum einen wahren Unikat gemacht.'
     pageLayout: 4
     project: 'http://hub.acherno.com/svn/dim/Site/3D/12-s.jpg'

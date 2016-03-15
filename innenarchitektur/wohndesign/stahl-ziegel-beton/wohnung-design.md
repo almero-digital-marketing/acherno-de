@@ -3,10 +3,10 @@ href: '/web/projects/private/concrete-brick-and-iron'
 order: 5
 coverLayout: 9
 featured: true
-design: '(Wohndesign) Loft'
+design: '(Innenarchitektur) Loft'
 price: 60
 project: 'Stahl, Ziegel, Beton'
-title: '[Interior Design] (Beton, Ziegel und Eisen)'
+title: '[Wohnung Design] (Beton, Ziegel und Eisen)'
 subtitle: 'Loft Raumgestaltung'
 description: 'Diese Wohnung ähnelt keinem von unseren vorherigen Projekten. Unsere Kunden wünschten sich eine unkonventionelle und extravagante Raumgestaltung für ihr neues Zuhause und wir schufen ein Märchen aus dekorativen Ziegeln und Eisen.'
 legacy: '/interior-design/wohnung/stahl-ziegel-beton/innenausstattung.html'
@@ -37,7 +37,7 @@ rooms:
     project: 'http://hub.acherno.com/svn/beton-tuhla-i-zhelyazo/Site/3D/04-s_f.jpg'
     final: 'http://hub.acherno.com/svn/beton-tuhla-i-zhelyazo/Site/Realizacia/04_12.jpg'
   -
-    title: 'Interior Design (Schlafzimmer)'
+    title: 'Wohnung Design (Schlafzimmer)'
     description: 'Sparsam an Farben, aber reich an Licht.'
     pageLayout: 2
     project: 'http://hub.acherno.com/svn/beton-tuhla-i-zhelyazo/Site/3D/05-s_f.jpg'
@@ -67,7 +67,7 @@ rooms:
     project: 'http://hub.acherno.com/svn/beton-tuhla-i-zhelyazo/Site/3D/09-b_f.jpg'
     final: 'http://hub.acherno.com/svn/beton-tuhla-i-zhelyazo/Site/Realizacia/09_19.jpg'
   -
-    title: 'Interior Design (Badezimmer)'
+    title: 'Wohnung Design (Badezimmer)'
     description: 'Alles sieht so schön aus, bescheint von der Morgensonne. Oder wenn Du Dich in der Badewanne entspannst, kannst Du einen Blick auf den grünen Kronen der Bäume auf der anderen Straßenseite werfen.'
     pageLayout: 7
     project: 'http://hub.acherno.com/svn/beton-tuhla-i-zhelyazo/Site/3D/10-b_f.jpg'

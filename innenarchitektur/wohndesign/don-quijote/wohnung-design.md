@@ -36,7 +36,7 @@ rooms:
     final: 'http://hub.acherno.com/svn/don-kihot/Site/Finalni/8.jpg'
     pageLayout: 4
   -
-    title: 'Innendesign (Ess- und Wohnzimmer)'
+    title: 'Wohnung Design (Ess- und Wohnzimmer)'
     description: 'Ein großer Spiegel, im von festlichen Kronleuchtern erstrahlenden Esszimmer, lässt den Raum optisch großer wirken und  stiftet eine beruhigende Atmosphäre.'
     project: 'http://hub.acherno.com/svn/don-kihot/Site/3D/06_fin.jpg'
     final: 'http://hub.acherno.com/svn/don-kihot/Site/Finalni/2.jpg'
