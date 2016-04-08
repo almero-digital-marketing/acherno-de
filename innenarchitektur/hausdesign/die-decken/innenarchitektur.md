@@ -1,7 +1,7 @@
 ---
 href: '/web/projects/private/ceilings'
 order: 7
-coverLayout: 18
+coverLayout: 3
 design: '(Modernes) Raumdesign'
 price: 13
 project: 'Die Decken'
