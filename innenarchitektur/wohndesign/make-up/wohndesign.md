@@ -1,6 +1,6 @@
 ---
 href: '/web/projects/private/grim' 
-order: 6
+order: 104
 coverLayout: 18
 price: 85
 featured: true

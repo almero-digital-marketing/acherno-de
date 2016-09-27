@@ -1,6 +1,6 @@
 ---
 href: '/web/projects/private/treasure-island'
-order: 7
+order: 290
 coverLayout: 13
 price: 70
 design: 'Moderne (Raumgestaltung)'

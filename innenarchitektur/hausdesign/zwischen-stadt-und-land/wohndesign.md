@@ -1,6 +1,6 @@
 ---
 href: '/web/projects/private/between-the-mountains-and-the-city'
-order: 1
+order: 10
 coverLayout: 8
 featured: true
 design: '(Modernes Design) Haus'

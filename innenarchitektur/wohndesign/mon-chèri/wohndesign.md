@@ -1,6 +1,6 @@
 ---
 href: '/web/projects/private/cherries-in-chocolate'
-order: 4
+order: 160
 coverLayout: 7
 featured: true
 project: 'Mon Chèri'

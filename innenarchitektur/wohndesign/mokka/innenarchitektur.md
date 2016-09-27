@@ -1,6 +1,6 @@
 ---
 href: '/web/projects/private/moka'
-order: 8
+order: 170
 coverLayout: 3
 design: 'Moderne (Raumgestaltung)'
 project: 'Mokka'

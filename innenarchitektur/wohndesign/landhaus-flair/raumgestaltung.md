@@ -1,6 +1,6 @@
 ---
 href: '/web/projects/private/bohemian' 
-order: 10
+order: 100
 coverLayout: 14
 featured: true
 design: 'Unübliche Formen mit (Landhausaustrahlung) '

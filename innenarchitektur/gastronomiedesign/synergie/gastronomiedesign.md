@@ -1,6 +1,6 @@
 ---
 href: '/web/projects/public/clash-of-two-worlds' 
-order: 55
+order: 80
 coverLayout: 17
 featured: true
 design: '(Restaurant) über zwei Etagen'

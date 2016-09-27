@@ -1,6 +1,6 @@
 ---
 href: '/web/projects/private/jazz' 
-order: 6
+order: 70
 coverLayout: 10
 price: 70
 featured: true

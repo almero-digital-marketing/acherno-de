@@ -1,6 +1,6 @@
 ---
 href: '/web/projects/public/air-and-water'
-order: 55
+order: 90
 coverLayout: 7
 price: 55
 design: 'Moderne (Büroeinrichtung)'

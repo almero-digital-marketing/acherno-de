@@ -1,6 +1,6 @@
 ---
 href: '/web/projects/private/orange-jam'
-order: 18
+order: 150
 coverLayout: 3
 price: 55
 design: 'Moderne und schlichte (Raumgestaltung)'

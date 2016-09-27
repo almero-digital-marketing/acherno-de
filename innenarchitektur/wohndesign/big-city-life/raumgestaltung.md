@@ -1,6 +1,6 @@
 ---
 href: '/web/projects/private/urban'
-order: 5
+order: 102
 coverLayout: 3
 featured: true
 design: 'Modernes (Wohnung Design)'

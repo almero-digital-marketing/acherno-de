@@ -1,6 +1,6 @@
 ---
 href: '/web/projects/public/doctors-offices'
-order: 53
+order: 40
 coverLayout: 11
 featured: true
 design: '(Innenarchitektur) Praxisräume'

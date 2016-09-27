@@ -1,6 +1,6 @@
 ---
 href: '/web/projects/private/new-york'
-order: 16
+order: 180
 coverLayout: 7
 featured: true
 project: 'New York'

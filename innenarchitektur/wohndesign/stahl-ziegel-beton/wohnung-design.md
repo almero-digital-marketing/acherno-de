@@ -1,6 +1,6 @@
 ---
 href: '/web/projects/private/concrete-brick-and-iron'
-order: 5
+order: 240
 coverLayout: 9
 featured: true
 design: '(Innenarchitektur) Loft'

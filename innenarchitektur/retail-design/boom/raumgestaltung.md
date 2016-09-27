@@ -1,6 +1,6 @@
 ---
 href: '/web/projects/public/boom' 
-order: 58
+order: 110
 coverLayout: 10
 featured: true
 design: 'Bade und (Kosmetik Shop)'

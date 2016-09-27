@@ -1,6 +1,6 @@
 ---
 href: '/web/projects/public/on-the-roof-of-the-world' 
-order: 52
+order: 30
 coverLayout: 14
 featured: true
 design: '(Innenarchitektur Office)'

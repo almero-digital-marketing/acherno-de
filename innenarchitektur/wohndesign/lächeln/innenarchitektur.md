@@ -1,6 +1,6 @@
 ---
 href: '/web/projects/private/smile'
-order: 7
+order: 105
 coverLayout: 2
 price: 70
 design: 'Modernes (Wohndesign)'

@@ -1,6 +1,6 @@
 ---
 href: '/web/projects/public/cigar-bar' 
-order: 2
+order: 10
 coverLayout: 3
 featured: true
 design: '(Raumgestaltung) Gaststätte'

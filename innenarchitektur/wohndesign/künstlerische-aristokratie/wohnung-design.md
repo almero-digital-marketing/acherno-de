@@ -1,6 +1,6 @@
 ---
 href: '/web/projects/private/aristocratic-artistic'
-order: 14
+order: 50
 coverLayout: 3
 design: 'Kolonialstil'
 price: 75

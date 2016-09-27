@@ -2,7 +2,7 @@
 todo: 
   - 'Не е добавен във Facebook'
 href: '/web/projects/private/everything-has-its-history'
-order: 11
+order: 280
 coverLayout: 8
 featured: true
 design: 'Moderne (Raumgestaltung)'

@@ -1,6 +1,6 @@
 ---
 href: '/web/projects/public/purple-velvet'
-order: 5
+order: 20
 coverLayout: 18
 featured: true
 design: 'Modeboutique'

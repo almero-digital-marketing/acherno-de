@@ -1,6 +1,6 @@
 ---
 href: '/web/projects/private/mantra'
-order: 17
+order: 190
 coverLayout: 3
 price: 70
 design: 'Modernes schlichtes (Wohndesign)'
