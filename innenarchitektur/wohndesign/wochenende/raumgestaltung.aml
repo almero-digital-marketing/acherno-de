@@ -1,0 +1,105 @@
+href: /web/projects/private/utre-v-deset-na-lunata
+order: 42
+coverLayout: 9
+price: 80
+design: (Modernes) Innendesign
+project: Endlich Wochenende
+title: Raumgestaltung (Endlich Wochenende)
+subtitle: Individualität
+description: Der Raum füllt sich mit einem ungezwungenen Lachen – frei wie einen Vogelflug. Dein Zuhause, das ist der Ort an dem du Selbst bist. Jede Ecke, jede Einzelheit ist ein Teil von dir. Die verbrachte Zeit daheim, fühlt sich wie ein teurer Urlaub an. Kein Wunder dieser Ort ist voll mit schönen Erinnerungen und purer Freude.
+image: http://hub.acherno.com/svn/utre-v-deset-na-lunata/Site/Finalni/02-h-F1.JPG
+
+content:
+Es ist Morgen. Dein Lächeln ist noch ein wenig müde. Deine Stimmung ist heiter, die Kleidung  legere. Alles spricht dafür, dass das hier der beginn deines hartverdienen Urlaub ist. Der Raum füllt sich mit einem ungezwungenen Lachen – frei wie einen Vogelflug. Dein Zuhause, das ist der Ort an dem du Selbst bist. Jede Ecke, jede Einzelheit ist ein Teil von dir. Die verbrachte Zeit daheim, fühlt sich wie ein teurer Urlaub an. Kein Wunder dieser Ort ist voll mit schönen Erinnerungen und purer Freude.
+
+Hast du Lust auf einen Kaffee morgen früh in Paris? Du behauptest, dass sei nicht möglich? Warum nicht? Lass deine Phantasie frei fliegen und du wirst sehen, dass alles möglich ist!
+:end
+
+[rooms]
+title: Wohndesign (Küche und Esszimmer)
+description: In der Küche warten auf dich frisch gebackene Pancakes, frisch gepresster Orangensaft und aromatischer Kaffee. Hol dir deine Lieblingsmarmelade aus dem Kühlschrank und nimm Platz in dem weißen Esszimmer.
+project: http://hub.acherno.com/svn/utre-v-deset-na-lunata/Site/3D/02-h-F.jpg
+final: http://hub.acherno.com/svn/utre-v-deset-na-lunata/Site/Finalni/03-h-F.JPG
+pageLayout: 4
+
+title: Raumgestaltung (Küche und Esszimmer)
+description: Du hast keine Lust auf Pancakes und Kaffee? Okay! Dann kannst du in der Küche dein eigenes kulinarisches Meisterwerk hervorbringen. Alles steht bereit. Die Schränke sind bestens ausgestattet und warten nur auf deine Taten.
+project: http://hub.acherno.com/svn/utre-v-deset-na-lunata/Site/3D/03-h-F.jpg
+final: http://hub.acherno.com/svn/utre-v-deset-na-lunata/Site/Finalni/02-h-F1.JPG
+pageLayout: 5
+
+title: Innenarchitektur (Wohnzimmer)
+description: Hier kannst du die Zeit mit deinen Liebsten verbringen. Eine Zeit für Sorgen, für Liebe und Genuss. Das Geheimnis der Gemütlichkeit in den eigenen vier Wänden ist sehr einfach - natürliches Licht, tolle Farben und hochwertige Materialen. Entspanne dich in dem großen weichen Sessel und lass die Sorgen und Gedanken der vergangenen Tage einfach fortfliegen.
+project: http://hub.acherno.com/svn/utre-v-deset-na-lunata/Site/3D/04-h-F.jpg
+final: http://hub.acherno.com/svn/utre-v-deset-na-lunata/Site/Finalni/04-h-F.JPG
+pageLayout: 6
+
+title: Innendesign (Eingangsbereich)
+description: Kaum hast du das Wohnzimmer verlassen und schon befindest du dich in einer anderen Welt. Wie in einem Traumwald im Spätsommer, zeigt sich das Entree in warmen Holztönen, in diffusem Licht und kaltem Steingrau.
+project: http://hub.acherno.com/svn/utre-v-deset-na-lunata/Site/3D/01-h-F.jpg
+final: http://hub.acherno.com/svn/utre-v-deset-na-lunata/Site/Finalni/01-h-F3.JPG
+pageLayout: 9
+
+title: Innenarchitektur (Schlafzimmer)
+description: Harmonisches Abendessen im Bett bei Kerzenlicht. Du verstehst wirklich viel von Romantik.
+project: http://hub.acherno.com/svn/utre-v-deset-na-lunata/Site/3D/05-s-F.jpg
+final: http://hub.acherno.com/svn/utre-v-deset-na-lunata/Site/Finalni/05-s-F.JPG
+pageLayout: 1
+
+title: Raumdesign (Schlafzimmer)
+description: Lehne dich nach hinten und entspanne dich. Stell dir vor dein Bett wäre das Gemach einer Königsfamilie. Du bist umgeben von delikater Rose und teurem Elfenbein.
+project: http://hub.acherno.com/svn/utre-v-deset-na-lunata/Site/3D/06-s-F.jpg
+final: http://hub.acherno.com/svn/utre-v-deset-na-lunata/Site/Finalni/06-s-F.JPG
+pageLayout: 2
+
+title: Raumgestaltung (Badezimmer)
+description: Aber bevor du ins Traumland fliehst, gehst du kurz ins Bad und lässt das klare Wasser über dein Gesicht laufen.
+project: http://hub.acherno.com/svn/utre-v-deset-na-lunata/Site/3D/08-b-F.jpg
+final: http://hub.acherno.com/svn/utre-v-deset-na-lunata/Site/Finalni/08-b-F.JPG
+pageLayout: 8
+
+title: Interior Design (Badezimmer)
+description: In den kleinen Nischen warten deine Schönheitsschätze auf dich. Die Aromen und zarten Blütenmuster an der Wand sind für deine Seele wie ein Spaziergang im Spätsommer.
+project: http://hub.acherno.com/svn/utre-v-deset-na-lunata/Site/3D/11-b-F.jpg
+final: http://hub.acherno.com/svn/utre-v-deset-na-lunata/Site/Finalni/11-b-F.JPG
+pageLayout: 9
+
+title: Inneneinrichtung (Arbeitszimmer)
+description: Gut erholt und geladen mit Energie stehst du am nächsten Morgen auf. Es ist Wochenende und du hast frei. In deinem Arbeitszimmer kannst du in neutraler Umgebung eine Runde zocken.
+project: http://hub.acherno.com/svn/utre-v-deset-na-lunata/Site/3D/14-k-F.jpg
+final: http://hub.acherno.com/svn/utre-v-deset-na-lunata/Site/Finalni/14-k-F1.JPG
+pageLayout: 6
+
+title: Innenarchitektur (Arbeitszimmer)
+description: Für die kleine Gaming-Pause zwischen durch stehen zwei großen Ledersessel bereit. 
+Eigentlich gibt es keinen Unterschied zwischen real und virtuell!
+project: http://hub.acherno.com/svn/utre-v-deset-na-lunata/Site/3D/15-k-F.jpg
+final: http://hub.acherno.com/svn/utre-v-deset-na-lunata/Site/Finalni/15-k-F1.JPG
+pageLayout: 5
+
+title: Raumgestaltung (zweite Badezimmer)
+description: Genau wie die virtuelle Welt ist das Eintauchen im Meer. Das ist nicht  jedermanns Sache. Man braucht einen Tropfen Mut, viel Neugier und ein Hauch Risikoaffinität. Wenn du auch daheim in eine andere Welt eintauchen möchtest, dann ist dieses Bad nur für dich gemacht worden.
+project: http://hub.acherno.com/svn/utre-v-deset-na-lunata/Site/3D/12-bk-F.jpg
+final: http://hub.acherno.com/svn/utre-v-deset-na-lunata/Site/Finalni/12-bk-F.JPG
+pageLayout: 8
+
+title: Innendesign (zweite Badezimmer)
+description: Die Wandfliesen in Türkis erzeugen die Illusion einer Wellendynamik – harmonisch, entfaltet sie sich in einer Melodie. Die Melodie deines Lebens!
+project: http://hub.acherno.com/svn/utre-v-deset-na-lunata/Site/3D/13-bk-F.jpg
+final: http://hub.acherno.com/svn/utre-v-deset-na-lunata/Site/Finalni/13-bk-F.JPG
+pageLayout: 7
+[]
+
+[constructions]
+title: Reparatur Wohnzimmer
+image: http://hub.acherno.com/svn/utre-v-deset-na-lunata/Site/Remonti/20150123_163135.jpg
+
+title: Reparatur Eingangsbereich
+image: http://hub.acherno.com/svn/utre-v-deset-na-lunata/Site/Remonti/20150123_162556.jpg
+
+title: Reparatur Badezimmer
+image: http://hub.acherno.com/svn/utre-v-deset-na-lunata/Site/Remonti/20150123_164144.jpg
+
+title: Reparatur Schlafzimmer
+image: http://hub.acherno.com/svn/utre-v-deset-na-lunata/Site/Remonti/20150123_161637.jpg
+[]
