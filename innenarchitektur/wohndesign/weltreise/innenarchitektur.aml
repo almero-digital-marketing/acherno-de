@@ -1,0 +1,84 @@
+href: /web/projects/private/okolosvetsko-pateshestvie
+order: 40
+coverLayout: 1
+price: 85
+design: (Stillvolles) Innendesign 
+project: Weltreise
+title: Innenarchitektur (Weltreise)
+subtitle: Puzzle aus (Erinnerungen und Träumen)
+description: Die Koffer sind gepackt und stehen erwartungsvoll vor der Haustür. Flugtickets, Reisepass, Kamera, Geld und Schlüssel… Alles eingepackt. Du trinkst noch zwei Schlucke von dem aromatischen Kaffee und stellst die leere Tasse auf den schwarz glänzende Arbeitsplatte. Dein neues Reiseabenteuer kann beginnen.
+image: http://hub.acherno.com/svn/okolosvetsko-pateshestvie/Site/Realizacia/DHM24774.JPG
+
+content:
+Die Koffer sind gepackt und stehen erwartungsvoll vor der Haustür. Flugtickets, Reisepass, Kamera, Geld und Schlüssel… Alles eingepackt. Du trinkst noch zwei Schlucke von dem aromatischen Kaffee und stellst die leere Tasse auf den schwarz glänzende Arbeitsplatte. Dein neues Reiseabenteuer kann beginnen. Dein ganzer Körper kribbelt vor Aufregung. Unkontrolliert schießen die Gedanken durch deinen Kopf. Wirst du wohl Ski fahren? Oder Surfen gehen? Oder lieber nach Osten einen exotischen Ort entdecken?  Egal wo du auch hin gehst, wichtig ist das die immer wieder heimkehrst. In dein geliebtes wunderschönes Zuhause. Das wartet geduldig auf dich und deine Neue Energie. 
+:end
+
+[rooms]
+    title: Raumgestaltung (Wohnzimmer)
+    description: Das große Wohnzimmer ist das pulsierende Herz der Wohnung. Hier beherbergst du deine allerbesten und hellsten Erinnerungen. Wie in einer Kommandozentralle planst du deine nächsten Reisen.
+    project: http://hub.acherno.com/svn/okolosvetsko-pateshestvie/Site/3D/03-h-f.bmp
+    final: http://hub.acherno.com/svn/okolosvetsko-pateshestvie/Site/Realizacia/DHM24749_1.JPG
+    pageLayout: 1
+
+    title: Inneneinrichtung (Wohnzimmer)
+    description: Die kleinen Lichtspots funkeln um die Wette und erinnern dich an den Sternenhimmel. Hast du dich schon mal gefragt wie die Sterne auf der anderen Seite der Erdkugel aussehen? Plötzlich kommt eine Reisedokumentation über Bali  im Fernsehen und schon bist du verliebt. Schau dich um- du bist von natürlichen Farben umgehen, die warmen holzigen Töne und die Wahnzimmerpflanzen verstärken deine Sehnsucht nach dem exotischen Bali. Hol dir dein Notebook und mach es dir auf dem Sofa gemütlich. So kann die Reiseplanung beginnen.
+    project: http://hub.acherno.com/svn/okolosvetsko-pateshestvie/Site/3D/02-h-f.bmp
+    final: http://hub.acherno.com/svn/okolosvetsko-pateshestvie/Site/Realizacia/DHM24731.jpg
+    pageLayout: 5
+
+    title: Wohndesign (Küche)
+    description: Die Küche ist dein Experimentierlabor. Hier kannst du mit den verschiedenen Weltgeschmäckern spielen. Heute entscheidest du dich für etwas Traditionelles, morgen backst du zarte französische Croissants oder aromatische Muffins, warum nicht etwas Anspruchsvolles aus der indischen Küche. Hier bist du der Chefkoch!
+    project: http://hub.acherno.com/svn/okolosvetsko-pateshestvie/Site/3D/04-k-f.bmp
+    final: http://hub.acherno.com/svn/okolosvetsko-pateshestvie/Site/Realizacia/DHM24779.jpg
+    pageLayout: 4
+
+    title: Innenarchitektur (Entreè)
+    description: Das Entreè ist wie eine Konstante in deinem Leben. Der Mittelpunkt aller Abschiede und Begrüßungen. Gleichermaßen Ein- und Ausgang. Ein letzter Blick in den Spiegel und schon sitzt du im Taxi Richtung Flughafen. 
+    project: http://hub.acherno.com/svn/okolosvetsko-pateshestvie/Site/3D/05-a-f.bmp
+    final: http://hub.acherno.com/svn/okolosvetsko-pateshestvie/Site/Realizacia/DHM24896.jpg
+    pageLayout: 9
+
+    title: Raumgestaltung (Schlafzimmer)
+    description: Egal wo du auch hinreist, du wirst feststellen, dass man im eignen Bett am besten schläft.  Die weiße Farbe und die neutralen Muster wirken beruhigend auf deine Sinne. Das ist das Rezept für eine vollwertige Erholung.
+    project: http://hub.acherno.com/svn/okolosvetsko-pateshestvie/Site/3D/06-s-f.jpg
+    final: http://hub.acherno.com/svn/okolosvetsko-pateshestvie/Site/Realizacia/DHM24829-HDR.JPG
+    pageLayout: 5
+
+    title: Wohnung Design (Schlafzimmer)
+    description: Der Schlaf im eigenen Bett fühlt sich wie die Reise auf einer Wolke an. Du bist leicht, fast wie vom Winde getragen.
+    project: http://hub.acherno.com/svn/okolosvetsko-pateshestvie/Site/3D/07-s-f.jpg
+    final: http://hub.acherno.com/svn/okolosvetsko-pateshestvie/Site/Realizacia/DHM24849-HDR.JPG
+    pageLayout: 4
+
+    title: Innenarchitektur Projekt (Arbeitsraum)
+    description: Ein paar Schritte weiter und schon befindest du dich in deinem privaten Arbeitsbüro. Schnell die E-mails checken oder lange Nächte mit Projektarbeiten. Hier darfst du arbeiten wie es dir gefällt.
+    project: http://hub.acherno.com/svn/okolosvetsko-pateshestvie/Site/3D/10-s-f.jpg
+    final: http://hub.acherno.com/svn/okolosvetsko-pateshestvie/Site/Realizacia/DHM24877-HDR.JPG
+    pageLayout: 3
+
+    title: Raumgestaltung (Badezimmer)
+    description: Das Gefühl nach einer langen Reise ein Bad zu nehmen ist unbeschreiblich. Endlich bist du in den Heimathafen zurückgekehrt. Das flüstern dir, wie aus dem Märchen, die kleinen silbernen Wandfliesen.
+    project: http://hub.acherno.com/svn/okolosvetsko-pateshestvie/Site/3D/12-b-f.jpg
+    final: http://hub.acherno.com/svn/okolosvetsko-pateshestvie/Site/Realizacia/DHM24811.jpg
+    pageLayout: 8
+
+    title: Innendesign (Badezimmer)
+    description: Du kannst hören, wie das Wasser deine Müdigkeit hinfort wäscht. Das was bleibt sind deine positiven Erinnerungen und Emotionen von der letzten Reise.
+    project: http://hub.acherno.com/svn/okolosvetsko-pateshestvie/Site/3D/13-b-f.jpg
+    final: http://hub.acherno.com/svn/okolosvetsko-pateshestvie/Site/Realizacia/DHM24826.JPG
+    pageLayout: 9
+[]
+
+[constructions]
+    title: Reparatur Wohnzimmer
+    image: http://hub.acherno.com/svn/okolosvetsko-pateshestvie/Site/Remonti/IMG_9480.JPG
+
+    title: Reparatur Küche
+    image: http://hub.acherno.com/svn/okolosvetsko-pateshestvie/Site/Remonti/IMG_9485.JPG
+
+    title: Reparatur Entreè
+    image: http://hub.acherno.com/svn/okolosvetsko-pateshestvie/Site/Remonti/IMG_9308.JPG
+
+    title: Reparatur Badezimmer
+    image: http://hub.acherno.com/svn/okolosvetsko-pateshestvie/Site/Remonti/IMG_9317.JPG
+[]
