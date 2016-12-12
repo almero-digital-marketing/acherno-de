@@ -3,7 +3,7 @@ href: '/web/projects/private/aristocratic-artistic'
 order: 50
 coverLayout: 3
 design: 'Kolonialstil'
-price: 75
+price: 60
 featured: true
 project: 'Künstlerische Aristokratie'
 title: '[Wohnung Design] (Künstlerische Aristokratie)'

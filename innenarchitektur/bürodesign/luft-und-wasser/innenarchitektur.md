@@ -2,7 +2,7 @@
 href: '/web/projects/public/air-and-water'
 order: 90
 coverLayout: 7
-price: 55
+price: 60
 design: 'Moderne (Büroeinrichtung)'
 project: 'Luft und Wasser'
 title: '[Innenarchitektur Büro] (Luft und Wasser)'

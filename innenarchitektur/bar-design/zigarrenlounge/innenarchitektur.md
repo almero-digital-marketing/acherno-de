@@ -5,7 +5,7 @@ coverLayout: 3
 featured: true
 design: '(Raumgestaltung) Gaststätte'
 project: 'Zigarrenlounge'
-price: 90
+price: 70
 title: '[Innenarchitektur Projekt Gaststätte] (Zigarrenlounge)'
 subtitle: 'Klassik & Stil'
 description: 'Der süßliche und schwere Duft von Zigarren und Whisky füllt den Raum und wird allmählich ein Teil von dir. Von hier aus liegt dir die ganze Stadt, überflutet von hellen Lichtern, zu Füßen. Hier kannst du dich mit einem edlen Whiskey in der Hand auf einem großen Sessel setzten und vor dem Kaminfeuer entspannen.'

@@ -7,7 +7,7 @@ coverLayout: 8
 featured: true
 design: 'Moderne (Raumgestaltung)'
 project: 'Alles hat eine Geschichte'
-price: 50
+price: 20
 title: '[Innenarchitektur Wohnung] (Alles hat eine Geschichte)'
 subtitle: '(Geliebtes) Zuhause'
 description: Die gute alte Plattenbauwohnung zeichnet sich durch eine praktische Aufteilung und viel Platz aus. Baulich bedingt lässt sich die Wohnung allerdings nur begrenzt umbauen. Unsere individuelle Planungsideen haben nichtsdestotrotz einen wunderschönen Wohnraum geschaffen.'

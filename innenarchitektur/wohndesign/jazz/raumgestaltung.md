@@ -2,7 +2,7 @@
 href: '/web/projects/private/jazz' 
 order: 70
 coverLayout: 10
-price: 70
+price: 30
 featured: true
 design: 'Moderne Klassik (Innenarchitektur Projekt)'
 project: 'Jazz'

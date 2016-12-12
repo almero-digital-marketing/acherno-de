@@ -3,7 +3,7 @@ href: '/web/projects/private/optimism'
 order: 250
 coverLayout: 2
 featured: true
-price: 75
+price: 60
 design: '(Moderne Klassik) und Nostalgie'
 project: 'Optimismus ist der Schlüssel'
 title: '[Innenarchitektur Projekt] (Optimismus ist der Schlüssel)'

@@ -4,7 +4,7 @@ order: 170
 coverLayout: 3
 design: 'Moderne (Raumgestaltung)'
 project: 'Mokka'
-price: 65
+price: 30
 title: '[Innenarchitektur Projekt] (Mokka)'
 subtitle: 'Faszination & Harmonie'
 description: 'Dass die Farbe Mokka nicht immer langweilig aussehen muss, demonstriert dieses modern eingerichtete Apartment. Die Nuancen von warmem Kaffe und schmelzendem Karamell garniert mit einem Hauch von schwerem Tabak.'

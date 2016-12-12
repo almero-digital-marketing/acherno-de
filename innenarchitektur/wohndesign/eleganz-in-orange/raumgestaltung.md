@@ -2,7 +2,7 @@
 href: '/web/projects/private/orange-jam'
 order: 150
 coverLayout: 3
-price: 55
+price: 20
 design: 'Moderne und schlichte (Raumgestaltung)'
 project: 'Eleganz in orange'
 title: '[Raumgestaltung Wohnung] (Schlichte Eleganz in Orange)'

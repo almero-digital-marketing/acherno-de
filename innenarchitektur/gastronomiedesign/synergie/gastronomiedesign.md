@@ -5,7 +5,7 @@ coverLayout: 17
 featured: true
 design: '(Restaurant) über zwei Etagen'
 project: 'Synergie'
-price: 65
+price: 70
 title: '[Gastronomiedesign] (Synergie)'
 subtitle: 'Metropole & (Provence)'
 description: 'Verbunden durch eine Treppe realisieren wir hier ein Restaurant über zwei Etagen, das unterschiedliche Stilrichtungen gekonnt unter einem Dach vereint.'

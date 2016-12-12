@@ -4,7 +4,7 @@ order: 240
 coverLayout: 9
 featured: true
 design: '(Innenarchitektur) Loft'
-price: 60
+price: 40
 project: 'Stahl, Ziegel, Beton'
 title: '[Wohnung Design] (Beton, Ziegel und Eisen)'
 subtitle: 'Loft Raumgestaltung'

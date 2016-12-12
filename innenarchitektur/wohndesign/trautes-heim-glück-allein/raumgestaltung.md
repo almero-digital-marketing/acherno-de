@@ -1,7 +1,7 @@
 ---
 href: '/web/projects/private/song-for-good-night' 
 order: 140
-price: 85
+price: 60
 coverLayout: 8
 featured: true
 design: '(Landhausstil)'

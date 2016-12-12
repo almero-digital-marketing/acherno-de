@@ -4,7 +4,7 @@ order: 80
 coverLayout: 1
 featured: true
 design: 'Moderne Klassik'
-price: 80
+price: 40
 project: 'Der Alchimist'
 title: '[Wohndesign Apartment] (Der Alchimist)'
 subtitle: 'Aufregende Mixtur aus (Farben und Stilen)'

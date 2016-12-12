@@ -4,7 +4,7 @@ order: 270
 coverLayout: 10
 featured: true
 design: '(Moderne trifft) auf (Landhaus)'
-price: 75
+price: 30
 project: 'Zeitlos'
 title: '[Innenarchitektur Projekt] (Zeitlos)'
 subtitle: '(Abwechslungsreich) & behaglich'

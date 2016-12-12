@@ -2,7 +2,7 @@
 href: '/web/projects/private/treasure-island'
 order: 290
 coverLayout: 13
-price: 70
+price: 30
 design: 'Moderne (Raumgestaltung)'
 project: 'Die Schatzinsel'
 title: '[Innenarchitektur] (Die Schatzinsel)'

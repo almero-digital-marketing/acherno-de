@@ -3,7 +3,7 @@ href: '/web/projects/private/ceilings'
 order: 110
 coverLayout: 3
 design: '(Modernes) Raumdesign'
-price: 13
+price: 30
 project: 'Die Decken'
 featured: true
 title: 'Innenarchitektur Projekt Haus (Die Decken)'

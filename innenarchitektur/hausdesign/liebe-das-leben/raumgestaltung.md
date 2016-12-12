@@ -3,6 +3,7 @@ href: '/web/projects/private/obichay-zhivota'
 order: 120
 coverLayout: 17
 design: 'Moderne und behagliche (Innenarchitektur)'
+price: 35
 project: 'Liebe das Leben'
 featured: true
 title: '[Raumgestaltung Stadtvilla] (Liebe das Leben)'

@@ -3,7 +3,7 @@ href: '/web/projects/private/cardamom-cinnamon-and-vanilla'
 order: 200
 coverLayout: 6
 featured: true
-price: 50
+price: 20
 design: 'Modernes und stilvolles (Wohndesign)'
 project: 'Zimt, Vanille, Kardamom'
 title: '[Raumgestaltung] (Zimt, Vanille, Kardamom)'

@@ -2,7 +2,7 @@
 href: '/web/projects/private/grim' 
 order: 104
 coverLayout: 18
-price: 85
+price: 40
 featured: true
 design: 'Modernes (Wohnung Design) '
 project: 'Make Up'

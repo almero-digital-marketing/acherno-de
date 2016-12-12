@@ -5,7 +5,7 @@ coverLayout: 3
 featured: true
 design: 'Modernes (Wohnung Design)'
 project: 'Big City Life'
-price: 50
+price: 20
 title: '[Raumgestaltung] (Big City Life)'
 subtitle: '(Der Duft von Flieder)'
 description: 'Wenn die Tage länger werden, die Nächte lauer, die Promenade sich mit Menschen füllt, erwacht das Leben in der Stadt! Der Duft von Flieder und die wärmenden Strahlen der Sonne vertreiben auch den letzten Winterblues und machen Platz für Frühlingsgefühle.'

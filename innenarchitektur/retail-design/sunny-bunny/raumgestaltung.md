@@ -5,7 +5,7 @@ coverLayout: 15
 featured: true
 design: 'Kindermode (Boutique)'
 project: 'Sunny Bunny'
-price: 50
+price: 40
 title: '[Raumgestaltung Kindermode Boutique] (Sunny Bunny)'
 subtitle: 'Fröhlich & Verspielt'
 description: 'Komm Häschen, du kleines Häschen. Lass uns eine Sonne, Regenbogen und viele Kinder malen.'

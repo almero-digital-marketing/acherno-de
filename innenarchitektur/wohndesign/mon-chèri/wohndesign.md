@@ -4,7 +4,7 @@ order: 160
 coverLayout: 7
 featured: true
 project: 'Mon Chèri'
-price: 60
+price: 30
 design: 'Moderne (Innenarchitektur)'
 title: '[Wohnung Design] (Mon Chèri)'
 subtitle: 'Fest (der Farben)'
