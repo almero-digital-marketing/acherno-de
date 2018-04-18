@@ -1,8 +1,8 @@
 ---
 href: '/web/projects/private/mantra'
-order: 17
+order: 190
 coverLayout: 3
-price: 70
+price: 35
 design: 'Modernes schlichtes (Wohndesign)'
 project: 'Mantra'
 title: '[Raumgestaltung] (Mantra)'

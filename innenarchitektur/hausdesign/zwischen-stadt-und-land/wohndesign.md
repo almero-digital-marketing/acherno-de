@@ -1,10 +1,10 @@
 ---
 href: '/web/projects/private/between-the-mountains-and-the-city'
-order: 1
+order: 10
 coverLayout: 8
 featured: true
 design: '(Modernes Design) Haus'
-price: 75
+price: 40
 project: 'Zwischen Stadt und Land'
 title: 'Wohndesign Haus (Zwischen Stadt und Land)'
 subtitle: 'Braune (Eleganz)'

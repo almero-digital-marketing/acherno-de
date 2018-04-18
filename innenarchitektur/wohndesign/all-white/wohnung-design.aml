@@ -1,0 +1,73 @@
+href: /web/projects/private/byalata-kashta
+order: 43
+coverLayout: 10
+price: 40
+design: (Modernes) Interior Design
+project: All White
+title: Innenarchitektur Projekt (All White)
+subtitle: Raumlösung in Weiß
+description: Bist du bereit ein zu Haus betreten, das Luxus, Modernität und unbeschwerte Nutzbarkeit vereint? Ein Ort an dem sich alle Farben zu einer einzigen, der hellsten aller Farben vermischen. Das Unschuldige, das reinste und zauberhafteste Weiß. Dein Zuhause in Weiß: ein klares Design Arrangement, viel Stil, ansprechende Linien und Formen, verspiegelte Oberflächen.
+image: http://hub.acherno.com/svn/bqlata-kyshta/Site/Finalni/10-h_f.jpg
+
+content:
+Bist du bereit ein zu Haus betreten, das Luxus, Modernität und unbeschwerte Nutzbarkeit vereint? Ein Ort an dem sich alle Farben zu einer einzigen, der hellsten aller Farben vermischen. Das Unschuldige, das reinste und zauberhafteste Weiß. 
+Dein Zuhause in Weiß: ein klares Design Arrangement, viel Stil, ansprechende Linien und Formen, verspiegelte Oberflächen.
+:end
+
+[rooms]
+title: Raumgestaltung (Wohnzimmer)
+description: Eine Weiße Decke, weiße Inneneinrichtung im minimalistischen Design, Glanz Oberflächen, weiße Fußböden, weiße Textilen, weiße Wohnaccessoires, weiße Leuchten mit geometrischen Formen. Nur ein paar Ablagen in der eiskalten grauen Wand, die eine Brise Gemütlichkeit in dem zurückhaltenden Interior erzeugen.
+project: http://hub.acherno.com/svn/bqlata-kyshta/Site/3D/12-h_f.jpg
+final: http://hub.acherno.com/svn/bqlata-kyshta/Site/Finalni/12-h_f.jpg
+pageLayout: 5
+
+title: Innenarchitektur Projekt (Wohnzimmer)
+description: Eine Wand mit Spiegeloberfläche spielt mit deinen Sinnen. Ein Raum, das ganz und gar den Erwartungen von heute entspricht. Grenzenlose Schönheit und Luxus, nur für dich. Du arbeitest hart und weißt genau wie du dann das hart verdiente Geld ausgeben kannst.
+project: http://hub.acherno.com/svn/bqlata-kyshta/Site/3D/10-h_f.jpg
+final: http://hub.acherno.com/svn/bqlata-kyshta/Site/Finalni/10-h_f.jpg
+pageLayout: 6
+
+title: Raumgestaltung (Küche)
+description: Das ist dein Zuhause – stillvoll und praktisch. In dem großzügigen Wohnzimmer ist die funktionale Küche integriert. Ordnung und weiße Oberflächen, die nur auf frische Lebensmittel und den Klang der Weingläser warten. Lass deine Fantasie fliegen. Mixe dir einen Cocktail und lass den Tag langsam ausklingen. Schalte dir deine Musik an und lade dir ein paar gute Freunde ein. Was ist schon das Leben ohne Lachen, Melodie und Vergnügen.
+project: http://hub.acherno.com/svn/bqlata-kyshta/Site/3D/11-h_f.jpg
+final: http://hub.acherno.com/svn/bqlata-kyshta/Site/Finalni/11-h_f.jpg
+pageLayout: 3
+
+title: Raumdesign (Schlafzimmer)
+description: Das Schlafzimmer ist dein privates Reich. Schwarz und Weiß wirken hier irgendwie besänftigend, als ob sie vernebelt wären. Die Wände sind in zartem Beige und Himmelgrau getaucht. Du kannst dein Ich in der verspiegelten Tür sehen. Diese visuellen Tricks lassen dich in einer magischen Atmosphäre schlafen.
+project: http://hub.acherno.com/svn/bqlata-kyshta/Site/3D/14-s_f.jpg
+final: http://hub.acherno.com/svn/bqlata-kyshta/Site/Finalni/14-s_f.jpg
+pageLayout: 4
+
+title: Innenarchitektur (Entreé)
+description: Das Entreé ist wie das Vorwort eines Buches. Mit seiner unaufdringlichen Eleganz gewinnt der kleine Raum schon auf den ersten Blick die Sympathie der Gäste. Ein Schritt, dann weißt du sofort, dass du dich hier am richtigen Ort befindest.
+project: http://hub.acherno.com/svn/bqlata-kyshta/Site/3D/13-h_f.jpg
+final: http://hub.acherno.com/svn/bqlata-kyshta/Site/Finalni/13-h_f.jpg
+pageLayout: 9
+
+title: Raumgestaltung (Badezimmer)
+description: Im Bad herrscht das Eis. Das Eis in dem du eintauchen kannst, ohne zu befürchten erfrieren zu können. Weiß und Grau in ähnlichen Nuancen lässt dich deine Erholungszeit in einer modernen Umgebung genießen. Jedes Mal, wenn du das Bad betrittst siehst du eine schwarz-weiße Ecke, gefliest mit einer monochromen New Yorker Skyline. Beim Baden, entspannst du dich und schaust direkt drauf. Jetzt kannst du dich spüren, dass die Gedankenfreiheit grenzenlos ist.
+project: http://hub.acherno.com/svn/bqlata-kyshta/Site/3D/16-b_f.jpg
+final: http://hub.acherno.com/svn/bqlata-kyshta/Site/Finalni/16-b_f.jpg
+pageLayout: 8
+[]
+
+[constructions]
+title: Renovierung Wohnzimmer
+image: http://hub.acherno.com/svn/bqlata-kyshta/Site/Remonti/01-h.JPG
+
+title: Gipskartonplatten im Wohnzimmer
+image: http://hub.acherno.com/svn/bqlata-kyshta/Site/Remonti/07-h-01.JPG
+
+title: Renovierung Wohnraum
+image: http://hub.acherno.com/svn/bqlata-kyshta/Site/Remonti/02-h.JPG
+
+title: Renovierung Schlafzimmer
+image: http://hub.acherno.com/svn/bqlata-kyshta/Site/Remonti/04-s.JPG
+
+title: Spiegeln im Schlafzimmer
+image: http://hub.acherno.com/svn/bqlata-kyshta/Site/Remonti/11-s-02.jpg
+
+title: Renovierung Badezimmer
+image: http://hub.acherno.com/svn/bqlata-kyshta/Site/Remonti/05-b.JPG
+[]

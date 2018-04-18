@@ -1,0 +1,102 @@
+href: /web/projects/private/kaleidoscope
+order: 90
+coverLayout: 3
+price: 20
+design: (Moderne) Raumlösung
+project: Kaleidoskop
+title: [Innenarchitektur Projekt] (Kaleidoskop)
+subtitle: (Moderne) Raumlösung
+description: Ein kleiner Blick in die Röhre. Tausende kleine Spiegelsteine wechseln ihre Form und Farbe. Deine Sinne sind berauscht von dem tanzendem Licht und dem Wechsel der Bilder. Fraktale Graphik, Dynamik, Melodie - ein Gefühl der Unendlichkeit.
+image: http://hub.acherno.com/svn/kaleydoskop/Site/Realizacia/ml%20(14).jpg
+
+content:
+Ein kleiner Blick in die Röhre. Tausende kleine Spiegelsteine wechseln ihre Form und Farbe. Deine Sinne sind berauscht von dem tanzendem Licht und dem Wechsel der Bilder. Fraktale Graphik, Dynamik, Melodie - ein Gefühl der Unendlichkeit.
+:end
+
+[rooms]
+title: Inneneinrichtung (Wohnzimmer)
+description: Das zauberhafte Kaleidoskop. Diese Bilder sind eine wahre Inspiration für dein Interior. Am Horizont trifft klares Himmelblau das warme Erdbraun.
+project: http://hub.acherno.com/svn/kaleydoskop/Site/3D/07-h_f.jpg
+final: http://hub.acherno.com/svn/kaleydoskop/Site/Finalni/01-h-R.jpg
+pageLayout: 3
+
+title: Raumgestaltung (Wohnzimmer)
+description: Du liegst auf der warmen Erde, umgeben von frischem Grün und über dir entfaltet sich der klare Himmel.
+project: http://hub.acherno.com/svn/kaleydoskop/Site/3D/08-h_f.jpg
+final: http://hub.acherno.com/svn/kaleydoskop/Site/Finalni/04-h-R.jpg
+pageLayout: 6
+
+title: Interior Design (Wohnzimmer)
+description: Mittendrin eine Feuerstelle. Das Feuer bringt dir und deinen Liebsten die Wärme und die Behaglichkeit.
+project: http://hub.acherno.com/svn/kaleydoskop/Site/3D/06-h_f.jpg
+final: http://hub.acherno.com/svn/kaleydoskop/Site/Finalni/03-h-R.jpg
+pageLayout: 5
+
+title: Innenarchitektur (Küche)
+description: Wie in einem Kaleidoskop treffen sich die Farben in der Küche, überqueren und gehen auseinander. Der Boden ist übersäht von kleinen Mosaik Motiven die eine unendliche Gesichte erzählen.
+project: http://hub.acherno.com/svn/kaleydoskop/Site/3D/10-h_f.jpg
+final: http://hub.acherno.com/svn/kaleydoskop/Site/Finalni/02-h-R.jpg
+pageLayout: 6
+
+title: Wohndesign (Esszimmer)
+description: Sie lädt dich auf die Bühne um kulinarische Kernstücke zu bewahrheiten. Blau, Gelb, Weiß und Schwarz begleiten dich bei deiner Reise.
+project: http://hub.acherno.com/svn/kaleydoskop/Site/3D/09-h_f.jpg
+final: http://hub.acherno.com/svn/kaleydoskop/Site/Realizacia/ml%20(12).jpg
+pageLayout: 2
+
+title: Innendesign (Eingangsbereich)
+description: Der neugierige Blick in das Kaleidoskop weckt freudige Erwartungen. Hier ist jedes Versprechen mit einem Feuerwerk der Sinne verbunden.
+project: http://hub.acherno.com/svn/kaleydoskop/Site/3D/01-k_f.jpg
+final: http://hub.acherno.com/svn/kaleydoskop/Site/Realizacia/ml%20(3).jpg
+pageLayout: 7
+
+title: Raumgestaltung (Eingangsbereich)
+description: Die Uhr an der Wand breitet seine Strahlen aus wie die Sonne. Weiße Wände sind nur der Vorbote dessen was dich erwartet.
+project: http://hub.acherno.com/svn/kaleydoskop/Site/3D/02-k_f.jpg
+final: http://hub.acherno.com/svn/kaleydoskop/Site/Finalni/06-k-R.jpg
+pageLayout: 8
+
+title: Inneneinrichtung (Schlafzimmer)
+description: Angeborene, urtümliche Nuancen wie Grün und Braun laden dich mit Lebendigkeit, Kraft und Freude auf.
+project: http://hub.acherno.com/svn/kaleydoskop/Site/3D/11-s_f.jpg
+final: http://hub.acherno.com/svn/kaleydoskop/Site/Finalni/07-s-R.jpg
+pageLayout: 3
+
+title: Innenarchitektur (Schlafzimmer)
+description: Das kleine Hexagon erinnert an die kleinen Wabenzellen der fleißigen Bienen. Ein kleiner Anstoß der sagen will, dass die Süße im Leben nur nach Anstrengung kommt.
+project: http://hub.acherno.com/svn/kaleydoskop/Site/3D/12-s_f.jpg
+final: http://hub.acherno.com/svn/kaleydoskop/Site/Finalni/08-s-R.jpg
+pageLayout: 4
+
+title: Raumgestaltung (Kinderzimmer)
+description: Anregende Farben, die das kreative Potential in jedem Heranwachsenden wecken. Ein Raum in dem man Spaß, Mut und Lachen lernen kann.
+project: http://hub.acherno.com/svn/kaleydoskop/Site/3D/03-d_f.jpg
+final: http://hub.acherno.com/svn/kaleydoskop/Site/Finalni/09-s-R.jpg
+pageLayout: 5
+
+title: Raumdesign (Kinderzimmer)
+description: Eine eigene Dimension für ausgelassenes Spielen umgeben vom sonnigen Geld und Türkis. Man braucht wenig um Glück zu empfinden.
+project: http://hub.acherno.com/svn/kaleydoskop/Site/3D/04-d_f.jpg
+final: http://hub.acherno.com/svn/kaleydoskop/Site/Finalni/10-s-R.jpg
+pageLayout: 4
+[]
+
+[constructions]
+title: Abbruch
+image: http://hub.acherno.com/svn/kaleydoskop/Site/Remonti/1.JPG
+
+title: Verputz
+image: http://hub.acherno.com/svn/kaleydoskop/Site/Remonti/2.JPG
+
+title: Reparatur Esszimmer
+image: http://hub.acherno.com/svn/kaleydoskop/Site/Remonti/3.JPG
+
+title: Reparatur Wohnzimmer
+image: http://hub.acherno.com/svn/kaleydoskop/Site/Remonti/4.JPG
+
+title: Reparatur Schlafzimmer
+image: http://hub.acherno.com/svn/kaleydoskop/Site/Remonti/6.JPG
+
+title: Reparatur Eingangsbereich
+image: http://hub.acherno.com/svn/kaleydoskop/Site/Remonti/7.JPG
+[]

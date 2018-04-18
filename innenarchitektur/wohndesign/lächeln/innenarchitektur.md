@@ -1,8 +1,8 @@
 ---
 href: '/web/projects/private/smile'
-order: 7
+order: 105
 coverLayout: 2
-price: 70
+price: 40
 design: 'Modernes (Wohndesign)'
 project: 'Lächeln'
 title: '[Innenarchitektur eines Apartments] (Lächeln)'

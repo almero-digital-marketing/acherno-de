@@ -1,10 +1,10 @@
 ---
 href: '/web/projects/private/dzen'
-order: 4
+order: 220
 coverLayout: 10
 featured: true
 design: '(Moderner Stil) mit Ethno-Elementen'
-price: 70
+price: 30
 project: 'Zen'
 title: '[Raumgestaltung] (Zen)'
 subtitle: '(Junger Rebell)'

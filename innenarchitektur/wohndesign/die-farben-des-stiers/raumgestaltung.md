@@ -1,9 +1,9 @@
 ---
 href: '/web/projects/private/colors-of-taurus'
-order: 2
+order: 111
 coverLayout: 15
 featured: true
-price: 70
+price: 30
 design: 'Luxuriös'
 project: 'Die Farben des Stiers'
 title: '[Raumgestaltung] (Die Farben des Stiers)'

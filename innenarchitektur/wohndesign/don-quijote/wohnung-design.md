@@ -1,8 +1,8 @@
 ---
 href: '/web/projects/private/don-kihot'
-order: 15
+order: 210
 coverLayout: 2
-price: 70
+price: 40
 design: 'Klassik & Stil'
 project: 'Don Quijote'
 title: '[Wohnung Design] (Don Quijote)'

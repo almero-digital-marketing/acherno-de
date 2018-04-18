@@ -1,6 +1,6 @@
 ---
 href: '/web/projects/private/dim'
-order: 3
+order: 230
 coverLayout: 3
 price: 40
 design: 'Modernes (Wohnung Design)'

@@ -1,10 +1,10 @@
 ---
 href: '/web/projects/private/new-york'
-order: 16
+order: 180
 coverLayout: 7
 featured: true
 project: 'New York'
-price: 75
+price: 35
 design: 'Modernes (Wohnung Design)'
 title: '[Raumgestaltung] (New York)'
 subtitle: 'Glamour'

@@ -1,8 +1,8 @@
 ---
 href: '/web/projects/public/out-of-the-mind' 
-order: 53
+order: 60
 coverLayout: 3
-price: 65
+price: 55
 featured: true
 design: '(Moderne) Haptik'
 project: 'Per Anhalter durch die Galaxis'

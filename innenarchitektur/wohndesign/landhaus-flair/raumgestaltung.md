@@ -1,11 +1,11 @@
 ---
 href: '/web/projects/private/bohemian' 
-order: 10
+order: 100
 coverLayout: 14
 featured: true
 design: 'Unübliche Formen mit (Landhausaustrahlung) '
 project: 'Landhaus Flair'
-price: 65
+price: 20
 title: '[Raumgestaltung] (Landhaus Flair)'
 subtitle: 'Modernes (Wohnung Design)'
 description: 'Eine Wohnung, die sehr unübliche Formen hat. Die Klienten gaben diesem Projekt den netten Namen „ Die zwei rechten Winkel“ vollkommen zu Recht.'
