@@ -95,3 +95,6 @@ Redirect 301 /preis/inneneinrichtung-wohnung.html http://acherno.de/preis/preisa
 Redirect 301 /interior-design/wohnung/optimismus-ist-die-lösung/panorama/panorama-der-küche.html http://acherno.de/interior-design/wohnung/optimismus-ist-der-shüssel/panorama/panorama-der-küche.html
 Redirect 301 /interior-design/büro/zahnarzt-klinik/panorama/panorama-des-empfangsraums.html http://acherno.de/interior-design/büro/zahnklinik/panorama/panorama-des-empfangsraums.html
 Redirect 301 /leistungen/innenausbau/malerarbeiten.html http://acherno.de/leistungen/interior-design.html
+
+Redirect 301 /preis/öffentlichen-raum.html http://acherno.at/preis/preisanfrage-%C3%B6ffentlichen-raum.html
+Redirect 301 /preis/inneneinrichtung-wohnung.html http://acherno.at/preis/preisanfrage-wohnungseinrichtung.html
