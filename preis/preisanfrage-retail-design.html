@@ -1,0 +1,168 @@
+---
+layout: /web/rfp.ect
+href: '/web/price/public'
+title: 'Preisanfrage (Retail Design)'
+subtitle: 'Büro-, Gastronomie- und Retail Design'
+description: 'Um Ihnen ein korrektes Angebot über eine Raumgestaltung unterbreiten zu können, ist es von zentraler Bedeutung, dass Sie die Besonderheiten der Raumbeschaffenheit und die Quadratmeterfläche angegeben. Aktuelle Zeichnungen oder Bilder des Objektes helfen uns ebenfalls. In der Anfrage geben Sie bitte auch Ihre Kontaktdaten an, falls sich im Laufe der Planungen Fragen ergeben. Wenn Ihnen unser unverbindliches Angebot zusagt, senden wir unsere Interior Designer zu Ihrem Objekt um Ihren Innenarchitektur Projekt Realität warden zu lassen.'
+legacy: /preis/preisanfrage-%C3%B6ffentlichen-raum.html
+price: '(100€ - 150€)/m²'
+---
+<div id="site" class="important">
+	<h2><b>Verwendungszweck</b></h2>
+	<p>Typ der Raumgestaltung</p>
+	<div class="checkitem">
+	  <input id="purpose-1" type="radio" value="Büro" name="purpose">
+	  <label class="label" for="purpose-1"><b>Büro</b></label>
+	</div>
+	<div class="checkitem">
+	  <input id="purpose-2" type="radio" value="Restaurant" name="purpose">
+	  <label class="label" for="purpose-2"><b>Restaurant</b></label>
+	</div>
+	<div class="checkitem">
+	  <input id="purpose-3" type="radio" value="Retail" name="purpose">
+	  <label class="label" for="purpose-3"><b>Retail</b></label>
+	</div>
+	<div class="checkitem">
+	  <input id="purpose-4" type="radio" value="Bäckerei" name="purpose">
+	  <label class="label" for="purpose-4"><b>Bäckerei</b></label>
+	</div>
+	<div class="checkitem">
+	  <input id="purpose-5" type="radio" value="Hotel" name="purpose">
+	  <label class="label" for="purpose-5"><b>Hotel</b></label>
+	</div>
+	<div class="checkitem">
+	  <input id="purpose-6" type="radio" value="Club oder Bar" name="purpose">
+	  <label class="label" for="purpose-6"><b>Club oder Bar</b></label>
+	</div>
+	<a class="additional" href="#purpose">Anderer Objekttyp</a>
+	<textarea id="purpose" name="purpose-other"></textarea>
+
+	<h2>Besonderheiten <b> der Objektarchitektur</b></h2>
+	<p>Für uns ist es wichtig möglichst viele Informationen über den Schnitt Ihres Objekts einzuholen. Gibt es Beispielsweise große Räume oder besteht das Objekt aus vielen kleinen?</p>
+	<div class="checkitem">
+	  <input id="architecture-1" type="checkbox" value="Der Raum hat viele Schrägen" name="architecture[]">
+	  <label class="label" for="architecture-1">Der Raum hat <b>viele Schrägen</b></label>
+	</div>
+	<div class="checkitem">
+	  <input id="architecture-2" type="checkbox" value="Der Raum ist verwinkelt" name="architecture[]">
+	  <label class="label" for="architecture-2">Der Raum ist <b>verwinkelt</b></label>
+	</div>
+
+	<a class="additional" href="#architecture">Andere Besonderheiten der Objektarchitektur</a>
+	<textarea id="architecture" name="architecture[]"></textarea>
+
+  <h2><b>Quadratmeter Fläche</b> des Objektes</h2>  
+  <p>Wenn Sie die Anfrage über unsere Webseite senden, müssen Sie die Quadratmeterfläche Ihrer Wohnung angeben. Bitte berücksichtigen Sie, dass nachdem wir die Anfrage bearbeiten, Ihnen ein Angebot mit einem Preis per Quadratmeter unterbreiten. Wenn dieser Preis Sie zufriedenstellt, senden wir ein Team, dass die genaue Quadratmeterfläche des hellen Teils der Wohnung (ohne Wände, tragende Bauten usw..) messen wird. Nach dem Abschluss des Vertrags wird die von Ihnen zu zahlende Summe nur aufgrund der von unserem Team gemessenen Fläche berechnet.</p>
+  <label class="details">Quadratmeter Fläche <b> für Planung</b></label>
+  <input id="area" type="text" name="area" size="4">
+  <label class="details">m<span>2</span></label>
+  <h2><b>Aktuelle Bilder und Zeichnungen</b> des Objektes </h2>
+  <p>Wenn Sie die Anfrage über unsere Webseite senden möchten, müssen Sie uns die Quadratmeterfläche Ihrer Wohnung angeben. Bitte berücksichtigen Sie, dass wir Ihnen in unserem  Angebot einen Quadratmeterpreis unterbreiten. Wenn Sie mit unserem Angebot zufrieden sind, senden wir Ihnen ein Team, das die genaue Quadratmeterfläche der Wohnung (ohne Wände, Terrasse, Kellerraum usw.) ausmisst. Nach dem Vertragsabschluss wird die von Ihnen zu zahlende Summe aufgrund der von unserem Team gemessenen Fläche berechnet.</p>
+  <label class="details"><b>Bilder</b> oder <b>Skizzen</b> der Wohnung sind erforderlich!</label>
+  <iframe id="upload" src="../system/upload.html"></iframe>
+  <div id="files" class="upload">
+    <a id="upload-label"><b>Bilder oder Skizzen</b> der Wohnung</a>
+  </div>
+</div>
+
+<div class="optional">
+  <div class="grid-sizer"></div>
+  <div class="gutter-sizer"></div>
+  <div class="item status">
+    <h2><b>Aktueller Zustand</b> des Objektes</h2>
+    <p>n welchem Zustand befindet sich das Objekt? Ist es ein Rohbau oder wird es bewohnt? Falls nur Wandbeläge angebracht sind, gilt sie noch als Rohbau.</p>
+    <div class="checkitem">
+      <input id="condition-1" type="radio" value="Das Objekt ein Rohbau ist " name="condition[]">
+      <label class="label" for="condition-1">Das Objekt ein <b>Rohbau ist</b></label>
+    </div>
+    <div class="checkitem">
+      <input id="condition-2" type="radio" value="Das Objekt funktioniert und eine Rekonstruierung wird geplant" name="condition[]">
+      <label class="label" for="condition-2">Das Objekt funktioniert und <b>eine Rekonstruierung wird geplant</b></label>
+    </div>
+    <div class="checkitem">
+      <input id="keep-1" type="checkbox" value="Die Bodenbeläge oder Teile davon bleiben erhalten" name="keep[]">
+      <label class="label" for="keep-1">Die Bodenbeläge oder Teile davon bleiben erhalten</label>
+    </div>
+    <div class="checkitem">
+      <input id="keep-2" type="checkbox" value="Ein Teil der Möbel wird weiter benutzt" name="keep[]">
+      <label class="label" for="keep-2">Ein Teil der Möbel wird weiter benutzt</label>
+    </div>
+    <a class="additional" href="#condition">Andere Besonderheiten bezüglich dem aktuellen Zustand des Objektes</a>
+    <textarea id="condition" name="condition[]"></textarea>
+  </div>
+  <div class="item layout">
+    <h2>Wie soll die <b>Raumgestaltung aussehen?</b></h2>
+    <p>Uns ist es wichtig eine Vorstellung von Ihrem bevorzugten Einrichtungsstil zu bekommen.</p>
+    <div class="checkitem">
+      <input id="style-1" type="radio" value="Die Raumgestaltung wird modern und schlicht " name="style[]">
+      <label class="label" for="style-1">Die Raumgestaltung wird <b>modern und schlicht</b></label>
+    </div>
+    <div class="checkitem">
+      <input id="style-2" type="radio" value="Die Raumgestaltung hat klassische oder Barockelemente" name="style[]">
+      <label class="label" for="style-2">Die Raumgestaltung hat <b>klassische oder Barockelemente</b></label>
+    </div>
+    <a class="additional" href="#style">Andere Besonderheiten der Objektarchitektur</a>
+    <textarea id="style" name="style[]"></textarea>
+  </div>
+  <div class="item layout">
+    <h2><b>Designer Pläne </b> für die Versorgungsleitungen</h2>  
+    <p>Veränderungen an den Versorgungsanlagen und Verteilungen wie z.B. Strom, Wasser, Gas und Internet. Wenn Sie keine Veränderungen an den Versorgungsanlagen möchten, bedeutet das, dass wir keine Umgestaltungen vornehmen und nur die Lage der Möbel variieren können.</p>
+    <div class="checkitem">
+      <input id="layout-1" type="checkbox" value="Projektierung der Elektroanlagen" name="layout[]">
+      <label class="label" for="layout-1">Projektierung der <b>Elektroanlagen</b></label>
+    </div>
+    <div class="checkitem">
+      <input id="layout-2" type="checkbox" value="Projektierung der Wasser- und Abwasserversorgung" name="layout[]">
+      <label class="label" for="layout-2">Projektierung der <b>Wasser- und Abwasserversorgung</b></label>
+    </div>
+    <div class="checkitem">
+      <input id="layout-3" type="checkbox" value="Projektierung der Heizung und  der Klimatisierung" name="layout[]">
+      <label class="label" for="layout-3">Projektierung der <b>Heizung und  der Klimatisierung</b></label>
+    </div>
+    <div class="checkitem">
+      <input id="layout-4" type="checkbox" value="Hängedecken und/oder Nischen aus Gipskarton werden errichtet" name="layout[]">
+      <label class="label" for="layout-4">Hängedecken und/oder Nischen aus Gipskarton werden errichtet</label>
+    </div>
+    <a class="additional" href="#layout">Andere Veränderungen</a>
+    <textarea id="layout" name="layout[]"></textarea>
+  </div>
+  <div class="item comments">
+    <h2><b>Zusätzliche Anforderungen,</b> Kommentare oder Fragen</h2> 
+    <p>Wir geben den Kunden die Freiheit die Möbelherstellung sowohl von uns, als auch von eigenen Arbeitern erbringen zu lassen.</p>
+    <div class="checkitem">
+      <input id="furniture-1" type="radio" value="Sie möchten Acherno  mit der Möbelfertigung beauftragen" name="furniture[]">
+      <label class="label" for="furniture-1">Sie möchten Acherno <b>mit der Möbelfertigung beauftragen</b></label>
+    </div>
+    <div class="checkitem">
+      <input id="furniture-2" type="radio" value="Die Möbel werden von einem anderen Unternehmen gefertigt" name="furniture[]">
+      <label class="label" for="furniture-2">Die Möbel werden <b>von einem anderen Unternehmen gefertigt</b></label>
+    </div>
+  </div>
+</div>
+
+<div class="important" id="user-info">
+  <h2><b>Kontaktdaten</b></h2>
+  <p>Das Ausfüllen aller Felder ist verpflichtend um eine erfolgreiche Anfrage versenden zu können. Um eine Zusammenarbeit zu starten, müssen Sie uns eine Anfrage mit den erforderlichen Informationen senden.</p>
+  <ul>
+    <li>
+      <label class="details">Name</label>
+      <input type="text" name="name" size="20">
+    </li>
+    <li>
+      <label class="details">Telefon</label>
+      <input type="text" name="phone" size="20">
+    </li>
+    <li>
+      <label class="details">E-Mail</label>
+      <input type="email" name="from" size="20">
+    </li>
+    <li>
+      <label class="details">Adresse</label>
+      <input type="text" name="city" size="20">
+    </li>
+  </ul>
+  <p>Wenn Sie diese Informationen nicht oder nur mit teilweise haben, können wir eine direkte Besichtigung vor Ort mit Ihnen vereinbaren</p>
+  <a class="additional visible" href="#comments">Zusätzliche Kommentare und Anforderungen</a>
+  <textarea id="comments" name="comments"></textarea>
+  <div><input type="submit" class="submit" value="Senden Sie eine Anfrage"></div>
+</div>
