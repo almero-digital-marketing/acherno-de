@@ -1,0 +1,75 @@
+<h1>Retail design</h1>
+
+<h2>Kontaktinformationen</h2>
+<p>
+Von: <strong>{{ name }}</strong><br>
+Telefon: <strong>{{ phone }}</strong><br>
+E-Mail: <strong>{{ from }}</strong><br>
+Datum: <strong>{{moment date "DD.MM.YYYY"}}</strong>
+</p>
+
+<h2>Informationen für des Objektes</h2>
+<p>
+Zweck: <strong>{{ purpose }}</strong><br>
+Ein weiterer Zweck: <strong>{{ purpose-other }}</strong><br>
+Quadratur: <strong>{{ area }}m2</strong><br>
+Stadt: <strong>{{ city }}</strong>
+</p>
+
+<h2>Beschaffenheit der Objekte</h2>
+<ul>
+    {{#architecture}}{{#if .}}<li>{{.}}</li>{{/if}}{{/architecture}}
+</ul>
+
+<h2>Aktuellen Zustand der Objekte</h2>
+<ul>
+    {{#condition}}{{#if .}}<li>{{.}}</li>{{/if}}{{/condition}}
+    {{#keep}}{{#if .}}<li>{{.}}</li>{{/if}}{{/keep}}
+</ul>
+
+<h2>Aktuellen Fotos und Skizzen der Objekte</h2>
+{{#if files.length}}
+<ol>
+    {{#files}}
+    <li>
+        <a href="{{.}}">{{#last (split . "/")}}{{.}}{{/last}}</a>
+    </li>
+    {{/files}}
+</ol>
+{{/if}}
+
+<h2>Die gesuchte Vision</h2>
+<ul>
+    {{#style}}{{#if .}}<li>{{.}}</li>{{/if}}{{/style}}
+</ul>
+
+<h2>Veränderungen der Anlagen und Verteilungen</h2>
+<ul>
+    {{#layout}}{{#if .}}<li>{{.}}</li>{{/if}}{{/layout}}
+</ul>
+
+<h2>Reparatur und Umbau</h2>
+<ul>
+    {{#construction}}{{#if .}}<li>{{.}}</li>{{/if}}{{/construction}}
+</ul>
+
+<h2>Möbel und Einrichtung</h2>
+<ul>
+    {{#furniture}}{{#if .}}<li>{{.}}</li>{{/if}}{{/furniture}}
+</ul>
+
+<h2>Zusätzliche Kommentare und Anforderungen</h2>
+<p>{{ comments }}</p>
+<hr>
+<h1>Analytics</h1>
+<p>
+Sitzungen: <strong>{{ visits }}</strong><br>
+Übersicht: <strong>{{ pages }}</strong>
+</p>
+<h2>Alle Sitzungen</h2>
+<p>{{ history }}</p>
+<h2>Kontaktinformationen</h2>
+<p>
+Land: <strong>{{ ipcountry }}</strong><br>
+Ort: <strong>{{ ipcity }}</strong><br>
+</p>
