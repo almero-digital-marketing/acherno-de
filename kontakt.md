@@ -3,7 +3,7 @@ layout: /web/contacts.ect
 href: '/web/contacts'
 title: '(Kontakt)'
 subtitle: 'Von der Planung bis zur Umsetzung'
-description: ''
+description: 'Acherno übernimmt Projekte für ganz Deutschland.Sollten Sie Interesse daran haben, uns persönlich zu treffen und einen Termin vor Ort zu vereinbaren, bitte , wenden Sie sich an uns und schreiben Sie uns zuerst eine Anfrage über Email oder Telefon.'
 offices:
   -
     tag: germany
@@ -18,3 +18,4 @@ offices:
       email: 'jobs@acherno.com'
     gps: '50.168892, 8.64134230000002'
 ---
+Acherno übernimmt Projekte für ganz Deutschland.Sollten Sie Interesse daran haben, uns persönlich zu treffen und einen Termin vor Ort zu vereinbaren, bitte , wenden Sie sich an uns und schreiben Sie uns zuerst eine Anfrage über Email oder Telefon.
