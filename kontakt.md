@@ -11,7 +11,7 @@ offices:
     address: 'Sebastian-Kneipp-Str. 41, | 60439 (Frankfurt am Main)'
     design: 
       phone: '(+359 878 545 309)'
-      email: 'interior@acherno.com'
+      email: 'innenarchitektur@acherno.com'
     marketing: 
       email: 'marketing@acherno.com'
     jobs: 
