@@ -1,7 +1,7 @@
 ---
 layout: /web/price.ect
 href: '/web/price'
-title: '[Anfrage] (Projektpreis)'
+title: 'Preisanfrage'
 subtitle: 'Für Wohnung design oder Retail design'
 description: 'Füllen die das Formular aus. Nach 5 Werktagen erhalten Sie ein schriftliches Angebot zurück. Das Angebot beinhaltet die Kosten für eine Objektbesichtigung zur genauen Abmessung und Erarbeitung des Ideen- und Ausführungsprojektes.'
 ---
