@@ -16,7 +16,7 @@ youtube:
 facebook:
   title: '(Finde uns bei) [Facebook.com]'
   description: 'Kommentiere unsere Projekte oder lass dich von aktuellen Bildern aus internationalen Interior Design Ausstellungen inspirieren.'
-  url: 'http://www.facebook.com/acherno.interior.design'
+  url: 'http://www.facebook.com/acherno.design'
 copyright:
   acherno: '(Acherno) GmbH © 2007-2016|(Alle Rechte vorbehalten)'
   almero: 
